@@ -1,0 +1,1755 @@
+﻿DATA DA NOTIFICAÇÃO;DATA DOS PRIMEIROS SINTOMAS;BAIRRO DE RESIDÊNCIA;SEXO;classificacao;IDADE (anos);CRITÉRIO DE CONFIRMAÇÃO;LOCAL DE INFECÇÃO;EVOLUÇÃO
+2024-12-30;2024-12-29;CIC (2);F;Confirmado;28;Clínico Epidemiológico;Autóctone;Cura
+2024-12-30;2024-12-29;PINHEIRINHO1;F;Confirmado;22;Clínico Epidemiológico;Importado;Cura
+2024-12-30;2024-12-29;SANTO INACIO;F;Confirmado;31;Laboratório;Importado;Cura
+2024-12-30;2024-12-30;CIC (2);M;Confirmado;17;Clínico Epidemiológico;Autóctone;Cura
+2024-12-31;2024-12-30;CIC (2);M;Confirmado;20;Clínico Epidemiológico;Autóctone;Cura
+2025-01-01;2024-12-29;CIC (2);M;Confirmado;43;Clínico Epidemiológico;Importado;Cura
+2025-01-01;2024-12-29;NOVO MUNDO;F;Confirmado;32;Clínico Epidemiológico;Importado;Cura
+2025-01-01;2024-12-31;CIC (2);M;Confirmado;31;Clínico Epidemiológico;Importado;Cura
+2025-01-01;2025-01-01;CAJURU;M;Confirmado;38;Clínico Epidemiológico;Importado;Cura
+2025-01-02;2025-01-01;CAJURU;M;Confirmado;30;Clínico Epidemiológico;Autóctone;Cura
+2025-01-02;2025-01-01;SITIO CERCADO;M;Confirmado;30;Laboratório;Importado;Cura
+2025-01-02;2025-01-02;CIC (2);M;Confirmado;34;Clínico Epidemiológico;Importado;Cura
+2025-01-03;2024-12-30;CAJURU;M;Confirmado;34;Clínico Epidemiológico;Importado;Cura
+2025-01-03;2024-12-30;SANTA FELICIDADE;M;Confirmado;37;Laboratório;Importado;Cura
+2025-01-03;2024-12-31;BOQUEIRAO;F;Confirmado;18;Clínico Epidemiológico;Importado;Cura
+2025-01-03;2025-01-02;CAJURU;F;Confirmado;10;Clínico Epidemiológico;Importado;Cura
+2025-01-04;2025-01-02;SITIO CERCADO;M;Confirmado;15;Clínico Epidemiológico;Importado;Cura
+2025-01-04;2025-01-03;CIC (2);F;Confirmado;20;Clínico Epidemiológico;Importado;Cura
+2025-01-04;2025-01-03;PINHEIRINHO1;F;Confirmado;50;Clínico Epidemiológico;Importado;Cura
+2025-01-05;2025-01-03;SANTO INACIO;M;Confirmado;2;Laboratório;Importado;Cura
+2025-01-05;2025-01-03;UBERABA;M;Confirmado;26;Clínico Epidemiológico;Importado;Cura
+2025-01-05;2025-01-05;CAJURU;M;Confirmado;24;Clínico Epidemiológico;Autóctone;Cura
+2025-01-06;2025-01-01;CAJURU;F;Confirmado;47;Clínico Epidemiológico;Importado;Cura
+2025-01-06;2025-01-01;XAXIM;F;Confirmado;50;Laboratório;Importado;Cura
+2025-01-06;2025-01-01;XAXIM;M;Confirmado;64;Laboratório;Importado;Cura
+2025-01-06;2025-01-02;CAMPO DE SANTANA;M;Confirmado;14;Clínico Epidemiológico;Importado;Cura
+2025-01-06;2025-01-05;CIC (2);F;Confirmado;28;Clínico Epidemiológico;Importado;Cura
+2025-01-07;2024-12-30;SANTA FELICIDADE;F;Confirmado;67;Laboratório;Importado;Cura
+2025-01-07;2025-01-01;LINDOIA;M;Confirmado;25;Clínico Epidemiológico;Autóctone;Cura
+2025-01-07;2025-01-03;BOQUEIRAO;F;Confirmado;22;Clínico Epidemiológico;Importado;Cura
+2025-01-07;2025-01-04;CAJURU;M;Confirmado;32;Clínico Epidemiológico;Importado;Cura
+2025-01-07;2025-01-04;FAZENDINHA;F;Confirmado;32;Clínico Epidemiológico;Importado;Cura
+2025-01-07;2025-01-04;SITIO CERCADO;M;Confirmado;14;Clínico Epidemiológico;Importado;Cura
+2025-01-07;2025-01-04;UMBARA;M;Confirmado;22;Clínico Epidemiológico;Importado;Cura
+2025-01-07;2025-01-05;GUABIROTUBA;M;Confirmado;39;Clínico Epidemiológico;Importado;Cura
+2025-01-07;2025-01-06;SANTA CANDIDA;F;Confirmado;15;Clínico Epidemiológico;Importado;Cura
+2025-01-07;2025-01-07;ALTO BOQUEIRAO;F;Confirmado;20;Clínico Epidemiológico;Importado;Cura
+2025-01-08;2025-01-02;CRISTO REI;F;Confirmado;69;Laboratório;Importado;Cura
+2025-01-08;2025-01-03;BAIRRO ALTO;M;Confirmado;30;Laboratório;Importado;Cura
+2025-01-08;2025-01-05;BOA VISTA;M;Confirmado;57;Laboratório;Importado;Cura
+2025-01-08;2025-01-07;BAIRRO ALTO;F;Confirmado;20;Laboratório;Importado;Cura
+2025-01-08;2025-01-07;CAJURU;F;Confirmado;29;Clínico Epidemiológico;Autóctone;Cura
+2025-01-08;2025-01-07;CAJURU;F;Confirmado;59;Laboratório;Autóctone;Cura
+2025-01-08;2025-01-08;GUABIROTUBA;F;Confirmado;26;Clínico Epidemiológico;Autóctone;Cura
+2025-01-08;2025-01-08;SANTA CANDIDA;F;Confirmado;62;Clínico Epidemiológico;Importado;Cura
+2025-01-09;2025-01-06;PINHEIRINHO;F;Confirmado;72;Laboratório;Importado;Cura
+2025-01-09;2025-01-07;NOVO MUNDO;F;Confirmado;37;Clínico Epidemiológico;Autóctone;Cura
+2025-01-09;2025-01-09;CAJURU;F;Confirmado;27;Clínico Epidemiológico;Autóctone;Cura
+2025-01-09;2025-01-09;CAJURU;M;Confirmado;52;Clínico Epidemiológico;Autóctone;Cura
+2025-01-10;2025-01-06;CASCATINHA;F;Confirmado;27;Laboratório;Importado;Cura
+2025-01-10;2025-01-07;SITIO CERCADO;F;Confirmado;28;Laboratório;Autóctone;Cura
+2025-01-10;2025-01-07;SITIO CERCADO;F;Confirmado;33;Clínico Epidemiológico;Importado;Cura
+2025-01-10;2025-01-09;ALTO BOQUEIRAO;F;Confirmado;10;Laboratório;Importado;Cura
+2025-01-10;2025-01-09;BOQUEIRAO;F;Confirmado;17;Clínico Epidemiológico;Autóctone;Cura
+2025-01-10;2025-01-09;CAJURU;F;Confirmado;55;Clínico Epidemiológico;Autóctone;Cura
+2025-01-10;2025-01-10;CIC (2);M;Confirmado;28;Clínico Epidemiológico;Autóctone;Cura
+2025-01-13;2025-01-09;BUTIATUVINHA;F;Confirmado;48;Laboratório;Importado;Cura
+2025-01-13;2025-01-12;XAXIM;M;Confirmado;31;Laboratório;Autóctone;Cura
+2025-01-14;2025-01-03;CACHOEIRA;M;Confirmado;14;Laboratório;Importado;Cura
+2025-01-14;2025-01-03;CAPAO RASO;M;Confirmado;35;Laboratório;Importado;Cura
+2025-01-14;2025-01-05;AGUA VERDE;F;Confirmado;68;Laboratório;Importado;Cura
+2025-01-14;2025-01-08;CENTRO;F;Confirmado;32;Laboratório;Importado;Cura
+2025-01-14;2025-01-12;PORTAO;M;Confirmado;35;Clínico Epidemiológico;Autóctone;Cura
+2025-01-14;2025-01-12;UMBARA;M;Confirmado;51;Laboratório;Autóctone;Cura
+2025-01-14;2025-01-13;CIC (2);M;Confirmado;27;Clínico Epidemiológico;Autóctone;Cura
+2025-01-15;2025-01-02;BOA VISTA;F;Confirmado;45;Clínico Epidemiológico;Importado;Cura
+2025-01-15;2025-01-10;NOVO MUNDO;F;Confirmado;15;Clínico Epidemiológico;Importado;Cura
+2025-01-15;2025-01-13;CIC (2);F;Confirmado;39;Clínico Epidemiológico;Importado;Cura
+2025-01-16;2025-01-11;UBERABA;M;Confirmado;40;Laboratório;Autóctone;Cura
+2025-01-16;2025-01-14;BOQUEIRAO;F;Confirmado;29;Laboratório;Autóctone;Cura
+2025-01-18;2025-01-18;CAJURU;F;Confirmado;21;Clínico Epidemiológico;Autóctone;Cura
+2025-01-19;2025-01-18;PINHEIRINHO;M;Confirmado;24;Clínico Epidemiológico;Importado;Cura
+2025-01-19;2025-01-18;SITIO CERCADO;M;Confirmado;11;Clínico Epidemiológico;Importado;Cura
+2025-01-20;2025-01-19;CAJURU;F;Confirmado;9;Clínico Epidemiológico;Autóctone;Cura
+2025-01-20;2025-01-19;SITIO CERCADO;M;Confirmado;29;Clínico Epidemiológico;Importado;Cura
+2025-01-20;2025-01-19;UBERABA;F;Confirmado;29;Clínico Epidemiológico;Autóctone;Cura
+2025-01-20;2025-01-20;CAPAO RASO;F;Confirmado;57;Clínico Epidemiológico;Importado;Cura
+2025-01-21;2025-01-11;UBERABA1;F;Confirmado;20;Clínico Epidemiológico;Autóctone;Cura
+2025-01-21;2025-01-17;TINGUI;F;Confirmado;59;Laboratório;Autóctone;Cura
+2025-01-21;2025-01-20;UMBARA;M;Confirmado;25;Laboratório;Autóctone;Cura
+2025-01-22;2025-01-19;CAJURU;F;Confirmado;35;Clínico Epidemiológico;Autóctone;Cura
+2025-01-22;2025-01-19;JARDIM DAS AMERICAS;M;Confirmado;47;Clínico Epidemiológico;Importado;Cura
+2025-01-22;2025-01-19;UBERABA;M;Confirmado;28;Clínico Epidemiológico;Autóctone;Cura
+2025-01-22;2025-01-22;CAJURU;M;Confirmado;33;Clínico Epidemiológico;Autóctone;Cura
+2025-01-22;2025-01-22;SITIO CERCADO;F;Confirmado;18;Clínico Epidemiológico;Autóctone;Cura
+2025-01-23;2025-01-22;GUABIROTUBA;F;Confirmado;10;Laboratório;Importado;Cura
+2025-01-23;2025-01-22;PORTAO;F;Confirmado;78;Laboratório;Autóctone;Cura
+2025-01-24;2025-01-18;CAPAO RASO;F;Confirmado;58;Clínico Epidemiológico;Importado;Cura
+2025-01-24;2025-01-24;ALTO BOQUEIRAO;F;Confirmado;26;Laboratório;Importado;Cura
+2025-01-24;2025-01-24;CAJURU;M;Confirmado;68;Clínico Epidemiológico;Autóctone;Cura
+2025-01-24;2025-01-24;JARDIM SOCIAL;F;Confirmado;68;Laboratório;Importado;Cura
+2025-01-24;2025-01-24;SITIO CERCADO;M;Confirmado;14;Laboratório;Autóctone;Cura
+2025-01-25;2025-01-22;CAJURU;M;Confirmado;31;Clínico Epidemiológico;Autóctone;Cura
+2025-01-26;2025-01-20;ALTO BOQUEIRAO;F;Confirmado;41;Clínico Epidemiológico;Autóctone;Cura
+2025-01-26;2025-01-23;TATUQUARA;F;Confirmado;13;Laboratório;Autóctone;Cura
+2025-01-26;2025-01-25;CAJURU;F;Confirmado;32;Clínico Epidemiológico;Autóctone;Cura
+2025-01-26;2025-01-26;UBERABA;M;Confirmado;16;Clínico Epidemiológico;Importado;Cura
+2025-01-27;2025-01-20;CIC (2);M;Confirmado;62;Laboratório;Importado;Cura
+2025-01-27;2025-01-23;CENTRO;M;Confirmado;22;Clínico Epidemiológico;Importado;Cura
+2025-01-27;2025-01-26;CIC (2);F;Confirmado;23;Clínico Epidemiológico;Importado;Cura
+2025-01-28;2025-01-20;JARDIM DAS AMERICAS;F;Confirmado;21;Laboratório;Importado;Cura
+2025-01-28;2025-01-25;CAJURU;F;Confirmado;42;Clínico Epidemiológico;Autóctone;Cura
+2025-01-28;2025-01-26;CIC (2);F;Confirmado;14;Laboratório;Importado;Cura
+2025-01-28;2025-01-26;MERCES;F;Confirmado;39;Clínico Epidemiológico;Importado;Cura
+2025-01-28;2025-01-28;UBERABA;M;Confirmado;34;Clínico Epidemiológico;Autóctone;Cura
+2025-01-29;2025-01-27;REBOUCAS;M;Confirmado;47;Clínico Epidemiológico;Importado;Cura
+2025-01-30;2025-01-23;UBERABA;F;Confirmado;54;Clínico Epidemiológico;Autóctone;Cura
+2025-01-30;2025-01-27;CIC (2);M;Confirmado;59;Laboratório;Importado;Cura
+2025-01-30;2025-01-30;SITIO CERCADO;F;Confirmado;59;Clínico Epidemiológico;Autóctone;Cura
+2025-01-31;2025-01-24;UMBARA1;M;Confirmado;48;Clínico Epidemiológico;Importado;Cura
+2025-01-31;2025-01-30;CAJURU;F;Confirmado;29;Laboratório;Importado;Cura
+2025-02-01;2025-01-01;CIC (2);M;Confirmado;47;Clínico Epidemiológico;Importado;Cura
+2025-02-01;2025-01-29;XAXIM;M;Confirmado;27;Clínico Epidemiológico;Autóctone;Cura
+2025-02-01;2025-02-01;CAJURU;F;Confirmado;22;Clínico Epidemiológico;Autóctone;Cura
+2025-02-03;2025-01-26;AGUA VERDE;F;Confirmado;64;Clínico Epidemiológico;Importado;Cura
+2025-02-03;2025-01-26;MOSSUNGUE;F;Confirmado;45;Clínico Epidemiológico;Importado;Cura
+2025-02-03;2025-01-31;CAJURU;M;Confirmado;35;Clínico Epidemiológico;Autóctone;Cura
+2025-02-03;2025-01-31;TATUQUARA;F;Confirmado;72;Laboratório;Importado;Cura
+2025-02-03;2025-02-02;PINHEIRINHO;F;Confirmado;55;Clínico Epidemiológico;Importado;Cura
+2025-02-04;2025-02-03;XAXIM;M;Confirmado;76;Clínico Epidemiológico;Importado;Cura
+2025-02-04;2025-02-04;CAJURU;F;Confirmado;37;Clínico Epidemiológico;Autóctone;Cura
+2025-02-05;2025-02-01;XAXIM;F;Confirmado;26;Clínico Epidemiológico;Autóctone;Cura
+2025-02-05;2025-02-03;CIC (2);M;Confirmado;25;Laboratório;Autóctone;Cura
+2025-02-05;2025-02-03;SITIO CERCADO;M;Confirmado;60;Clínico Epidemiológico;Importado;Cura
+2025-02-05;2025-02-04;SITIO CERCADO;F;Confirmado;30;Clínico Epidemiológico;Autóctone;Cura
+2025-02-05;2025-02-04;XAXIM;M;Confirmado;19;Clínico Epidemiológico;Importado;Cura
+2025-02-06;2025-02-04;PINHEIRINHO;F;Confirmado;35;Clínico Epidemiológico;Importado;Cura
+2025-02-06;2025-02-05;UMBARA;M;Confirmado;46;Clínico Epidemiológico;Autóctone;Cura
+2025-02-06;2025-02-06;SITIO CERCADO;M;Confirmado;12;Clínico Epidemiológico;Importado;Cura
+2025-02-07;2025-02-03;CAMPO DE SANTANA;F;Confirmado;57;Laboratório;Importado;Cura
+2025-02-07;2025-02-04;CIC (2);M;Confirmado;73;Laboratório;Importado;Cura
+2025-02-07;2025-02-05;CAJURU;M;Confirmado;69;Clínico Epidemiológico;Autóctone;Cura
+2025-02-07;2025-02-07;CAJURU;M;Confirmado;44;Clínico Epidemiológico;Autóctone;Cura
+2025-02-07;2025-02-07;UBERABA;M;Confirmado;23;Clínico Epidemiológico;Autóctone;Cura
+2025-02-07;2025-02-07;UBERABA;M;Confirmado;28;Clínico Epidemiológico;Autóctone;Cura
+2025-02-08;2025-02-05;BACACHERI;F;Confirmado;55;Clínico Epidemiológico;Importado;Cura
+2025-02-08;2025-02-07;SITIO CERCADO;M;Confirmado;48;Laboratório;Autóctone;Cura
+2025-02-08;2025-02-08;BAIRRO ALTO;M;Confirmado;42;Laboratório;Importado;Cura
+2025-02-08;2025-02-08;CAJURU;F;Confirmado;50;Clínico Epidemiológico;Importado;Cura
+2025-02-08;2025-02-08;CAJURU;M;Confirmado;8;Clínico Epidemiológico;Autóctone;Cura
+2025-02-08;2025-02-08;UBERABA;M;Confirmado;40;Clínico Epidemiológico;Autóctone;Cura
+2025-02-09;2025-01-15;SITIO CERCADO;M;Confirmado;54;Laboratório;Importado;Cura
+2025-02-09;2025-02-07;PINHEIRINHO;F;Confirmado;64;Laboratório;Importado;Cura
+2025-02-09;2025-02-08;BAIRRO ALTO;M;Confirmado;34;Clínico Epidemiológico;Autóctone;Cura
+2025-02-09;2025-02-09;CAJURU;M;Confirmado;18;Clínico Epidemiológico;Autóctone;Cura
+2025-02-09;2025-02-09;PINHEIRINHO;M;Confirmado;12;Laboratório;Autóctone;Cura
+2025-02-10;2025-02-02;MERCES;M;Confirmado;9;Clínico Epidemiológico;Autóctone;Cura
+2025-02-10;2025-02-03;UBERABA;F;Confirmado;32;Clínico Epidemiológico;Autóctone;Cura
+2025-02-10;2025-02-07;CAJURU;M;Confirmado;76;Clínico Epidemiológico;Importado;Cura
+2025-02-10;2025-02-07;HAUER;M;Confirmado;14;Clínico Epidemiológico;Autóctone;Cura
+2025-02-10;2025-02-07;HAUER;M;Confirmado;14;Laboratório;Autóctone;Cura
+2025-02-10;2025-02-07;TATUQUARA;F;Confirmado;68;Clínico Epidemiológico;Importado;Cura
+2025-02-10;2025-02-09;ALTO BOQUEIRAO;F;Confirmado;19;Clínico Epidemiológico;Autóctone;Cura
+2025-02-10;2025-02-09;CAJURU;F;Confirmado;43;Clínico Epidemiológico;Autóctone;Cura
+2025-02-10;2025-02-09;CAJURU;M;Confirmado;15;Clínico Epidemiológico;Autóctone;Cura
+2025-02-10;2025-02-09;CAJURU;M;Confirmado;24;Clínico Epidemiológico;Autóctone;Cura
+2025-02-10;2025-02-09;GUABIROTUBA;F;Confirmado;27;Clínico Epidemiológico;Importado;Cura
+2025-02-10;2025-02-09;SITIO CERCADO;F;Confirmado;21;Clínico Epidemiológico;Importado;Cura
+2025-02-10;2025-02-09;TARUMA1;M;Confirmado;41;Clínico Epidemiológico;Importado;Cura
+2025-02-10;2025-02-09;UBERABA;F;Confirmado;53;Clínico Epidemiológico;Autóctone;Cura
+2025-02-10;2025-02-10;CAJURU;F;Confirmado;8;Clínico Epidemiológico;Importado;Cura
+2025-02-10;2025-02-10;CAJURU;M;Confirmado;25;Clínico Epidemiológico;Importado;Cura
+2025-02-10;2025-02-10;CAPAO DA IMBUIA;M;Confirmado;36;Clínico Epidemiológico;Importado;Cura
+2025-02-10;2025-02-10;UMBARA;M;Confirmado;41;Laboratório;Autóctone;Cura
+2025-02-10;2025-02-10;XAXIM;F;Confirmado;75;Laboratório;Importado;Cura
+2025-02-11;2025-02-06;CAJURU;M;Confirmado;25;Clínico Epidemiológico;Importado;Cura
+2025-02-11;2025-02-08;UBERABA;M;Confirmado;12;Laboratório;Importado;Cura
+2025-02-11;2025-02-09;CENTRO;F;Confirmado;15;Clínico Epidemiológico;Importado;Cura
+2025-02-11;2025-02-09;SITIO CERCADO;M;Confirmado;38;Clínico Epidemiológico;Importado;Cura
+2025-02-11;2025-02-09;UBERABA;F;Confirmado;47;Clínico Epidemiológico;Autóctone;Cura
+2025-02-11;2025-02-10;AGUA VERDE;M;Confirmado;61;Laboratório;Autóctone;Cura
+2025-02-11;2025-02-10;BAIRRO ALTO;F;Confirmado;18;Laboratório;Autóctone;Cura
+2025-02-11;2025-02-10;FAZENDINHA;F;Confirmado;13;Clínico Epidemiológico;Autóctone;Cura
+2025-02-11;2025-02-10;SITIO CERCADO;M;Confirmado;21;Clínico Epidemiológico;Autóctone;Cura
+2025-02-11;2025-02-10;SITIO CERCADO;M;Confirmado;29;Clínico Epidemiológico;Importado;Cura
+2025-02-11;2025-02-11;CIC (2);F;Confirmado;12;Clínico Epidemiológico;Importado;Cura
+2025-02-11;2025-02-11;SANTA QUITERIA;M;Confirmado;37;Laboratório;Autóctone;Cura
+2025-02-11;2025-02-11;UBERABA;F;Confirmado;49;Clínico Epidemiológico;Autóctone;Cura
+2025-02-11;2025-02-11;UMBARA;M;Confirmado;39;Clínico Epidemiológico;Importado;Cura
+2025-02-12;2025-02-06;CIC (2);M;Confirmado;18;Laboratório;Importado;Cura
+2025-02-12;2025-02-08;CAMPO COMPRIDO (2);F;Confirmado;48;Clínico Epidemiológico;Importado;Cura
+2025-02-12;2025-02-10;PINHEIRINHO;F;Confirmado;35;Clínico Epidemiológico;Importado;Cura
+2025-02-12;2025-02-10;SITIO CERCADO;F;Confirmado;2;Clínico Epidemiológico;Autóctone;Cura
+2025-02-12;2025-02-10;SITIO CERCADO;F;Confirmado;20;Clínico Epidemiológico;Autóctone;Cura
+2025-02-12;2025-02-11;CAJURU;M;Confirmado;30;Clínico Epidemiológico;Autóctone;Cura
+2025-02-12;2025-02-11;SITIO CERCADO;M;Confirmado;24;Clínico Epidemiológico;Importado;Cura
+2025-02-12;2025-02-11;UBERABA;M;Confirmado;28;Clínico Epidemiológico;Autóctone;Cura
+2025-02-12;2025-02-11;XAXIM;F;Confirmado;5;Laboratório;Autóctone;Cura
+2025-02-12;2025-02-12;CAJURU;F;Confirmado;29;Clínico Epidemiológico;Importado;Cura
+2025-02-12;2025-02-12;CAJURU;F;Confirmado;43;Clínico Epidemiológico;Autóctone;Cura
+2025-02-12;2025-02-12;FAZENDINHA;F;Confirmado;46;Clínico Epidemiológico;Autóctone;Cura
+2025-02-12;2025-02-12;TARUMA1;F;Confirmado;41;Clínico Epidemiológico;Autóctone;Cura
+2025-02-12;2025-02-12;UBERABA;F;Confirmado;39;Clínico Epidemiológico;Autóctone;Cura
+2025-02-13;2025-02-05;NOVO MUNDO;F;Confirmado;27;Clínico Epidemiológico;Autóctone;Cura
+2025-02-13;2025-02-08;UBERABA;M;Confirmado;62;Clínico Epidemiológico;Importado;Cura
+2025-02-13;2025-02-10;SITIO CERCADO;F;Confirmado;33;Clínico Epidemiológico;Autóctone;Cura
+2025-02-13;2025-02-10;TATUQUARA;F;Confirmado;27;Laboratório;Importado;Cura
+2025-02-13;2025-02-11;PORTAO;M;Confirmado;45;Clínico Epidemiológico;Importado;Cura
+2025-02-13;2025-02-11;SITIO CERCADO;M;Confirmado;6;Clínico Epidemiológico;Importado;Cura
+2025-02-13;2025-02-12;BARREIRINHA;M;Confirmado;15;Clínico Epidemiológico;Autóctone;Cura
+2025-02-13;2025-02-13;SITIO CERCADO;F;Confirmado;34;Clínico Epidemiológico;Importado;Cura
+2025-02-13;2025-02-13;UBERABA;M;Confirmado;55;Clínico Epidemiológico;Autóctone;Cura
+2025-02-14;2025-02-11;GUAIRA;F;Confirmado;28;Clínico Epidemiológico;Importado;Cura
+2025-02-14;2025-02-13;CAJURU;M;Confirmado;37;Clínico Epidemiológico;Autóctone;Cura
+2025-02-14;2025-02-13;PORTAO;F;Confirmado;20;Laboratório;Importado;Cura
+2025-02-14;2025-02-14;CAJURU;F;Confirmado;21;Clínico Epidemiológico;Autóctone;Cura
+2025-02-14;2025-02-14;CAJURU;M;Confirmado;35;Clínico Epidemiológico;Autóctone;Cura
+2025-02-14;2025-02-14;CAJURU;M;Confirmado;53;Laboratório;Autóctone;Cura
+2025-02-14;2025-02-14;SITIO CERCADO;M;Confirmado;38;Clínico Epidemiológico;Autóctone;Cura
+2025-02-14;2025-02-14;UBERABA;M;Confirmado;54;Clínico Epidemiológico;Autóctone;Cura
+2025-02-15;2025-02-11;NOVO MUNDO;F;Confirmado;30;Clínico Epidemiológico;Importado;Cura
+2025-02-15;2025-02-13;CAJURU;M;Confirmado;17;Clínico Epidemiológico;Autóctone;Cura
+2025-02-15;2025-02-13;FAZENDINHA;M;Confirmado;60;Clínico Epidemiológico;Autóctone;Cura
+2025-02-15;2025-02-13;UMBARA;F;Confirmado;30;Clínico Epidemiológico;Importado;Cura
+2025-02-15;2025-02-14;CAJURU;M;Confirmado;42;Clínico Epidemiológico;Autóctone;Cura
+2025-02-15;2025-02-15;FAZENDINHA;F;Confirmado;32;Clínico Epidemiológico;Autóctone;Cura
+2025-02-16;2025-02-13;PORTAO;M;Confirmado;48;Clínico Epidemiológico;Autóctone;Cura
+2025-02-16;2025-02-15;SITIO CERCADO;F;Confirmado;44;Clínico Epidemiológico;Importado;Cura
+2025-02-16;2025-02-16;BOQUEIRAO1;F;Confirmado;57;Clínico Epidemiológico;Autóctone;Cura
+2025-02-16;2025-02-16;CIC (2);M;Confirmado;14;Laboratório;Importado;Cura
+2025-02-17;2025-02-06;CENTRO;F;Confirmado;86;Laboratório;Importado;Cura
+2025-02-17;2025-02-14;NOVO MUNDO;F;Confirmado;71;Laboratório;Autóctone;Cura
+2025-02-17;2025-02-15;CAJURU;F;Confirmado;52;Clínico Epidemiológico;Autóctone;Cura
+2025-02-17;2025-02-16;SANTA QUITERIA;M;Confirmado;30;Laboratório;Autóctone;Cura
+2025-02-17;2025-02-16;SITIO CERCADO;M;Confirmado;38;Laboratório;Importado;Cura
+2025-02-17;2025-02-17;ALTO BOQUEIRAO;M;Confirmado;52;Clínico Epidemiológico;Autóctone;Cura
+2025-02-17;2025-02-17;CAJURU;M;Confirmado;50;Laboratório;Autóctone;Cura
+2025-02-17;2025-02-17;CIC (2);F;Confirmado;22;Clínico Epidemiológico;Autóctone;Cura
+2025-02-17;2025-02-17;PINHEIRINHO;M;Confirmado;38;Clínico Epidemiológico;Importado;Cura
+2025-02-17;2025-02-17;UBERABA;M;Confirmado;45;Clínico Epidemiológico;Autóctone;Cura
+2025-02-18;2025-02-09;CAJURU;F;Confirmado;71;Clínico Epidemiológico;Autóctone;Cura
+2025-02-18;2025-02-11;SITIO CERCADO;F;Confirmado;35;Clínico Epidemiológico;Importado;Cura
+2025-02-18;2025-02-14;TATUQUARA;F;Confirmado;39;Laboratório;Autóctone;Cura
+2025-02-18;2025-02-15;FAZENDINHA;M;Confirmado;21;Laboratório;Importado;Cura
+2025-02-18;2025-02-17;PINHEIRINHO;M;Confirmado;35;Clínico Epidemiológico;Importado;Cura
+2025-02-18;2025-02-17;PINHEIRINHO;M;Confirmado;41;Clínico Epidemiológico;Autóctone;Cura
+2025-02-18;2025-02-18;CAJURU;F;Confirmado;16;Clínico Epidemiológico;Autóctone;Cura
+2025-02-18;2025-02-18;UBERABA;M;Confirmado;36;Clínico Epidemiológico;Importado;Cura
+2025-02-18;2025-02-18;UBERABA;M;Confirmado;51;Clínico Epidemiológico;Autóctone;Cura
+2025-02-19;2025-02-08;CAJURU;M;Confirmado;60;Clínico Epidemiológico;Importado;Cura
+2025-02-19;2025-02-15;ALTO BOQUEIRAO;M;Confirmado;6;Clínico Epidemiológico;Autóctone;Cura
+2025-02-19;2025-02-16;SITIO CERCADO;M;Confirmado;40;Clínico Epidemiológico;Importado;Cura
+2025-02-19;2025-02-17;CIC (2);M;Confirmado;35;Clínico Epidemiológico;Autóctone;Cura
+2025-02-19;2025-02-17;FAZENDINHA;F;Confirmado;32;Clínico Epidemiológico;Autóctone;Cura
+2025-02-19;2025-02-18;ALTO BOQUEIRAO;M;Confirmado;13;Clínico Epidemiológico;Autóctone;Cura
+2025-02-19;2025-02-18;BOQUEIRAO;M;Confirmado;45;Clínico Epidemiológico;Autóctone;Cura
+2025-02-19;2025-02-18;CAJURU;M;Confirmado;14;Clínico Epidemiológico;Autóctone;Cura
+2025-02-19;2025-02-18;CAPAO RASO;F;Confirmado;38;Laboratório;Autóctone;Cura
+2025-02-19;2025-02-18;SITIO CERCADO;F;Confirmado;44;Laboratório;Importado;Cura
+2025-02-19;2025-02-19;CAJURU;F;Confirmado;13;Clínico Epidemiológico;Autóctone;Cura
+2025-02-19;2025-02-19;CAJURU;M;Confirmado;56;Clínico Epidemiológico;Autóctone;Cura
+2025-02-19;2025-02-19;FAZENDINHA;M;Confirmado;31;Clínico Epidemiológico;Autóctone;Cura
+2025-02-19;2025-02-19;UBERABA;M;Confirmado;29;Clínico Epidemiológico;Autóctone;Cura
+2025-02-20;2025-02-16;BAIRRO ALTO;F;Confirmado;58;Clínico Epidemiológico;Importado;Cura
+2025-02-20;2025-02-16;SITIO CERCADO;F;Confirmado;2;Laboratório;Autóctone;Cura
+2025-02-20;2025-02-17;CIC (2);F;Confirmado;49;Laboratório;Autóctone;Cura
+2025-02-20;2025-02-17;ORLEANS;F;Confirmado;38;Clínico Epidemiológico;Importado;Cura
+2025-02-20;2025-02-17;UBERABA;M;Confirmado;33;Clínico Epidemiológico;Autóctone;Cura
+2025-02-20;2025-02-18;CAJURU;M;Confirmado;45;Laboratório;Autóctone;Cura
+2025-02-20;2025-02-18;SITIO CERCADO;M;Confirmado;27;Clínico Epidemiológico;Importado;Cura
+2025-02-20;2025-02-19;GUAIRA;F;Confirmado;35;Clínico Epidemiológico;Importado;Cura
+2025-02-20;2025-02-20;CAJURU;M;Confirmado;37;Clínico Epidemiológico;Autóctone;Cura
+2025-02-20;2025-02-20;CAPAO DA IMBUIA;F;Confirmado;52;Clínico Epidemiológico;Autóctone;Cura
+2025-02-20;2025-02-20;PINHEIRINHO;M;Confirmado;39;Clínico Epidemiológico;Autóctone;Cura
+2025-02-20;2025-02-20;SITIO CERCADO;F;Confirmado;4;Laboratório;Autóctone;Cura
+2025-02-20;2025-02-20;SITIO CERCADO;M;Confirmado;24;Clínico Epidemiológico;Autóctone;Cura
+2025-02-20;2025-02-20;TATUQUARA;M;Confirmado;13;Clínico Epidemiológico;Autóctone;Cura
+2025-02-20;2025-02-20;UBERABA;M;Confirmado;25;Clínico Epidemiológico;Autóctone;Cura
+2025-02-21;2025-02-14;SITIO CERCADO;F;Confirmado;22;Clínico Epidemiológico;Importado;Cura
+2025-02-21;2025-02-17;SITIO CERCADO;F;Confirmado;31;Laboratório;Autóctone;Cura
+2025-02-21;2025-02-18;CAJURU;M;Confirmado;20;Clínico Epidemiológico;Autóctone;Cura
+2025-02-21;2025-02-19;NOVO MUNDO;F;Confirmado;45;Clínico Epidemiológico;Autóctone;Cura
+2025-02-21;2025-02-20;CACHOEIRA;F;Confirmado;34;Clínico Epidemiológico;Importado;Cura
+2025-02-21;2025-02-20;UBERABA;M;Confirmado;34;Clínico Epidemiológico;Autóctone;Cura
+2025-02-21;2025-02-21;CAJURU;M;Confirmado;53;Clínico Epidemiológico;Autóctone;Cura
+2025-02-21;2025-02-21;FAZENDINHA;F;Confirmado;24;Clínico Epidemiológico;Autóctone;Cura
+2025-02-21;2025-02-21;SITIO CERCADO;F;Confirmado;23;Clínico Epidemiológico;Autóctone;Cura
+2025-02-21;2025-02-21;UBERABA;F;Confirmado;5;Clínico Epidemiológico;Autóctone;Cura
+2025-02-21;2025-02-21;UBERABA;F;Confirmado;37;Clínico Epidemiológico;Autóctone;Cura
+2025-02-21;2025-02-21;UBERABA;F;Confirmado;62;Clínico Epidemiológico;Autóctone;Cura
+2025-02-22;2025-02-17;UBERABA1;F;Confirmado;21;Clínico Epidemiológico;Autóctone;Cura
+2025-02-22;2025-02-19;NOVO MUNDO;F;Confirmado;73;Clínico Epidemiológico;Importado;Cura
+2025-02-22;2025-02-19;SITIO CERCADO;M;Confirmado;25;Clínico Epidemiológico;Importado;Cura
+2025-02-22;2025-02-20;SITIO CERCADO;M;Confirmado;14;Clínico Epidemiológico;Autóctone;Cura
+2025-02-22;2025-02-22;SITIO CERCADO;M;Confirmado;27;Clínico Epidemiológico;Autóctone;Cura
+2025-02-23;2025-02-21;UBERABA;F;Confirmado;29;Clínico Epidemiológico;Autóctone;Cura
+2025-02-23;2025-02-22;CAJURU;F;Confirmado;58;Clínico Epidemiológico;Autóctone;Cura
+2025-02-23;2025-02-22;CAJURU;M;Confirmado;29;Clínico Epidemiológico;Autóctone;Cura
+2025-02-23;2025-02-22;GUABIROTUBA;M;Confirmado;44;Clínico Epidemiológico;Autóctone;Cura
+2025-02-23;2025-02-23;CAJURU;F;Confirmado;34;Clínico Epidemiológico;Autóctone;Cura
+2025-02-23;2025-02-23;UMBARA;M;Confirmado;13;Clínico Epidemiológico;Autóctone;Cura
+2025-02-24;2025-02-07;GANCHINHO;F;Confirmado;27;Clínico Epidemiológico;Importado;Cura
+2025-02-24;2025-02-18;FAZENDINHA;M;Confirmado;22;Laboratório;Importado;Cura
+2025-02-24;2025-02-19;BATEL;F;Confirmado;27;Laboratório;Importado;Cura
+2025-02-24;2025-02-19;PINHEIRINHO;M;Confirmado;36;Clínico Epidemiológico;Importado;Cura
+2025-02-24;2025-02-20;SITIO CERCADO;F;Confirmado;21;Clínico Epidemiológico;Autóctone;Cura
+2025-02-24;2025-02-21;FANNY;F;Confirmado;56;Clínico Epidemiológico;Importado;Cura
+2025-02-24;2025-02-21;SITIO CERCADO;F;Confirmado;40;Laboratório;Autóctone;Cura
+2025-02-24;2025-02-21;XAXIM;F;Confirmado;53;Laboratório;Autóctone;Cura
+2025-02-24;2025-02-22;ALTO BOQUEIRAO;M;Confirmado;37;Clínico Epidemiológico;Importado;Cura
+2025-02-24;2025-02-22;CAJURU;F;Confirmado;27;Clínico Epidemiológico;Autóctone;Cura
+2025-02-24;2025-02-22;SITIO CERCADO;F;Confirmado;28;Laboratório;Importado;Cura
+2025-02-24;2025-02-22;XAXIM;F;Confirmado;52;Clínico Epidemiológico;Autóctone;Cura
+2025-02-24;2025-02-22;XAXIM;F;Confirmado;58;Laboratório;Autóctone;Cura
+2025-02-24;2025-02-23;MERCES;F;Confirmado;82;Clínico Epidemiológico;Autóctone;Cura
+2025-02-24;2025-02-23;SITIO CERCADO;F;Confirmado;38;Clínico Epidemiológico;Autóctone;Cura
+2025-02-24;2025-02-23;UMBARA;M;Confirmado;30;Clínico Epidemiológico;Autóctone;Cura
+2025-02-24;2025-02-24;CAJURU;F;Confirmado;23;Clínico Epidemiológico;Autóctone;Cura
+2025-02-24;2025-02-24;CAJURU;F;Confirmado;36;Clínico Epidemiológico;Autóctone;Cura
+2025-02-24;2025-02-24;LINDOIA;F;Confirmado;44;Laboratório;Importado;Cura
+2025-02-25;2025-02-19;LINDOIA;F;Confirmado;71;Laboratório;Autóctone;Cura
+2025-02-25;2025-02-20;CIC (2);F;Confirmado;69;Laboratório;Importado;Cura
+2025-02-25;2025-02-21;CAPAO RASO;M;Confirmado;24;Laboratório;Autóctone;Cura
+2025-02-25;2025-02-23;CIC (2);M;Confirmado;67;Laboratório;Indeterminado;Cura
+2025-02-25;2025-02-23;SITIO CERCADO;M;Confirmado;78;Clínico Epidemiológico;Autóctone;Cura
+2025-02-25;2025-02-24;ALTO BOQUEIRAO;F;Confirmado;70;Clínico Epidemiológico;Autóctone;Cura
+2025-02-25;2025-02-24;CAJURU;M;Confirmado;22;Clínico Epidemiológico;Autóctone;Cura
+2025-02-25;2025-02-24;CIC (2);M;Confirmado;29;Laboratório;Autóctone;Cura
+2025-02-25;2025-02-24;UBERABA;F;Confirmado;15;Clínico Epidemiológico;Autóctone;Cura
+2025-02-25;2025-02-25;UBERABA;F;Confirmado;20;Clínico Epidemiológico;Autóctone;Cura
+2025-02-25;2025-02-25;UBERABA;F;Confirmado;30;Clínico Epidemiológico;Autóctone;Cura
+2025-02-26;2025-02-21;PILARZINHO;M;Confirmado;30;Laboratório;Autóctone;Cura
+2025-02-26;2025-02-22;CAJURU;F;Confirmado;55;Clínico Epidemiológico;Autóctone;Cura
+2025-02-26;2025-02-24;CAJURU;F;Confirmado;36;Clínico Epidemiológico;Autóctone;Cura
+2025-02-26;2025-02-24;CAJURU;F;Confirmado;51;Clínico Epidemiológico;Autóctone;Cura
+2025-02-26;2025-02-24;CAJURU;F;Confirmado;68;Clínico Epidemiológico;Autóctone;Cura
+2025-02-26;2025-02-25;BOQUEIRAO1;M;Confirmado;5;Clínico Epidemiológico;Autóctone;Cura
+2025-02-26;2025-02-25;CAJURU;F;Confirmado;28;Clínico Epidemiológico;Autóctone;Cura
+2025-02-26;2025-02-25;CAJURU;M;Confirmado;29;Clínico Epidemiológico;Autóctone;Cura
+2025-02-26;2025-02-26;CAJURU;F;Confirmado;49;Clínico Epidemiológico;Autóctone;Cura
+2025-02-26;2025-02-26;CAJURU;M;Confirmado;27;Clínico Epidemiológico;Autóctone;Cura
+2025-02-26;2025-02-26;CAJURU;M;Confirmado;37;Clínico Epidemiológico;Autóctone;Cura
+2025-02-26;2025-02-26;GUABIROTUBA;F;Confirmado;22;Clínico Epidemiológico;Importado;Cura
+2025-02-26;2025-02-26;SITIO CERCADO;M;Confirmado;32;Clínico Epidemiológico;Importado;Cura
+2025-02-27;2025-02-20;CAJURU;F;Confirmado;22;Clínico Epidemiológico;Autóctone;Cura
+2025-02-27;2025-02-22;PINHEIRINHO1;M;Confirmado;22;Clínico Epidemiológico;Importado;Cura
+2025-02-27;2025-02-23;GANCHINHO;M;Confirmado;56;Clínico Epidemiológico;Autóctone;Cura
+2025-02-27;2025-02-24;ALTO BOQUEIRAO;M;Confirmado;27;Laboratório;Autóctone;Cura
+2025-02-27;2025-02-25;CAJURU;F;Confirmado;7;Clínico Epidemiológico;Autóctone;Cura
+2025-02-27;2025-02-25;CAJURU;M;Confirmado;60;Clínico Epidemiológico;Importado;Cura
+2025-02-27;2025-02-25;SITIO CERCADO;M;Confirmado;24;Clínico Epidemiológico;Importado;Cura
+2025-02-27;2025-02-26;CIC (2);M;Confirmado;39;Laboratório;Autóctone;Cura
+2025-02-27;2025-02-26;FANNY;M;Confirmado;22;Clínico Epidemiológico;Autóctone;Cura
+2025-02-27;2025-02-27;AGUA VERDE;M;Confirmado;73;Laboratório;Importado;Cura
+2025-02-27;2025-02-27;CAJURU;F;Confirmado;17;Clínico Epidemiológico;Autóctone;Cura
+2025-02-27;2025-02-27;UMBARA;F;Confirmado;16;Clínico Epidemiológico;Autóctone;Cura
+2025-02-28;2025-01-21;NOVO MUNDO;M;Confirmado;53;Laboratório;Autóctone;Cura
+2025-02-28;2025-02-24;PINHEIRINHO1;M;Confirmado;44;Laboratório;Autóctone;Cura
+2025-02-28;2025-02-26;CIC (2);M;Confirmado;8;Clínico Epidemiológico;Importado;Cura
+2025-02-28;2025-02-27;UBERABA1;F;Confirmado;9;Clínico Epidemiológico;Autóctone;Cura
+2025-02-28;2025-02-28;SANTA QUITERIA;M;Confirmado;60;Clínico Epidemiológico;Autóctone;Cura
+2025-02-28;2025-02-28;TATUQUARA;M;Confirmado;73;Laboratório;Autóctone;Cura
+2025-02-28;2025-02-28;UBERABA;M;Confirmado;16;Clínico Epidemiológico;Autóctone;Cura
+2025-02-28;2025-02-28;UBERABA;M;Confirmado;43;Clínico Epidemiológico;Autóctone;Cura
+2025-03-01;2025-02-24;AGUA VERDE;M;Confirmado;44;Clínico Epidemiológico;Importado;Cura
+2025-03-01;2025-02-24;CIC (2);M;Confirmado;26;Laboratório;Autóctone;Cura
+2025-03-01;2025-02-25;PRADO VELHO;F;Confirmado;22;Clínico Epidemiológico;Autóctone;Cura
+2025-03-01;2025-02-27;FAZENDINHA;M;Confirmado;40;Clínico Epidemiológico;Autóctone;Cura
+2025-03-01;2025-02-27;PINHEIRINHO;F;Confirmado;18;Laboratório;Importado;Cura
+2025-03-01;2025-02-27;SITIO CERCADO;F;Confirmado;47;Clínico Epidemiológico;Autóctone;Cura
+2025-03-01;2025-03-01;CAJURU;F;Confirmado;45;Clínico Epidemiológico;Autóctone;Cura
+2025-03-01;2025-03-01;CAJURU;M;Confirmado;28;Clínico Epidemiológico;Autóctone;Cura
+2025-03-01;2025-03-01;CAJURU;M;Confirmado;38;Clínico Epidemiológico;Autóctone;Cura
+2025-03-01;2025-03-01;CAPAO DA IMBUIA;F;Confirmado;23;Clínico Epidemiológico;Autóctone;Cura
+2025-03-01;2025-03-01;UBERABA;M;Confirmado;13;Clínico Epidemiológico;Autóctone;Cura
+2025-03-02;2025-02-27;SANTA QUITERIA;M;Confirmado;27;Clínico Epidemiológico;Autóctone;Cura
+2025-03-02;2025-03-01;ALTO BOQUEIRAO;F;Confirmado;9;Clínico Epidemiológico;Autóctone;Cura
+2025-03-02;2025-03-01;CIC (2);F;Confirmado;41;Laboratório;Autóctone;Cura
+2025-03-02;2025-03-01;HAUER;F;Confirmado;61;Clínico Epidemiológico;Importado;Cura
+2025-03-02;2025-03-01;PORTAO;F;Confirmado;29;Clínico Epidemiológico;Indeterminado;Cura
+2025-03-03;2025-02-24;UBERABA;M;Confirmado;28;Clínico Epidemiológico;Importado;Cura
+2025-03-03;2025-02-27;SANTA QUITERIA;F;Confirmado;36;Clínico Epidemiológico;Autóctone;Cura
+2025-03-03;2025-02-28;GANCHINHO;M;Confirmado;48;Clínico Epidemiológico;Importado;Cura
+2025-03-03;2025-03-01;CAMPO COMPRIDO (2);M;Confirmado;47;Clínico Epidemiológico;Autóctone;Cura
+2025-03-03;2025-03-01;SANTA QUITERIA;F;Confirmado;68;Clínico Epidemiológico;Autóctone;Cura
+2025-03-03;2025-03-02;FAZENDINHA;F;Confirmado;49;Clínico Epidemiológico;Autóctone;Cura
+2025-03-03;2025-03-02;FAZENDINHA;M;Confirmado;20;Clínico Epidemiológico;Autóctone;Cura
+2025-03-03;2025-03-02;PAROLIM;F;Confirmado;55;Clínico Epidemiológico;Autóctone;Cura
+2025-03-03;2025-03-03;FAZENDINHA;M;Confirmado;43;Clínico Epidemiológico;Autóctone;Cura
+2025-03-03;2025-03-03;TATUQUARA;F;Confirmado;21;Laboratório;Autóctone;Cura
+2025-03-03;2025-03-03;TATUQUARA;M;Confirmado;20;Clínico Epidemiológico;Autóctone;Cura
+2025-03-04;2025-02-27;SITIO CERCADO;F;Confirmado;60;Laboratório;Importado;Cura
+2025-03-04;2025-03-01;ALTO BOQUEIRAO;M;Confirmado;26;Laboratório;Autóctone;Cura
+2025-03-04;2025-03-01;UBERABA;F;Confirmado;41;Clínico Epidemiológico;Importado;Cura
+2025-03-04;2025-03-02;ATUBA;M;Confirmado;60;Laboratório;Importado;Cura
+2025-03-04;2025-03-02;SITIO CERCADO;M;Confirmado;28;Clínico Epidemiológico;Importado;Cura
+2025-03-04;2025-03-04;CAJURU;F;Confirmado;29;Clínico Epidemiológico;Autóctone;Cura
+2025-03-04;2025-03-04;FAZENDINHA;M;Confirmado;6;Clínico Epidemiológico;Autóctone;Cura
+2025-03-04;2025-03-04;UBERABA;M;Confirmado;38;Clínico Epidemiológico;Autóctone;Cura
+2025-03-04;2025-03-04;XAXIM;F;Confirmado;51;Laboratório;Autóctone;Cura
+2025-03-05;2025-02-22;VILA IZABEL;F;Confirmado;61;Laboratório;Autóctone;Cura
+2025-03-05;2025-02-24;UBERABA;F;Confirmado;44;Clínico Epidemiológico;Autóctone;Cura
+2025-03-05;2025-03-01;SANTA QUITERIA;F;Confirmado;62;Clínico Epidemiológico;Autóctone;Cura
+2025-03-05;2025-03-01;TATUQUARA;F;Confirmado;43;Clínico Epidemiológico;Autóctone;Cura
+2025-03-05;2025-03-02;TATUQUARA;M;Confirmado;28;Clínico Epidemiológico;Autóctone;Cura
+2025-03-05;2025-03-03;ATUBA;M;Confirmado;66;Laboratório;Importado;Cura
+2025-03-05;2025-03-03;CAJURU;M;Confirmado;63;Clínico Epidemiológico;Autóctone;Cura
+2025-03-05;2025-03-03;XAXIM;M;Confirmado;31;Clínico Epidemiológico;Autóctone;Cura
+2025-03-05;2025-03-04;FAZENDINHA;M;Confirmado;29;Clínico Epidemiológico;Autóctone;Cura
+2025-03-05;2025-03-04;SITIO CERCADO;F;Confirmado;17;Clínico Epidemiológico;Autóctone;Cura
+2025-03-05;2025-03-04;SITIO CERCADO;F;Confirmado;48;Clínico Epidemiológico;Autóctone;Cura
+2025-03-05;2025-03-04;SITIO CERCADO;M;Confirmado;28;Laboratório;Autóctone;Cura
+2025-03-05;2025-03-05;CAJURU;M;Confirmado;28;Clínico Epidemiológico;Autóctone;Cura
+2025-03-05;2025-03-05;CAJURU;M;Confirmado;36;Clínico Epidemiológico;Autóctone;Cura
+2025-03-05;2025-03-05;CAPAO DA IMBUIA;M;Confirmado;23;Clínico Epidemiológico;Importado;Cura
+2025-03-06;2025-02-25;FAZENDINHA;M;Confirmado;62;Clínico Epidemiológico;Autóctone;Cura
+2025-03-06;2025-03-01;ALTO BOQUEIRAO;F;Confirmado;22;Clínico Epidemiológico;Autóctone;Cura
+2025-03-06;2025-03-02;PAROLIM;F;Confirmado;21;Clínico Epidemiológico;Autóctone;Cura
+2025-03-06;2025-03-03;HAUER;M;Confirmado;51;Clínico Epidemiológico;Autóctone;Cura
+2025-03-06;2025-03-03;JARDIM DAS AMERICAS;F;Confirmado;23;Clínico Epidemiológico;Importado;Cura
+2025-03-06;2025-03-03;SANTA QUITERIA;F;Confirmado;38;Clínico Epidemiológico;Importado;Cura
+2025-03-06;2025-03-04;GUAIRA;M;Confirmado;63;Clínico Epidemiológico;Autóctone;Cura
+2025-03-06;2025-03-04;PAROLIM;M;Confirmado;7;Clínico Epidemiológico;Importado;Cura
+2025-03-06;2025-03-05;CIC (2);M;Confirmado;29;Clínico Epidemiológico;Importado;Cura
+2025-03-06;2025-03-06;FAZENDINHA;M;Confirmado;21;Clínico Epidemiológico;Autóctone;Cura
+2025-03-06;2025-03-06;SANTA QUITERIA;M;Confirmado;71;Laboratório;Autóctone;Cura
+2025-03-06;2025-03-06;UBERABA;M;Confirmado;24;Clínico Epidemiológico;Autóctone;Cura
+2025-03-06;2025-03-06;UBERABA;M;Confirmado;62;Clínico Epidemiológico;Autóctone;Cura
+2025-03-07;2025-02-19;AGUA VERDE;F;Confirmado;29;Laboratório;Autóctone;Cura
+2025-03-07;2025-02-27;CIC (2);F;Confirmado;66;Laboratório;Importado;Cura
+2025-03-07;2025-03-04;CAJURU;M;Confirmado;28;Clínico Epidemiológico;Importado;Cura
+2025-03-07;2025-03-04;SANTA QUITERIA;M;Confirmado;58;Clínico Epidemiológico;Autóctone;Cura
+2025-03-07;2025-03-05;SANTA QUITERIA;F;Confirmado;50;Clínico Epidemiológico;Autóctone;Cura
+2025-03-07;2025-03-05;SANTA QUITERIA;M;Confirmado;24;Clínico Epidemiológico;Autóctone;Cura
+2025-03-07;2025-03-05;SEMINARIO;M;Confirmado;52;Clínico Epidemiológico;Importado;Cura
+2025-03-07;2025-03-05;SITIO CERCADO;F;Confirmado;22;Clínico Epidemiológico;Importado;Cura
+2025-03-07;2025-03-05;UBERABA;F;Confirmado;63;Clínico Epidemiológico;Autóctone;Cura
+2025-03-07;2025-03-06;FAZENDINHA;M;Confirmado;6;Clínico Epidemiológico;Autóctone;Cura
+2025-03-07;2025-03-07;CAJURU;F;Confirmado;21;Clínico Epidemiológico;Importado;Cura
+2025-03-07;2025-03-07;SITIO CERCADO;F;Confirmado;18;Clínico Epidemiológico;Importado;Cura
+2025-03-08;2025-03-01;SANTA QUITERIA;F;Confirmado;54;Clínico Epidemiológico;Autóctone;Cura
+2025-03-08;2025-03-03;SITIO CERCADO;F;Confirmado;58;Laboratório;Importado;Cura
+2025-03-08;2025-03-04;CIC (2);F;Confirmado;53;Laboratório;Importado;Cura
+2025-03-08;2025-03-05;SANTA QUITERIA;F;Confirmado;83;Clínico Epidemiológico;Autóctone;Cura
+2025-03-08;2025-03-06;PINHEIRINHO;F;Confirmado;28;Clínico Epidemiológico;Importado;Cura
+2025-03-08;2025-03-07;CIC (2);F;Confirmado;18;Clínico Epidemiológico;Importado;Cura
+2025-03-08;2025-03-08;ALTO BOQUEIRAO;M;Confirmado;22;Clínico Epidemiológico;Autóctone;Cura
+2025-03-08;2025-03-08;CIC (2);F;Confirmado;57;Clínico Epidemiológico;Autóctone;Cura
+2025-03-08;2025-03-08;HAUER;M;Confirmado;32;Laboratório;Autóctone;Cura
+2025-03-09;2025-03-05;UBERABA;F;Confirmado;27;Clínico Epidemiológico;Autóctone;Cura
+2025-03-09;2025-03-06;CAJURU;M;Confirmado;27;Clínico Epidemiológico;Importado;Cura
+2025-03-09;2025-03-06;FAZENDINHA;M;Confirmado;9;Clínico Epidemiológico;Autóctone;Cura
+2025-03-09;2025-03-06;PORTAO;F;Confirmado;30;Clínico Epidemiológico;Importado;Cura
+2025-03-09;2025-03-06;SITIO CERCADO;M;Confirmado;10;Clínico Epidemiológico;Importado;Cura
+2025-03-09;2025-03-08;CAJURU;F;Confirmado;19;Clínico Epidemiológico;Autóctone;Cura
+2025-03-09;2025-03-09;CAJURU;F;Confirmado;50;Clínico Epidemiológico;Autóctone;Cura
+2025-03-10;2025-03-04;CAJURU;M;Confirmado;11;Clínico Epidemiológico;Importado;Cura
+2025-03-10;2025-03-04;CAJURU;M;Confirmado;37;Laboratório;Autóctone;Cura
+2025-03-10;2025-03-04;UMBARA;F;Confirmado;40;Clínico Epidemiológico;Autóctone;Cura
+2025-03-10;2025-03-05;SANTA QUITERIA;M;Confirmado;16;Clínico Epidemiológico;Autóctone;Cura
+2025-03-10;2025-03-06;JARDIM DAS AMERICAS;F;Confirmado;41;Clínico Epidemiológico;Autóctone;Cura
+2025-03-10;2025-03-06;PORTAO;M;Confirmado;16;Clínico Epidemiológico;Importado;Cura
+2025-03-10;2025-03-06;VILA IZABEL;F;Confirmado;36;Clínico Epidemiológico;Autóctone;Cura
+2025-03-10;2025-03-07;BAIRRO ALTO;F;Confirmado;77;Laboratório;Autóctone;Cura
+2025-03-10;2025-03-07;JARDIM DAS AMERICAS;F;Confirmado;12;Clínico Epidemiológico;Autóctone;Cura
+2025-03-10;2025-03-08;SANTA FELICIDADE;F;Confirmado;59;Clínico Epidemiológico;Importado;Cura
+2025-03-10;2025-03-09;BOA VISTA;F;Confirmado;45;Laboratório;Importado;Cura
+2025-03-10;2025-03-09;CAMPO DE SANTANA;M;Confirmado;18;Clínico Epidemiológico;Autóctone;Cura
+2025-03-10;2025-03-09;JARDIM DAS AMERICAS;F;Confirmado;66;Clínico Epidemiológico;Autóctone;Cura
+2025-03-10;2025-03-09;SANTA QUITERIA;F;Confirmado;62;Clínico Epidemiológico;Autóctone;Cura
+2025-03-10;2025-03-09;SANTA QUITERIA;M;Confirmado;46;Clínico Epidemiológico;Autóctone;Cura
+2025-03-10;2025-03-09;TATUQUARA;F;Confirmado;62;Laboratório;Autóctone;Cura
+2025-03-10;2025-03-09;UBERABA;M;Confirmado;49;Clínico Epidemiológico;Importado;Cura
+2025-03-10;2025-03-10;CAJURU;F;Confirmado;32;Clínico Epidemiológico;Autóctone;Cura
+2025-03-10;2025-03-10;UBERABA;F;Confirmado;44;Clínico Epidemiológico;Autóctone;Cura
+2025-03-11;2025-02-25;CENTRO;M;Confirmado;40;Laboratório;Importado;Cura
+2025-03-11;2025-03-05;SANTA QUITERIA;M;Confirmado;49;Clínico Epidemiológico;Autóctone;Cura
+2025-03-11;2025-03-07;FAZENDINHA;M;Confirmado;74;Laboratório;Importado;Cura
+2025-03-11;2025-03-07;NOVO MUNDO;F;Confirmado;77;Clínico Epidemiológico;Importado;Cura
+2025-03-11;2025-03-08;PAROLIM;F;Confirmado;59;Clínico Epidemiológico;Importado;Cura
+2025-03-11;2025-03-08;SANTA QUITERIA;F;Confirmado;24;Clínico Epidemiológico;Autóctone;Cura
+2025-03-11;2025-03-09;CAJURU;M;Confirmado;55;Clínico Epidemiológico;Autóctone;Cura
+2025-03-11;2025-03-09;SANTA QUITERIA;M;Confirmado;24;Clínico Epidemiológico;Autóctone;Cura
+2025-03-11;2025-03-09;SANTO INACIO;F;Confirmado;45;Clínico Epidemiológico;Importado;Cura
+2025-03-11;2025-03-10;BOQUEIRAO;F;Confirmado;38;Clínico Epidemiológico;Autóctone;Cura
+2025-03-11;2025-03-10;CAMPO DE SANTANA;M;Confirmado;21;Clínico Epidemiológico;Autóctone;Cura
+2025-03-11;2025-03-10;SANTA CANDIDA;M;Confirmado;53;Clínico Epidemiológico;Importado;Cura
+2025-03-11;2025-03-10;SANTA QUITERIA;F;Confirmado;47;Clínico Epidemiológico;Autóctone;Cura
+2025-03-11;2025-03-10;VILA IZABEL;M;Confirmado;42;Clínico Epidemiológico;Autóctone;Cura
+2025-03-11;2025-03-11;CAJURU;F;Confirmado;16;Clínico Epidemiológico;Autóctone;Cura
+2025-03-11;2025-03-11;CAJURU;F;Confirmado;33;Clínico Epidemiológico;Autóctone;Cura
+2025-03-11;2025-03-11;CAMPO DE SANTANA;M;Confirmado;38;Clínico Epidemiológico;Autóctone;Cura
+2025-03-11;2025-03-11;CAPAO DA IMBUIA;F;Confirmado;20;Clínico Epidemiológico;Autóctone;Cura
+2025-03-11;2025-03-11;CIC (2);F;Confirmado;49;Laboratório;Importado;Cura
+2025-03-11;2025-03-11;CIC (2);M;Confirmado;33;Clínico Epidemiológico;Autóctone;Cura
+2025-03-11;2025-03-11;JARDIM DAS AMERICAS;F;Confirmado;8;Clínico Epidemiológico;Autóctone;Cura
+2025-03-11;2025-03-11;PINHEIRINHO1;F;Confirmado;30;Clínico Epidemiológico;Autóctone;Cura
+2025-03-11;2025-03-11;SAO BRAZ;M;Confirmado;44;Clínico Epidemiológico;Importado;Cura
+2025-03-12;2025-03-04;UBERABA;M;Confirmado;32;Clínico Epidemiológico;Autóctone;Cura
+2025-03-12;2025-03-05;BACACHERI;M;Confirmado;67;Clínico Epidemiológico;Importado;Cura
+2025-03-12;2025-03-07;CAPAO RASO;F;Confirmado;36;Clínico Epidemiológico;Autóctone;Cura
+2025-03-12;2025-03-09;FAZENDINHA;F;Confirmado;61;Laboratório;Importado;Cura
+2025-03-12;2025-03-10;BOQUEIRAO;M;Confirmado;46;Clínico Epidemiológico;Autóctone;Cura
+2025-03-12;2025-03-10;CAJURU;F;Confirmado;25;Clínico Epidemiológico;Autóctone;Cura
+2025-03-12;2025-03-10;CAJURU;F;Confirmado;35;Clínico Epidemiológico;Autóctone;Cura
+2025-03-12;2025-03-10;PORTAO;M;Confirmado;18;Clínico Epidemiológico;Importado;Cura
+2025-03-12;2025-03-10;PORTAO;M;Confirmado;45;Clínico Epidemiológico;Autóctone;Cura
+2025-03-12;2025-03-10;SANTA QUITERIA;M;Confirmado;14;Clínico Epidemiológico;Autóctone;Cura
+2025-03-12;2025-03-10;SITIO CERCADO;M;Confirmado;48;Laboratório;Autóctone;Cura
+2025-03-12;2025-03-11;CAJURU;F;Confirmado;22;Laboratório;Autóctone;Cura
+2025-03-12;2025-03-11;FAZENDINHA;F;Confirmado;16;Clínico Epidemiológico;Importado;Cura
+2025-03-12;2025-03-11;SANTA QUITERIA;F;Confirmado;29;Laboratório;Autóctone;Cura
+2025-03-12;2025-03-11;SANTA QUITERIA;F;Confirmado;37;Clínico Epidemiológico;Autóctone;Cura
+2025-03-12;2025-03-12;CAMPO DE SANTANA;M;Confirmado;21;Clínico Epidemiológico;Autóctone;Cura
+2025-03-12;2025-03-12;CIC (2);M;Confirmado;43;Clínico Epidemiológico;Importado;Cura
+2025-03-12;2025-03-12;JARDIM DAS AMERICAS;F;Confirmado;20;Clínico Epidemiológico;Autóctone;Cura
+2025-03-12;2025-03-12;SANTA QUITERIA;M;Confirmado;62;Clínico Epidemiológico;Autóctone;Cura
+2025-03-12;2025-03-12;UBERABA;F;Confirmado;24;Clínico Epidemiológico;Autóctone;Cura
+2025-03-13;2025-03-10;CAJURU;M;Confirmado;60;Laboratório;Autóctone;Cura
+2025-03-13;2025-03-10;FANNY;M;Confirmado;34;Clínico Epidemiológico;Importado;Cura
+2025-03-13;2025-03-10;PORTAO;F;Confirmado;70;Clínico Epidemiológico;Autóctone;Cura
+2025-03-13;2025-03-11;CAJURU;M;Confirmado;50;Laboratório;Importado;Cura
+2025-03-13;2025-03-11;SITIO CERCADO;M;Confirmado;20;Clínico Epidemiológico;Importado;Cura
+2025-03-13;2025-03-12;BOQUEIRAO;M;Confirmado;14;Laboratório;Autóctone;Cura
+2025-03-13;2025-03-12;SITIO CERCADO;F;Confirmado;21;Clínico Epidemiológico;Autóctone;Cura
+2025-03-13;2025-03-12;UMBARA;F;Confirmado;22;Clínico Epidemiológico;Importado;Cura
+2025-03-13;2025-03-13;BOQUEIRAO;F;Confirmado;65;Laboratório;Autóctone;Cura
+2025-03-13;2025-03-13;CAJURU;F;Confirmado;32;Clínico Epidemiológico;Autóctone;Cura
+2025-03-13;2025-03-13;CAJURU;F;Confirmado;40;Clínico Epidemiológico;Autóctone;Cura
+2025-03-13;2025-03-13;FANNY;M;Confirmado;19;Clínico Epidemiológico;Autóctone;Cura
+2025-03-13;2025-03-13;PILARZINHO;M;Confirmado;14;Laboratório;Importado;Cura
+2025-03-14;2025-02-28;TARUMA1;M;Confirmado;37;Clínico Epidemiológico;Importado;Cura
+2025-03-14;2025-03-09;PORTAO;M;Confirmado;8;Clínico Epidemiológico;Importado;Cura
+2025-03-14;2025-03-10;CENTRO;F;Confirmado;65;Clínico Epidemiológico;Importado;Cura
+2025-03-14;2025-03-11;CIC (1);F;Confirmado;27;Clínico Epidemiológico;Importado;Cura
+2025-03-14;2025-03-13;CAJURU;F;Confirmado;58;Laboratório;Autóctone;Cura
+2025-03-14;2025-03-13;CAPAO DA IMBUIA;F;Confirmado;63;Clínico Epidemiológico;Autóctone;Cura
+2025-03-14;2025-03-13;SANTA QUITERIA;M;Confirmado;30;Clínico Epidemiológico;Autóctone;Cura
+2025-03-14;2025-03-13;TATUQUARA;M;Confirmado;43;Clínico Epidemiológico;Autóctone;Cura
+2025-03-14;2025-03-14;AHU;M;Confirmado;64;Clínico Epidemiológico;Importado;Cura
+2025-03-14;2025-03-14;CAJURU;M;Confirmado;26;Clínico Epidemiológico;Autóctone;Cura
+2025-03-15;2025-03-09;TATUQUARA;F;Confirmado;20;Laboratório;Importado;Cura
+2025-03-15;2025-03-14;PINHEIRINHO;F;Confirmado;38;Clínico Epidemiológico;Importado;Cura
+2025-03-15;2025-03-15;CAJURU;F;Confirmado;37;Clínico Epidemiológico;Autóctone;Cura
+2025-03-15;2025-03-15;SANTA QUITERIA;F;Confirmado;19;Clínico Epidemiológico;Autóctone;Cura
+2025-03-15;2025-03-15;SITIO CERCADO;F;Confirmado;53;Laboratório;Autóctone;Cura
+2025-03-16;2025-03-13;CAJURU;F;Confirmado;39;Clínico Epidemiológico;Autóctone;Cura
+2025-03-16;2025-03-14;PILARZINHO;F;Confirmado;85;Laboratório;Autóctone;Cura
+2025-03-16;2025-03-14;SITIO CERCADO;F;Confirmado;53;Clínico Epidemiológico;Autóctone;Cura
+2025-03-16;2025-03-15;BOQUEIRAO;M;Confirmado;67;Clínico Epidemiológico;Importado;Cura
+2025-03-16;2025-03-15;JARDIM DAS AMERICAS;F;Confirmado;57;Clínico Epidemiológico;Importado;Cura
+2025-03-16;2025-03-15;SITIO CERCADO;F;Confirmado;25;Clínico Epidemiológico;Autóctone;Cura
+2025-03-16;2025-03-16;AGUA VERDE;M;Confirmado;54;Clínico Epidemiológico;Autóctone;Cura
+2025-03-16;2025-03-16;CAJURU;M;Confirmado;12;Clínico Epidemiológico;Autóctone;Cura
+2025-03-16;2025-03-16;SITIO CERCADO;M;Confirmado;54;Clínico Epidemiológico;Autóctone;Cura
+2025-03-17;2025-03-08;AGUA VERDE;F;Confirmado;41;Clínico Epidemiológico;Importado;Cura
+2025-03-17;2025-03-10;ATUBA;F;Confirmado;66;Laboratório;Autóctone;Cura
+2025-03-17;2025-03-10;SANTA QUITERIA;F;Confirmado;16;Clínico Epidemiológico;Autóctone;Cura
+2025-03-17;2025-03-10;VILA IZABEL;M;Confirmado;56;Clínico Epidemiológico;Importado;Cura
+2025-03-17;2025-03-11;CAMPO COMPRIDO (3);M;Confirmado;26;Clínico Epidemiológico;Autóctone;Cura
+2025-03-17;2025-03-11;REBOUCAS;F;Confirmado;31;Clínico Epidemiológico;Importado;Cura
+2025-03-17;2025-03-12;BATEL;F;Confirmado;38;Clínico Epidemiológico;Importado;Cura
+2025-03-17;2025-03-12;CIC (2);M;Confirmado;66;Clínico Epidemiológico;Importado;Cura
+2025-03-17;2025-03-12;SANTA QUITERIA;M;Confirmado;66;Clínico Epidemiológico;Autóctone;Cura
+2025-03-17;2025-03-13;BUTIATUVINHA;F;Confirmado;49;Clínico Epidemiológico;Importado;Cura
+2025-03-17;2025-03-13;CAPAO DA IMBUIA;M;Confirmado;30;Clínico Epidemiológico;Importado;Cura
+2025-03-17;2025-03-13;CAPAO RASO;F;Confirmado;34;Clínico Epidemiológico;Importado;Cura
+2025-03-17;2025-03-14;SANTA QUITERIA;F;Confirmado;10;Clínico Epidemiológico;Autóctone;Cura
+2025-03-17;2025-03-14;SANTA QUITERIA;F;Confirmado;23;Laboratório;Autóctone;Cura
+2025-03-17;2025-03-15;CAPAO RASO;F;Confirmado;3;Clínico Epidemiológico;Importado;Cura
+2025-03-17;2025-03-15;PINHEIRINHO;F;Confirmado;8;Clínico Epidemiológico;Autóctone;Cura
+2025-03-17;2025-03-16;PINHEIRINHO;M;Confirmado;3;Clínico Epidemiológico;Importado;Cura
+2025-03-17;2025-03-16;SANTA QUITERIA;F;Confirmado;30;Clínico Epidemiológico;Autóctone;Cura
+2025-03-17;2025-03-16;SANTA QUITERIA;M;Confirmado;61;Clínico Epidemiológico;Autóctone;Cura
+2025-03-17;2025-03-17;XAXIM;M;Confirmado;21;Clínico Epidemiológico;Autóctone;Cura
+2025-03-18;2025-03-12;AGUA VERDE;M;Confirmado;63;Clínico Epidemiológico;Autóctone;Cura
+2025-03-18;2025-03-12;BOQUEIRAO;F;Confirmado;60;Clínico Epidemiológico;Autóctone;Cura
+2025-03-18;2025-03-13;UBERABA;F;Confirmado;32;Clínico Epidemiológico;Autóctone;Cura
+2025-03-18;2025-03-14;CIC (2);M;Confirmado;40;Clínico Epidemiológico;Autóctone;Cura
+2025-03-18;2025-03-15;SITIO CERCADO;M;Confirmado;38;Laboratório;Autóctone;Cura
+2025-03-18;2025-03-15;TATUQUARA;F;Confirmado;63;Clínico Epidemiológico;Importado;Cura
+2025-03-18;2025-03-16;CAJURU;M;Confirmado;64;Clínico Epidemiológico;Autóctone;Cura
+2025-03-18;2025-03-17;CAJURU;M;Confirmado;30;Clínico Epidemiológico;Autóctone;Cura
+2025-03-18;2025-03-17;GUAIRA;F;Confirmado;14;Clínico Epidemiológico;Autóctone;Cura
+2025-03-18;2025-03-17;SITIO CERCADO;F;Confirmado;12;Clínico Epidemiológico;Autóctone;Cura
+2025-03-18;2025-03-17;SITIO CERCADO;M;Confirmado;56;Clínico Epidemiológico;Autóctone;Cura
+2025-03-18;2025-03-18;CAJURU;F;Confirmado;31;Clínico Epidemiológico;Autóctone;Cura
+2025-03-19;2025-03-16;CAJURU;M;Confirmado;78;Clínico Epidemiológico;Autóctone;Cura
+2025-03-19;2025-03-16;XAXIM;F;Confirmado;38;Clínico Epidemiológico;Autóctone;Cura
+2025-03-19;2025-03-17;XAXIM;M;Confirmado;23;Clínico Epidemiológico;Importado;Cura
+2025-03-19;2025-03-18;BOQUEIRAO;F;Confirmado;23;Clínico Epidemiológico;Autóctone;Cura
+2025-03-19;2025-03-18;CIC (2);M;Confirmado;15;Clínico Epidemiológico;Autóctone;Cura
+2025-03-19;2025-03-18;LINDOIA;F;Confirmado;53;Clínico Epidemiológico;Autóctone;Cura
+2025-03-19;2025-03-18;SANTA QUITERIA;F;Confirmado;33;Clínico Epidemiológico;Autóctone;Cura
+2025-03-19;2025-03-18;TATUQUARA;F;Confirmado;39;Clínico Epidemiológico;Importado;Cura
+2025-03-20;2025-03-12;CENTRO;M;Confirmado;37;Laboratório;Autóctone;Cura
+2025-03-20;2025-03-13;SITIO CERCADO;F;Confirmado;50;Clínico Epidemiológico;Importado;Cura
+2025-03-20;2025-03-15;BACACHERI;F;Confirmado;52;Clínico Epidemiológico;Importado;Cura
+2025-03-20;2025-03-15;PILARZINHO;M;Confirmado;33;Clínico Epidemiológico;Importado;Cura
+2025-03-20;2025-03-16;AGUA VERDE;M;Confirmado;38;Clínico Epidemiológico;Importado;Cura
+2025-03-20;2025-03-16;FAZENDINHA;M;Confirmado;12;Clínico Epidemiológico;Autóctone;Cura
+2025-03-20;2025-03-17;PAROLIM;F;Confirmado;30;Clínico Epidemiológico;Autóctone;Cura
+2025-03-20;2025-03-17;REBOUCAS;M;Confirmado;20;Clínico Epidemiológico;Autóctone;Cura
+2025-03-20;2025-03-17;SANTA QUITERIA;M;Confirmado;31;Clínico Epidemiológico;Autóctone;Cura
+2025-03-20;2025-03-17;SANTA QUITERIA;M;Confirmado;48;Clínico Epidemiológico;Autóctone;Cura
+2025-03-20;2025-03-18;ALTO BOQUEIRAO;M;Confirmado;29;Clínico Epidemiológico;Importado;Cura
+2025-03-20;2025-03-18;CIC (2);F;Confirmado;27;Clínico Epidemiológico;Importado;Cura
+2025-03-20;2025-03-18;CIC (2);M;Confirmado;65;Clínico Epidemiológico;Importado;Cura
+2025-03-20;2025-03-18;SANTA QUITERIA;F;Confirmado;59;Clínico Epidemiológico;Autóctone;Cura
+2025-03-20;2025-03-19;ALTO BOQUEIRAO;F;Confirmado;59;Clínico Epidemiológico;Importado;Cura
+2025-03-20;2025-03-19;CAJURU;F;Confirmado;18;Clínico Epidemiológico;Autóctone;Cura
+2025-03-20;2025-03-19;CIC (2);F;Confirmado;17;Laboratório;Autóctone;Cura
+2025-03-20;2025-03-19;PORTAO;F;Confirmado;30;Clínico Epidemiológico;Importado;Cura
+2025-03-20;2025-03-19;XAXIM;M;Confirmado;2;Clínico Epidemiológico;Importado;Cura
+2025-03-20;2025-03-20;UBERABA;F;Confirmado;21;Clínico Epidemiológico;Autóctone;Cura
+2025-03-20;2025-03-20;UMBARA;M;Confirmado;41;Clínico Epidemiológico;Autóctone;Cura
+2025-03-21;2025-03-16;CAPAO RASO;F;Confirmado;58;Clínico Epidemiológico;Importado;Cura
+2025-03-21;2025-03-16;JUVEVE;M;Confirmado;53;Clínico Epidemiológico;Importado;Cura
+2025-03-21;2025-03-17;PORTAO;M;Confirmado;27;Clínico Epidemiológico;Importado;Cura
+2025-03-21;2025-03-17;SANTA QUITERIA;F;Confirmado;40;Clínico Epidemiológico;Autóctone;Cura
+2025-03-21;2025-03-20;AGUA VERDE;F;Confirmado;28;Clínico Epidemiológico;Autóctone;Cura
+2025-03-21;2025-03-20;ALTO BOQUEIRAO;M;Confirmado;21;Clínico Epidemiológico;Autóctone;Cura
+2025-03-21;2025-03-20;PORTAO;F;Confirmado;32;Clínico Epidemiológico;Autóctone;Cura
+2025-03-21;2025-03-21;FAZENDINHA;F;Confirmado;8;Clínico Epidemiológico;Autóctone;Cura
+2025-03-21;2025-03-21;SITIO CERCADO;M;Confirmado;24;Clínico Epidemiológico;Autóctone;Cura
+2025-03-22;2025-03-16;BATEL;M;Confirmado;32;Clínico Epidemiológico;Importado;Cura
+2025-03-22;2025-03-17;GANCHINHO;F;Confirmado;68;Clínico Epidemiológico;Autóctone;Cura
+2025-03-22;2025-03-17;HAUER;F;Confirmado;59;Clínico Epidemiológico;Autóctone;Cura
+2025-03-22;2025-03-18;FAZENDINHA;F;Confirmado;74;Clínico Epidemiológico;Autóctone;Cura
+2025-03-22;2025-03-20;FAZENDINHA;M;Confirmado;13;Clínico Epidemiológico;Autóctone;Cura
+2025-03-22;2025-03-20;XAXIM;F;Confirmado;40;Laboratório;Importado;Cura
+2025-03-22;2025-03-21;CAMPO DE SANTANA;F;Confirmado;59;Clínico Epidemiológico;Autóctone;Cura
+2025-03-22;2025-03-21;CAPAO DA IMBUIA;M;Confirmado;45;Clínico Epidemiológico;Autóctone;Cura
+2025-03-22;2025-03-22;BIGORRILHO1;F;Confirmado;31;Clínico Epidemiológico;Importado;Cura
+2025-03-22;2025-03-22;CAJURU;F;Confirmado;54;Clínico Epidemiológico;Autóctone;Cura
+2025-03-22;2025-03-22;CAJURU;M;Confirmado;20;Clínico Epidemiológico;Autóctone;Cura
+2025-03-22;2025-03-22;SANTA QUITERIA;M;Confirmado;63;Laboratório;Autóctone;Cura
+2025-03-22;2025-03-22;TATUQUARA;M;Confirmado;32;Laboratório;Autóctone;Cura
+2025-03-23;2025-03-17;XAXIM;F;Confirmado;64;Laboratório;Importado;Cura
+2025-03-23;2025-03-18;CIC (2);F;Confirmado;57;Laboratório;Importado;Cura
+2025-03-23;2025-03-19;GUAIRA;M;Confirmado;35;Clínico Epidemiológico;Importado;Cura
+2025-03-23;2025-03-20;ABRANCHES;M;Confirmado;51;Clínico Epidemiológico;Importado;Cura
+2025-03-23;2025-03-21;CAJURU;M;Confirmado;44;Clínico Epidemiológico;Autóctone;Cura
+2025-03-23;2025-03-22;CAJURU;F;Confirmado;40;Clínico Epidemiológico;Autóctone;Cura
+2025-03-23;2025-03-22;CAMPO COMPRIDO (2);F;Confirmado;31;Clínico Epidemiológico;Autóctone;Cura
+2025-03-23;2025-03-22;TATUQUARA;F;Confirmado;37;Clínico Epidemiológico;Autóctone;Cura
+2025-03-23;2025-03-22;TATUQUARA;M;Confirmado;50;Clínico Epidemiológico;Importado;Cura
+2025-03-23;2025-03-23;REBOUCAS;M;Confirmado;71;Clínico Epidemiológico;Importado;Cura
+2025-03-23;2025-03-23;SANTA QUITERIA;M;Confirmado;13;Clínico Epidemiológico;Autóctone;Cura
+2025-03-23;2025-03-23;SITIO CERCADO;F;Confirmado;10;Clínico Epidemiológico;Importado;Cura
+2025-03-23;2025-03-23;UBERABA;M;Confirmado;22;Clínico Epidemiológico;Autóctone;Cura
+2025-03-23;2025-03-23;XAXIM;M;Confirmado;10;Laboratório;Importado;Cura
+2025-03-24;2025-03-06;CAMPINA DO SIQUEIRA;F;Confirmado;45;Clínico Epidemiológico;Importado;Cura
+2025-03-24;2025-03-06;CAMPINA DO SIQUEIRA;M;Confirmado;20;Clínico Epidemiológico;Importado;Cura
+2025-03-24;2025-03-06;ORLEANS;F;Confirmado;71;Clínico Epidemiológico;Importado;Cura
+2025-03-24;2025-03-06;PINHEIRINHO;M;Confirmado;60;Clínico Epidemiológico;Importado;Cura
+2025-03-24;2025-03-07;CIC (2);M;Confirmado;6;Clínico Epidemiológico;Importado;Cura
+2025-03-24;2025-03-09;MERCES;M;Confirmado;19;Clínico Epidemiológico;Autóctone;Cura
+2025-03-24;2025-03-10;UBERABA;M;Confirmado;32;Clínico Epidemiológico;Autóctone;Cura
+2025-03-24;2025-03-11;CAJURU;F;Confirmado;81;Laboratório;Importado;Cura
+2025-03-24;2025-03-13;VILA IZABEL;F;Confirmado;65;Clínico Epidemiológico;Autóctone;Cura
+2025-03-24;2025-03-14;CIC (2);F;Confirmado;23;Clínico Epidemiológico;Autóctone;Cura
+2025-03-24;2025-03-17;CENTRO;F;Confirmado;63;Clínico Epidemiológico;Autóctone;Cura
+2025-03-24;2025-03-20;XAXIM;M;Confirmado;39;Clínico Epidemiológico;Autóctone;Cura
+2025-03-24;2025-03-21;GANCHINHO;M;Confirmado;2;Clínico Epidemiológico;Autóctone;Cura
+2025-03-24;2025-03-21;SANTA QUITERIA;F;Confirmado;49;Clínico Epidemiológico;Autóctone;Cura
+2025-03-24;2025-03-21;TARUMA1;F;Confirmado;38;Clínico Epidemiológico;Autóctone;Cura
+2025-03-24;2025-03-22;CAJURU;F;Confirmado;18;Clínico Epidemiológico;Autóctone;Cura
+2025-03-24;2025-03-23;CAMPO DE SANTANA;F;Confirmado;24;Clínico Epidemiológico;Autóctone;Cura
+2025-03-24;2025-03-23;CAMPO DE SANTANA;M;Confirmado;44;Clínico Epidemiológico;Autóctone;Cura
+2025-03-24;2025-03-23;CIC (2);F;Confirmado;39;Clínico Epidemiológico;Importado;Cura
+2025-03-24;2025-03-23;HAUER;F;Confirmado;44;Clínico Epidemiológico;Importado;Cura
+2025-03-24;2025-03-23;SANTA QUITERIA;M;Confirmado;43;Clínico Epidemiológico;Autóctone;Cura
+2025-03-24;2025-03-23;UBERABA;M;Confirmado;57;Clínico Epidemiológico;Autóctone;Cura
+2025-03-24;2025-03-24;CAJURU;F;Confirmado;12;Clínico Epidemiológico;Autóctone;Cura
+2025-03-24;2025-03-24;CAJURU;F;Confirmado;28;Clínico Epidemiológico;Autóctone;Cura
+2025-03-24;2025-03-24;JARDIM DAS AMERICAS;M;Confirmado;66;Clínico Epidemiológico;Autóctone;Cura
+2025-03-24;2025-03-24;SITIO CERCADO;F;Confirmado;24;Clínico Epidemiológico;Importado;Cura
+2025-03-24;2025-03-24;XAXIM;F;Confirmado;28;Clínico Epidemiológico;Autóctone;Cura
+2025-03-24;2025-03-24;XAXIM;M;Confirmado;41;Clínico Epidemiológico;Importado;Cura
+2025-03-25;2025-03-21;ALTO BOQUEIRAO;M;Confirmado;23;Laboratório;Importado;Cura
+2025-03-25;2025-03-21;SITIO CERCADO;F;Confirmado;59;Clínico Epidemiológico;Importado;Cura
+2025-03-25;2025-03-21;TATUQUARA;F;Confirmado;42;Clínico Epidemiológico;Autóctone;Cura
+2025-03-25;2025-03-22;CAJURU;F;Confirmado;39;Clínico Epidemiológico;Autóctone;Cura
+2025-03-25;2025-03-22;CIC (2);M;Confirmado;27;Laboratório;Autóctone;Cura
+2025-03-25;2025-03-22;SANTA QUITERIA;F;Confirmado;23;Clínico Epidemiológico;Importado;Cura
+2025-03-25;2025-03-22;SANTA QUITERIA;M;Confirmado;29;Clínico Epidemiológico;Importado;Cura
+2025-03-25;2025-03-23;CIC (2);F;Confirmado;26;Laboratório;Autóctone;Cura
+2025-03-25;2025-03-24;BIGORRILHO1;F;Confirmado;63;Clínico Epidemiológico;Importado;Cura
+2025-03-25;2025-03-24;SANTA QUITERIA;F;Confirmado;27;Clínico Epidemiológico;Autóctone;Cura
+2025-03-25;2025-03-24;SITIO CERCADO;F;Confirmado;22;Clínico Epidemiológico;Autóctone;Cura
+2025-03-25;2025-03-24;SITIO CERCADO;F;Confirmado;63;Clínico Epidemiológico;Importado;Cura
+2025-03-25;2025-03-24;SITIO CERCADO;M;Confirmado;47;Clínico Epidemiológico;Autóctone;Cura
+2025-03-25;2025-03-24;UMBARA;M;Confirmado;23;Clínico Epidemiológico;Importado;Cura
+2025-03-25;2025-03-25;CAJURU;F;Confirmado;50;Clínico Epidemiológico;Autóctone;Cura
+2025-03-25;2025-03-25;CAJURU;F;Confirmado;51;Laboratório;Importado;Cura
+2025-03-25;2025-03-25;CAJURU;M;Confirmado;18;Clínico Epidemiológico;Autóctone;Cura
+2025-03-25;2025-03-25;CAPAO DA IMBUIA;F;Confirmado;27;Clínico Epidemiológico;Autóctone;Cura
+2025-03-25;2025-03-25;CAPAO DA IMBUIA;F;Confirmado;58;Clínico Epidemiológico;Autóctone;Cura
+2025-03-25;2025-03-25;SITIO CERCADO;F;Confirmado;8;Clínico Epidemiológico;Autóctone;Cura
+2025-03-25;2025-03-25;SITIO CERCADO;M;Confirmado;52;Clínico Epidemiológico;Autóctone;Cura
+2025-03-25;2025-03-25;UBERABA;M;Confirmado;24;Clínico Epidemiológico;Autóctone;Cura
+2025-03-26;2025-03-18;BOQUEIRAO;F;Confirmado;64;Clínico Epidemiológico;Importado;Cura
+2025-03-26;2025-03-21;XAXIM;F;Confirmado;52;Clínico Epidemiológico;Autóctone;Cura
+2025-03-26;2025-03-22;ALTO BOQUEIRAO;M;Confirmado;32;Laboratório;Importado;Cura
+2025-03-26;2025-03-24;CIC (2);F;Confirmado;48;Laboratório;Autóctone;Cura
+2025-03-26;2025-03-24;GANCHINHO;F;Confirmado;25;Clínico Epidemiológico;Autóctone;Cura
+2025-03-26;2025-03-24;SANTA QUITERIA;F;Confirmado;84;Laboratório;Autóctone;Cura
+2025-03-26;2025-03-24;SITIO CERCADO;M;Confirmado;62;Clínico Epidemiológico;Importado;Cura
+2025-03-26;2025-03-25;SANTA QUITERIA;M;Confirmado;18;Laboratório;Autóctone;Cura
+2025-03-26;2025-03-25;TATUQUARA;M;Confirmado;23;Clínico Epidemiológico;Autóctone;Cura
+2025-03-26;2025-03-26;ALTO BOQUEIRAO;M;Confirmado;45;Laboratório;Autóctone;Cura
+2025-03-26;2025-03-26;CAJURU;F;Confirmado;38;Clínico Epidemiológico;Autóctone;Cura
+2025-03-26;2025-03-26;JARDIM DAS AMERICAS;F;Confirmado;23;Clínico Epidemiológico;Autóctone;Cura
+2025-03-26;2025-03-26;TARUMA1;F;Confirmado;14;Clínico Epidemiológico;Autóctone;Cura
+2025-03-27;2025-03-20;XAXIM;M;Confirmado;29;Laboratório;Importado;Cura
+2025-03-27;2025-03-21;CAMPO DE SANTANA;F;Confirmado;19;Laboratório;Importado;Cura
+2025-03-27;2025-03-23;CAJURU;F;Confirmado;36;Clínico Epidemiológico;Autóctone;Cura
+2025-03-27;2025-03-23;CAJURU;F;Confirmado;51;Clínico Epidemiológico;Autóctone;Cura
+2025-03-27;2025-03-23;NOVO MUNDO;M;Confirmado;33;Clínico Epidemiológico;Importado;Cura
+2025-03-27;2025-03-25;AGUA VERDE;M;Confirmado;57;Clínico Epidemiológico;Importado;Cura
+2025-03-27;2025-03-25;CAJURU;M;Confirmado;26;Clínico Epidemiológico;Importado;Cura
+2025-03-27;2025-03-25;CAJURU;M;Confirmado;84;Clínico Epidemiológico;Autóctone;Cura
+2025-03-27;2025-03-25;CIC (2);F;Confirmado;18;Laboratório;Autóctone;Cura
+2025-03-27;2025-03-25;JARDIM DAS AMERICAS;M;Confirmado;87;Clínico Epidemiológico;Autóctone;Cura
+2025-03-27;2025-03-26;CAJURU;F;Confirmado;26;Clínico Epidemiológico;Autóctone;Cura
+2025-03-27;2025-03-26;CIC (2);M;Confirmado;26;Laboratório;Autóctone;Cura
+2025-03-27;2025-03-26;SANTA QUITERIA;F;Confirmado;66;Clínico Epidemiológico;Autóctone;Cura
+2025-03-27;2025-03-26;SANTA QUITERIA;M;Confirmado;62;Clínico Epidemiológico;Autóctone;Cura
+2025-03-27;2025-03-26;TATUQUARA;F;Confirmado;25;Laboratório;Autóctone;Cura
+2025-03-27;2025-03-26;UBERABA;F;Confirmado;31;Clínico Epidemiológico;Autóctone;Cura
+2025-03-27;2025-03-26;XAXIM;M;Confirmado;24;Laboratório;Autóctone;Cura
+2025-03-27;2025-03-27;JARDIM DAS AMERICAS;M;Confirmado;37;Laboratório;Autóctone;Cura
+2025-03-27;2025-03-27;SANTA QUITERIA;M;Confirmado;31;Clínico Epidemiológico;Autóctone;Cura
+2025-03-27;2025-03-27;UBERABA;M;Confirmado;29;Clínico Epidemiológico;Autóctone;Cura
+2025-03-28;2025-03-20;BOQUEIRAO;M;Confirmado;59;Clínico Epidemiológico;Autóctone;Cura
+2025-03-28;2025-03-22;ALTO BOQUEIRAO;F;Confirmado;30;Clínico Epidemiológico;Autóctone;Cura
+2025-03-28;2025-03-23;JUVEVE;M;Confirmado;53;Laboratório;Importado;Cura
+2025-03-28;2025-03-24;SANTA FELICIDADE;F;Confirmado;26;Clínico Epidemiológico;Importado;Cura
+2025-03-28;2025-03-25;SITIO CERCADO;M;Confirmado;56;Laboratório;Importado;Cura
+2025-03-28;2025-03-25;TATUQUARA;M;Confirmado;33;Laboratório;Autóctone;Cura
+2025-03-28;2025-03-26;TATUQUARA;M;Confirmado;53;Laboratório;Autóctone;Cura
+2025-03-28;2025-03-27;BOA VISTA;F;Confirmado;31;Clínico Epidemiológico;Autóctone;Cura
+2025-03-28;2025-03-27;CAPAO DA IMBUIA;M;Confirmado;22;Clínico Epidemiológico;Autóctone;Cura
+2025-03-28;2025-03-27;GUABIROTUBA;F;Confirmado;34;Clínico Epidemiológico;Autóctone;Cura
+2025-03-29;2025-03-22;SITIO CERCADO;F;Confirmado;18;Clínico Epidemiológico;Autóctone;Cura
+2025-03-29;2025-03-27;UBERABA;F;Confirmado;46;Clínico Epidemiológico;Autóctone;Cura
+2025-03-29;2025-03-27;XAXIM;F;Confirmado;45;Clínico Epidemiológico;Importado;Cura
+2025-03-29;2025-03-28;CAMPO DE SANTANA;F;Confirmado;24;Clínico Epidemiológico;Autóctone;Cura
+2025-03-29;2025-03-28;LINDOIA;F;Confirmado;47;Laboratório;Autóctone;Cura
+2025-03-29;2025-03-29;BOQUEIRAO;M;Confirmado;20;Clínico Epidemiológico;Autóctone;Cura
+2025-03-30;2025-03-26;LINDOIA;M;Confirmado;29;Clínico Epidemiológico;Autóctone;Cura
+2025-03-30;2025-03-27;CIC (2);F;Confirmado;13;Laboratório;Importado;Cura
+2025-03-30;2025-03-27;SITIO CERCADO;F;Confirmado;21;Clínico Epidemiológico;Autóctone;Cura
+2025-03-30;2025-03-28;NOVO MUNDO;F;Confirmado;33;Clínico Epidemiológico;Autóctone;Cura
+2025-03-30;2025-03-30;CABRAL;M;Confirmado;33;Clínico Epidemiológico;Autóctone;Cura
+2025-03-30;2025-03-30;LINDOIA;F;Confirmado;37;Clínico Epidemiológico;Autóctone;Cura
+2025-03-31;2025-03-21;SITIO CERCADO;F;Confirmado;22;Laboratório;Importado;Cura
+2025-03-31;2025-03-23;SITIO CERCADO;F;Confirmado;35;Clínico Epidemiológico;Importado;Cura
+2025-03-31;2025-03-26;PINHEIRINHO;F;Confirmado;25;Laboratório;Importado;Cura
+2025-03-31;2025-03-27;ALTO BOQUEIRAO;M;Confirmado;75;Clínico Epidemiológico;Autóctone;Cura
+2025-03-31;2025-03-27;BOQUEIRAO;F;Confirmado;68;Clínico Epidemiológico;Autóctone;Cura
+2025-03-31;2025-03-27;HAUER;M;Confirmado;34;Clínico Epidemiológico;Autóctone;Cura
+2025-03-31;2025-03-27;SANTA QUITERIA;F;Confirmado;68;Clínico Epidemiológico;Autóctone;Cura
+2025-03-31;2025-03-27;SITIO CERCADO;F;Confirmado;13;Laboratório;Importado;Cura
+2025-03-31;2025-03-28;AGUA VERDE;M;Confirmado;35;Clínico Epidemiológico;Importado;Cura
+2025-03-31;2025-03-28;BOQUEIRAO1;M;Confirmado;23;Clínico Epidemiológico;Importado;Cura
+2025-03-31;2025-03-28;SANTA QUITERIA;M;Confirmado;11;Clínico Epidemiológico;Autóctone;Cura
+2025-03-31;2025-03-28;SANTA QUITERIA;M;Confirmado;30;Clínico Epidemiológico;Importado;Cura
+2025-03-31;2025-03-28;TATUQUARA;F;Confirmado;52;Laboratório;Importado;Cura
+2025-03-31;2025-03-29;CAJURU;M;Confirmado;44;Clínico Epidemiológico;Autóctone;Cura
+2025-03-31;2025-03-29;CIC (2);F;Confirmado;52;Clínico Epidemiológico;Importado;Cura
+2025-03-31;2025-03-29;PAROLIM;F;Confirmado;37;Clínico Epidemiológico;Autóctone;Cura
+2025-03-31;2025-03-30;CAMPO COMPRIDO (2);M;Confirmado;34;Clínico Epidemiológico;Autóctone;Cura
+2025-03-31;2025-03-30;FAZENDINHA;F;Confirmado;59;Clínico Epidemiológico;Autóctone;Cura
+2025-03-31;2025-03-30;HAUER;F;Confirmado;34;Clínico Epidemiológico;Autóctone;Cura
+2025-03-31;2025-03-30;SITIO CERCADO;F;Confirmado;48;Clínico Epidemiológico;Autóctone;Cura
+2025-03-31;2025-03-30;SITIO CERCADO;M;Confirmado;15;Laboratório;Autóctone;Cura
+2025-03-31;2025-03-30;XAXIM;M;Confirmado;25;Clínico Epidemiológico;Autóctone;Cura
+2025-03-31;2025-03-31;CAJURU;M;Confirmado;31;Clínico Epidemiológico;Autóctone;Cura
+2025-03-31;2025-03-31;UBERABA;F;Confirmado;11;Clínico Epidemiológico;Autóctone;Cura
+2025-04-01;2025-03-26;CACHOEIRA;F;Confirmado;44;Laboratório;Importado;Cura
+2025-04-01;2025-03-28;TATUQUARA;F;Confirmado;13;Laboratório;Autóctone;Cura
+2025-04-01;2025-03-29;ALTO BOQUEIRAO;M;Confirmado;41;Clínico Epidemiológico;Importado;Cura
+2025-04-01;2025-03-30;CABRAL;F;Confirmado;37;Clínico Epidemiológico;Importado;Cura
+2025-04-01;2025-03-30;CAJURU;F;Confirmado;40;Clínico Epidemiológico;Importado;Cura
+2025-04-01;2025-03-30;FAZENDINHA;F;Confirmado;61;Clínico Epidemiológico;Autóctone;Cura
+2025-04-01;2025-03-30;SANTA QUITERIA;M;Confirmado;70;Clínico Epidemiológico;Autóctone;Cura
+2025-04-01;2025-03-30;XAXIM;F;Confirmado;20;Clínico Epidemiológico;Autóctone;Cura
+2025-04-01;2025-03-30;XAXIM;F;Confirmado;39;Clínico Epidemiológico;Autóctone;Cura
+2025-04-01;2025-03-31;AUGUSTA;F;Confirmado;23;Clínico Epidemiológico;Autóctone;Cura
+2025-04-01;2025-04-01;CAJURU;M;Confirmado;29;Clínico Epidemiológico;Autóctone;Cura
+2025-04-01;2025-04-01;UMBARA;M;Confirmado;45;Laboratório;Importado;Cura
+2025-04-02;2025-03-17;CAPAO RASO;F;Confirmado;68;Clínico Epidemiológico;Importado;Cura
+2025-04-02;2025-03-27;CAPAO DA IMBUIA;M;Confirmado;22;Clínico Epidemiológico;Autóctone;Cura
+2025-04-02;2025-03-28;TATUQUARA;M;Confirmado;20;Laboratório;Autóctone;Cura
+2025-04-02;2025-03-29;CACHOEIRA;F;Confirmado;51;Clínico Epidemiológico;Importado;Cura
+2025-04-02;2025-03-29;CAJURU;M;Confirmado;56;Clínico Epidemiológico;Autóctone;Cura
+2025-04-02;2025-03-29;UBERABA;M;Confirmado;30;Clínico Epidemiológico;Autóctone;Cura
+2025-04-02;2025-03-31;CIC (2);F;Confirmado;30;Clínico Epidemiológico;Autóctone;Cura
+2025-04-02;2025-03-31;SANTA QUITERIA;M;Confirmado;37;Clínico Epidemiológico;Autóctone;Cura
+2025-04-02;2025-03-31;XAXIM;F;Confirmado;15;Laboratório;Autóctone;Cura
+2025-04-02;2025-04-01;BAIRRO ALTO;M;Confirmado;37;Clínico Epidemiológico;Autóctone;Cura
+2025-04-02;2025-04-01;CAJURU;M;Confirmado;19;Clínico Epidemiológico;Autóctone;Cura
+2025-04-02;2025-04-01;CAPAO DA IMBUIA;F;Confirmado;55;Clínico Epidemiológico;Autóctone;Cura
+2025-04-02;2025-04-02;CAJURU;M;Confirmado;15;Clínico Epidemiológico;Autóctone;Cura
+2025-04-02;2025-04-02;SANTA QUITERIA;F;Confirmado;19;Clínico Epidemiológico;Autóctone;Cura
+2025-04-03;2025-03-29;ALTO BOQUEIRAO;M;Confirmado;27;Clínico Epidemiológico;Autóctone;Cura
+2025-04-03;2025-03-29;SANTA QUITERIA;F;Confirmado;58;Clínico Epidemiológico;Autóctone;Cura
+2025-04-03;2025-03-31;CAJURU;M;Confirmado;14;Clínico Epidemiológico;Autóctone;Cura
+2025-04-03;2025-03-31;SANTA CANDIDA;M;Confirmado;48;Laboratório;Importado;Cura
+2025-04-03;2025-03-31;UBERABA;F;Confirmado;46;Clínico Epidemiológico;Autóctone;Cura
+2025-04-03;2025-04-01;SANTA CANDIDA;F;Confirmado;41;Laboratório;Importado;Cura
+2025-04-03;2025-04-01;SANTA QUITERIA;F;Confirmado;15;Laboratório;Autóctone;Cura
+2025-04-03;2025-04-01;SANTA QUITERIA;M;Confirmado;28;Clínico Epidemiológico;Autóctone;Cura
+2025-04-03;2025-04-02;CAJURU;F;Confirmado;15;Clínico Epidemiológico;Autóctone;Cura
+2025-04-03;2025-04-02;CAJURU;F;Confirmado;22;Clínico Epidemiológico;Autóctone;Cura
+2025-04-03;2025-04-02;CAJURU;F;Confirmado;64;Clínico Epidemiológico;Autóctone;Cura
+2025-04-03;2025-04-02;CIC (2);F;Confirmado;52;Clínico Epidemiológico;Autóctone;Cura
+2025-04-03;2025-04-02;CIC (2);F;Confirmado;63;Laboratório;Autóctone;Cura
+2025-04-03;2025-04-02;MERCES;M;Confirmado;68;Clínico Epidemiológico;Autóctone;Cura
+2025-04-03;2025-04-02;SANTA FELICIDADE;M;Confirmado;60;Clínico Epidemiológico;Importado;Cura
+2025-04-03;2025-04-02;SANTA QUITERIA;F;Confirmado;35;Clínico Epidemiológico;Autóctone;Cura
+2025-04-03;2025-04-02;SANTA QUITERIA;F;Confirmado;87;Clínico Epidemiológico;Autóctone;Cura
+2025-04-03;2025-04-02;UBERABA;F;Confirmado;61;Clínico Epidemiológico;Autóctone;Cura
+2025-04-03;2025-04-03;CAJURU;M;Confirmado;7;Clínico Epidemiológico;Autóctone;Cura
+2025-04-03;2025-04-03;CAJURU;M;Confirmado;60;Clínico Epidemiológico;Autóctone;Cura
+2025-04-03;2025-04-03;LINDOIA;F;Confirmado;38;Laboratório;Autóctone;Cura
+2025-04-03;2025-04-03;SANTA QUITERIA;F;Confirmado;37;Clínico Epidemiológico;Autóctone;Cura
+2025-04-03;2025-04-03;SITIO CERCADO;M;Confirmado;42;Clínico Epidemiológico;Autóctone;Cura
+2025-04-04;2025-03-22;CASCATINHA;M;Confirmado;45;Clínico Epidemiológico;Importado;Cura
+2025-04-04;2025-03-26;CIC (2);M;Confirmado;47;Laboratório;Importado;Cura
+2025-04-04;2025-03-27;BIGORRILHO1;F;Confirmado;69;Clínico Epidemiológico;Importado;Cura
+2025-04-04;2025-03-30;SITIO CERCADO;F;Confirmado;38;Laboratório;Autóctone;Cura
+2025-04-04;2025-03-30;XAXIM;M;Confirmado;82;Clínico Epidemiológico;Autóctone;Cura
+2025-04-04;2025-03-31;CIC (2);M;Confirmado;45;Clínico Epidemiológico;Autóctone;Cura
+2025-04-04;2025-03-31;FAZENDINHA;F;Confirmado;30;Clínico Epidemiológico;Autóctone;Cura
+2025-04-04;2025-04-01;BOQUEIRAO;M;Confirmado;34;Clínico Epidemiológico;Autóctone;Cura
+2025-04-04;2025-04-01;CRISTO REI;F;Confirmado;50;Clínico Epidemiológico;Importado;Cura
+2025-04-04;2025-04-01;SITIO CERCADO;M;Confirmado;61;Clínico Epidemiológico;Autóctone;Cura
+2025-04-04;2025-04-02;CAJURU;M;Confirmado;60;Clínico Epidemiológico;Autóctone;Cura
+2025-04-04;2025-04-02;PORTAO;F;Confirmado;55;Clínico Epidemiológico;Autóctone;Cura
+2025-04-04;2025-04-03;SANTA QUITERIA;M;Confirmado;26;Clínico Epidemiológico;Autóctone;Cura
+2025-04-04;2025-04-03;TATUQUARA;M;Confirmado;61;Laboratório;Autóctone;Cura
+2025-04-05;2025-04-01;PORTAO;M;Confirmado;41;Clínico Epidemiológico;Autóctone;Cura
+2025-04-05;2025-04-04;CAJURU;M;Confirmado;47;Clínico Epidemiológico;Autóctone;Cura
+2025-04-05;2025-04-04;SITIO CERCADO;F;Confirmado;25;Clínico Epidemiológico;Autóctone;Cura
+2025-04-05;2025-04-05;CAJURU;F;Confirmado;56;Clínico Epidemiológico;Autóctone;Cura
+2025-04-05;2025-04-05;CIC (2);M;Confirmado;30;Clínico Epidemiológico;Autóctone;Cura
+2025-04-05;2025-04-05;SANTA QUITERIA;M;Confirmado;50;Clínico Epidemiológico;Autóctone;Cura
+2025-04-06;2025-03-31;CAPAO RASO;F;Confirmado;42;Clínico Epidemiológico;Autóctone;Cura
+2025-04-06;2025-04-04;CACHOEIRA;M;Confirmado;71;Clínico Epidemiológico;Importado;Cura
+2025-04-06;2025-04-04;FANNY;M;Confirmado;22;Clínico Epidemiológico;Autóctone;Cura
+2025-04-06;2025-04-04;SITIO CERCADO;F;Confirmado;29;Laboratório;Autóctone;Cura
+2025-04-06;2025-04-05;CAJURU;M;Confirmado;52;Clínico Epidemiológico;Autóctone;Cura
+2025-04-06;2025-04-06;JUVEVE;F;Confirmado;46;Clínico Epidemiológico;Importado;Cura
+2025-04-06;2025-04-06;SITIO CERCADO;F;Confirmado;38;Laboratório;Autóctone;Cura
+2025-04-06;2025-04-06;XAXIM;M;Confirmado;33;Clínico Epidemiológico;Autóctone;Cura
+2025-04-07;2025-03-25;JARDIM SOCIAL;M;Confirmado;61;Clínico Epidemiológico;Importado;Cura
+2025-04-07;2025-03-28;LINDOIA;F;Confirmado;29;Laboratório;Autóctone;Cura
+2025-04-07;2025-03-31;PAROLIM;F;Confirmado;31;Clínico Epidemiológico;Autóctone;Cura
+2025-04-07;2025-04-01;UBERABA;M;Confirmado;20;Clínico Epidemiológico;Autóctone;Cura
+2025-04-07;2025-04-02;CAPAO RASO;M;Confirmado;44;Laboratório;Importado;Cura
+2025-04-07;2025-04-03;ALTO BOQUEIRAO;M;Confirmado;49;Clínico Epidemiológico;Importado;Cura
+2025-04-07;2025-04-03;BAIRRO ALTO;F;Confirmado;22;Clínico Epidemiológico;Autóctone;Cura
+2025-04-07;2025-04-03;BAIRRO ALTO;M;Confirmado;25;Laboratório;Autóctone;Cura
+2025-04-07;2025-04-04;CAJURU;F;Confirmado;24;Clínico Epidemiológico;Importado;Cura
+2025-04-07;2025-04-04;CENTRO;M;Confirmado;60;Clínico Epidemiológico;Importado;Cura
+2025-04-07;2025-04-04;SITIO CERCADO;M;Confirmado;43;Clínico Epidemiológico;Autóctone;Cura
+2025-04-07;2025-04-04;UBERABA;M;Confirmado;59;Clínico Epidemiológico;Autóctone;Cura
+2025-04-07;2025-04-04;UMBARA1;M;Confirmado;16;Laboratório;Autóctone;Cura
+2025-04-07;2025-04-05;ALTO BOQUEIRAO;F;Confirmado;47;Clínico Epidemiológico;Autóctone;Cura
+2025-04-07;2025-04-05;ALTO BOQUEIRAO;M;Confirmado;32;Laboratório;Autóctone;Cura
+2025-04-07;2025-04-05;CAJURU;M;Confirmado;15;Clínico Epidemiológico;Autóctone;Cura
+2025-04-07;2025-04-05;NOVO MUNDO;M;Confirmado;39;Clínico Epidemiológico;Importado;Cura
+2025-04-07;2025-04-05;SANTA QUITERIA;M;Confirmado;11;Clínico Epidemiológico;Autóctone;Cura
+2025-04-07;2025-04-05;SANTA QUITERIA;M;Confirmado;42;Clínico Epidemiológico;Autóctone;Cura
+2025-04-07;2025-04-05;SITIO CERCADO;M;Confirmado;36;Clínico Epidemiológico;Importado;Cura
+2025-04-07;2025-04-06;UMBARA;M;Confirmado;27;Laboratório;Autóctone;Cura
+2025-04-07;2025-04-07;CIC (2);M;Confirmado;10;Laboratório;Importado;Cura
+2025-04-07;2025-04-07;SITIO CERCADO;M;Confirmado;24;Clínico Epidemiológico;Importado;Cura
+2025-04-08;2025-03-30;MOSSUNGUE;F;Confirmado;43;Clínico Epidemiológico;Importado;Cura
+2025-04-08;2025-04-01;CIC (2);F;Confirmado;69;Laboratório;Autóctone;Cura
+2025-04-08;2025-04-01;LINDOIA;F;Confirmado;48;Laboratório;Autóctone;Cura
+2025-04-08;2025-04-01;XAXIM;M;Confirmado;93;Laboratório;Autóctone;Cura
+2025-04-08;2025-04-02;ALTO BOQUEIRAO;M;Confirmado;50;Clínico Epidemiológico;Autóctone;Cura
+2025-04-08;2025-04-03;CAJURU;M;Confirmado;52;Laboratório;Autóctone;Cura
+2025-04-08;2025-04-04;BARREIRINHA;F;Confirmado;20;Laboratório;Importado;Cura
+2025-04-08;2025-04-04;FAZENDINHA;M;Confirmado;27;Clínico Epidemiológico;Autóctone;Cura
+2025-04-08;2025-04-04;SANTA QUITERIA;M;Confirmado;49;Clínico Epidemiológico;Autóctone;Cura
+2025-04-08;2025-04-04;UMBARA1;F;Confirmado;47;Laboratório;Autóctone;Cura
+2025-04-08;2025-04-05;CAJURU;M;Confirmado;39;Clínico Epidemiológico;Autóctone;Cura
+2025-04-08;2025-04-05;JARDIM BOTANICO;F;Confirmado;50;Clínico Epidemiológico;Importado;Cura
+2025-04-08;2025-04-05;LINDOIA;M;Confirmado;21;Clínico Epidemiológico;Autóctone;Cura
+2025-04-08;2025-04-05;SITIO CERCADO;F;Confirmado;19;Clínico Epidemiológico;Autóctone;Cura
+2025-04-08;2025-04-05;VILA IZABEL;M;Confirmado;43;Laboratório;Autóctone;Cura
+2025-04-08;2025-04-06;TINGUI;F;Confirmado;28;Clínico Epidemiológico;Importado;Cura
+2025-04-08;2025-04-07;ALTO BOQUEIRAO;F;Confirmado;34;Clínico Epidemiológico;Autóctone;Cura
+2025-04-08;2025-04-07;CAJURU;F;Confirmado;30;Clínico Epidemiológico;Autóctone;Cura
+2025-04-08;2025-04-07;CIC (2);M;Confirmado;30;Clínico Epidemiológico;Autóctone;Cura
+2025-04-08;2025-04-08;ALTO BOQUEIRAO;M;Confirmado;15;Clínico Epidemiológico;Autóctone;Cura
+2025-04-08;2025-04-08;CAJURU;F;Confirmado;28;Clínico Epidemiológico;Autóctone;Cura
+2025-04-08;2025-04-08;CAJURU;M;Confirmado;30;Clínico Epidemiológico;Autóctone;Cura
+2025-04-08;2025-04-08;CAMPO DE SANTANA;M;Confirmado;22;Clínico Epidemiológico;Autóctone;Cura
+2025-04-08;2025-04-08;CAMPO DE SANTANA;M;Confirmado;26;Clínico Epidemiológico;Autóctone;Cura
+2025-04-09;2025-03-31;BAIRRO ALTO;M;Confirmado;31;Laboratório;Autóctone;Cura
+2025-04-09;2025-04-05;SITIO CERCADO;F;Confirmado;12;Clínico Epidemiológico;Autóctone;Cura
+2025-04-09;2025-04-06;ALTO BOQUEIRAO;M;Confirmado;21;Clínico Epidemiológico;Importado;Cura
+2025-04-09;2025-04-06;BARREIRINHA;F;Confirmado;73;Clínico Epidemiológico;Autóctone;Cura
+2025-04-09;2025-04-06;SITIO CERCADO;F;Confirmado;52;Clínico Epidemiológico;Importado;Cura
+2025-04-09;2025-04-06;XAXIM;F;Confirmado;29;Clínico Epidemiológico;Autóctone;Cura
+2025-04-09;2025-04-06;XAXIM;F;Confirmado;58;Clínico Epidemiológico;Autóctone;Cura
+2025-04-09;2025-04-07;ALTO BOQUEIRAO;F;Confirmado;44;Clínico Epidemiológico;Autóctone;Cura
+2025-04-09;2025-04-07;BAIRRO ALTO;F;Confirmado;41;Laboratório;Importado;Cura
+2025-04-09;2025-04-07;BOQUEIRAO1;M;Confirmado;29;Clínico Epidemiológico;Autóctone;Cura
+2025-04-09;2025-04-07;CENTRO;M;Confirmado;61;Laboratório;Importado;Cura
+2025-04-09;2025-04-07;CIC (2);F;Confirmado;60;Clínico Epidemiológico;Autóctone;Cura
+2025-04-09;2025-04-07;CIC (2);M;Confirmado;17;Clínico Epidemiológico;Importado;Cura
+2025-04-09;2025-04-07;TATUQUARA;F;Confirmado;67;Clínico Epidemiológico;Importado;Cura
+2025-04-09;2025-04-07;XAXIM;F;Confirmado;20;Clínico Epidemiológico;Autóctone;Cura
+2025-04-09;2025-04-08;ALTO BOQUEIRAO;F;Confirmado;10;Clínico Epidemiológico;Autóctone;Cura
+2025-04-09;2025-04-08;CAMPO DE SANTANA;F;Confirmado;22;Clínico Epidemiológico;Autóctone;Cura
+2025-04-09;2025-04-08;CIC (2);F;Confirmado;66;Laboratório;Autóctone;Cura
+2025-04-09;2025-04-08;SITIO CERCADO;M;Confirmado;43;Clínico Epidemiológico;Autóctone;Cura
+2025-04-09;2025-04-09;CAJURU;F;Confirmado;24;Clínico Epidemiológico;Autóctone;Cura
+2025-04-09;2025-04-09;TATUQUARA;F;Confirmado;22;Clínico Epidemiológico;Autóctone;Cura
+2025-04-10;2025-04-04;CIC (2);F;Confirmado;56;Clínico Epidemiológico;Autóctone;Cura
+2025-04-10;2025-04-04;XAXIM;M;Confirmado;26;Clínico Epidemiológico;Autóctone;Cura
+2025-04-10;2025-04-05;UMBARA1;F;Confirmado;37;Laboratório;Autóctone;Cura
+2025-04-10;2025-04-06;CAJURU;M;Confirmado;79;Clínico Epidemiológico;Autóctone;Cura
+2025-04-10;2025-04-06;PINHEIRINHO1;F;Confirmado;16;Clínico Epidemiológico;Autóctone;Cura
+2025-04-10;2025-04-06;UMBARA1;M;Confirmado;46;Clínico Epidemiológico;Autóctone;Cura
+2025-04-10;2025-04-06;XAXIM;M;Confirmado;73;Clínico Epidemiológico;Autóctone;Cura
+2025-04-10;2025-04-07;TATUQUARA;F;Confirmado;66;Clínico Epidemiológico;Autóctone;Cura
+2025-04-10;2025-04-07;XAXIM;F;Confirmado;73;Clínico Epidemiológico;Autóctone;Cura
+2025-04-10;2025-04-08;ALTO BOQUEIRAO;F;Confirmado;22;Clínico Epidemiológico;Autóctone;Cura
+2025-04-10;2025-04-08;CAMPO DE SANTANA;M;Confirmado;48;Clínico Epidemiológico;Autóctone;Cura
+2025-04-10;2025-04-08;JARDIM DAS AMERICAS;M;Confirmado;43;Clínico Epidemiológico;Autóctone;Cura
+2025-04-10;2025-04-09;CAJURU;M;Confirmado;19;Clínico Epidemiológico;Autóctone;Cura
+2025-04-10;2025-04-09;CAJURU;M;Confirmado;46;Clínico Epidemiológico;Autóctone;Cura
+2025-04-10;2025-04-09;CIC (2);M;Confirmado;48;Clínico Epidemiológico;Autóctone;Cura
+2025-04-10;2025-04-09;SANTA QUITERIA;F;Confirmado;45;Clínico Epidemiológico;Autóctone;Cura
+2025-04-10;2025-04-10;BOQUEIRAO1;M;Confirmado;21;Clínico Epidemiológico;Autóctone;Cura
+2025-04-10;2025-04-10;CIC (2);F;Confirmado;28;Clínico Epidemiológico;Autóctone;Cura
+2025-04-10;2025-04-10;GUABIROTUBA;F;Confirmado;10;Laboratório;Autóctone;Cura
+2025-04-10;2025-04-10;GUABIROTUBA;M;Confirmado;2;Laboratório;Autóctone;Cura
+2025-04-10;2025-04-10;TATUQUARA;M;Confirmado;40;Clínico Epidemiológico;Autóctone;Cura
+2025-04-11;2025-04-04;JARDIM DAS AMERICAS;F;Confirmado;18;Clínico Epidemiológico;Autóctone;Cura
+2025-04-11;2025-04-04;SANTA FELICIDADE;M;Confirmado;47;Laboratório;Importado;Cura
+2025-04-11;2025-04-04;UMBARA1;F;Confirmado;70;Laboratório;Autóctone;Cura
+2025-04-11;2025-04-05;CACHOEIRA;F;Confirmado;58;Clínico Epidemiológico;Importado;Cura
+2025-04-11;2025-04-05;SAO FRANCISCO;M;Confirmado;68;Clínico Epidemiológico;Importado;Cura
+2025-04-11;2025-04-07;SANTA QUITERIA;M;Confirmado;66;Clínico Epidemiológico;Autóctone;Cura
+2025-04-11;2025-04-07;TATUQUARA;M;Confirmado;37;Clínico Epidemiológico;Importado;Cura
+2025-04-11;2025-04-07;XAXIM;F;Confirmado;46;Clínico Epidemiológico;Autóctone;Cura
+2025-04-11;2025-04-08;CIC (2);F;Confirmado;47;Clínico Epidemiológico;Autóctone;Cura
+2025-04-11;2025-04-09;PINHEIRINHO1;M;Confirmado;18;Laboratório;Autóctone;Cura
+2025-04-11;2025-04-10;CAJURU;F;Confirmado;23;Clínico Epidemiológico;Autóctone;Cura
+2025-04-11;2025-04-10;SITIO CERCADO;M;Confirmado;44;Clínico Epidemiológico;Importado;Cura
+2025-04-11;2025-04-11;CAMPO DE SANTANA;F;Confirmado;69;Laboratório;Importado;Cura
+2025-04-11;2025-04-11;CIC (2);F;Confirmado;63;Laboratório;Autóctone;Cura
+2025-04-12;2025-04-01;CIC (2);F;Confirmado;88;Clínico Epidemiológico;Autóctone;Cura
+2025-04-12;2025-04-09;CAJURU;F;Confirmado;57;Clínico Epidemiológico;Autóctone;Cura
+2025-04-12;2025-04-10;SITIO CERCADO;M;Confirmado;22;Clínico Epidemiológico;Importado;Cura
+2025-04-12;2025-04-12;XAXIM;M;Confirmado;14;Clínico Epidemiológico;Autóctone;Cura
+2025-04-13;2025-04-09;SANTA QUITERIA;F;Confirmado;44;Laboratório;Autóctone;Cura
+2025-04-13;2025-04-10;CIC (2);F;Confirmado;24;Laboratório;Importado;Cura
+2025-04-13;2025-04-11;SITIO CERCADO;F;Confirmado;44;Clínico Epidemiológico;Importado;Cura
+2025-04-13;2025-04-11;XAXIM;M;Confirmado;30;Clínico Epidemiológico;Autóctone;Cura
+2025-04-13;2025-04-12;UBERABA;M;Confirmado;33;Clínico Epidemiológico;Autóctone;Cura
+2025-04-13;2025-04-13;BOQUEIRAO1;M;Confirmado;47;Clínico Epidemiológico;Autóctone;Cura
+2025-04-14;2025-03-14;LINDOIA;F;Confirmado;30;Clínico Epidemiológico;Autóctone;Cura
+2025-04-14;2025-04-04;ALTO BOQUEIRAO;F;Confirmado;18;Clínico Epidemiológico;Importado;Cura
+2025-04-14;2025-04-04;ALTO BOQUEIRAO;F;Confirmado;57;Clínico Epidemiológico;Importado;Cura
+2025-04-14;2025-04-04;NOVO MUNDO;F;Confirmado;40;Clínico Epidemiológico;Autóctone;Cura
+2025-04-14;2025-04-09;CIC (2);M;Confirmado;28;Clínico Epidemiológico;Importado;Cura
+2025-04-14;2025-04-09;LINDOIA;F;Confirmado;33;Clínico Epidemiológico;Autóctone;Cura
+2025-04-14;2025-04-09;SANTA QUITERIA;F;Confirmado;90;Clínico Epidemiológico;Autóctone;Cura
+2025-04-14;2025-04-09;XAXIM;M;Confirmado;51;Clínico Epidemiológico;Importado;Cura
+2025-04-14;2025-04-10;GUAIRA;M;Confirmado;26;Clínico Epidemiológico;Autóctone;Cura
+2025-04-14;2025-04-10;SITIO CERCADO;F;Confirmado;41;Laboratório;Autóctone;Cura
+2025-04-14;2025-04-10;XAXIM;M;Confirmado;41;Clínico Epidemiológico;Importado;Cura
+2025-04-14;2025-04-12;ALTO BOQUEIRAO;F;Confirmado;31;Clínico Epidemiológico;Autóctone;Cura
+2025-04-14;2025-04-12;CAPAO DA IMBUIA;F;Confirmado;46;Laboratório;Autóctone;Cura
+2025-04-14;2025-04-13;ALTO BOQUEIRAO;F;Confirmado;30;Clínico Epidemiológico;Autóctone;Cura
+2025-04-14;2025-04-13;FAZENDINHA;M;Confirmado;25;Clínico Epidemiológico;Autóctone;Cura
+2025-04-14;2025-04-13;SANTA QUITERIA;F;Confirmado;16;Laboratório;Autóctone;Cura
+2025-04-14;2025-04-14;CAPAO RASO;M;Confirmado;64;Clínico Epidemiológico;Importado;Cura
+2025-04-14;2025-04-14;SITIO CERCADO;F;Confirmado;27;Laboratório;Autóctone;Cura
+2025-04-15;2025-04-03;JARDIM BOTANICO;F;Confirmado;77;Clínico Epidemiológico;Autóctone;Cura
+2025-04-15;2025-04-03;SITIO CERCADO;M;Confirmado;45;Laboratório;Importado;Cura
+2025-04-15;2025-04-04;UBERABA;F;Confirmado;41;Clínico Epidemiológico;Autóctone;Cura
+2025-04-15;2025-04-08;CAJURU;M;Confirmado;47;Clínico Epidemiológico;Importado;Cura
+2025-04-15;2025-04-09;ALTO DA RUA XV;F;Confirmado;80;Clínico Epidemiológico;Importado;Cura
+2025-04-15;2025-04-11;ALTO BOQUEIRAO;M;Confirmado;75;Laboratório;Autóctone;Cura
+2025-04-15;2025-04-11;CIC (2);M;Confirmado;44;Clínico Epidemiológico;Autóctone;Cura
+2025-04-15;2025-04-12;BACACHERI;M;Confirmado;49;Clínico Epidemiológico;Importado;Cura
+2025-04-15;2025-04-12;SITIO CERCADO;M;Confirmado;24;Laboratório;Importado;Cura
+2025-04-15;2025-04-13;BAIRRO ALTO;M;Confirmado;41;Clínico Epidemiológico;Importado;Cura
+2025-04-15;2025-04-13;CIC (2);F;Confirmado;55;Clínico Epidemiológico;Autóctone;Cura
+2025-04-15;2025-04-13;GUAIRA;F;Confirmado;68;Laboratório;Autóctone;Cura
+2025-04-15;2025-04-14;CAJURU;M;Confirmado;18;Clínico Epidemiológico;Autóctone;Cura
+2025-04-15;2025-04-14;CAJURU;M;Confirmado;78;Clínico Epidemiológico;Importado;Cura
+2025-04-15;2025-04-14;PINHEIRINHO;F;Confirmado;49;Clínico Epidemiológico;Autóctone;Cura
+2025-04-15;2025-04-14;SITIO CERCADO;M;Confirmado;49;Clínico Epidemiológico;Autóctone;Cura
+2025-04-15;2025-04-15;ALTO BOQUEIRAO;F;Confirmado;63;Clínico Epidemiológico;Autóctone;Cura
+2025-04-15;2025-04-15;CAJURU;F;Confirmado;25;Clínico Epidemiológico;Autóctone;Cura
+2025-04-15;2025-04-15;CAJURU;F;Confirmado;42;Clínico Epidemiológico;Autóctone;Cura
+2025-04-15;2025-04-15;CAMPO DE SANTANA;F;Confirmado;13;Clínico Epidemiológico;Autóctone;Cura
+2025-04-15;2025-04-15;PINHEIRINHO;M;Confirmado;11;Clínico Epidemiológico;Importado;Cura
+2025-04-15;2025-04-15;UBERABA;F;Confirmado;35;Clínico Epidemiológico;Autóctone;Cura
+2025-04-16;2025-04-10;UBERABA;M;Confirmado;39;Clínico Epidemiológico;Autóctone;Cura
+2025-04-16;2025-04-13;CAJURU;F;Confirmado;22;Clínico Epidemiológico;Autóctone;Cura
+2025-04-16;2025-04-13;CAJURU;F;Confirmado;31;Clínico Epidemiológico;Autóctone;Cura
+2025-04-16;2025-04-13;CIC (2);M;Confirmado;18;Clínico Epidemiológico;Autóctone;Cura
+2025-04-16;2025-04-13;SANTA QUITERIA;F;Confirmado;58;Clínico Epidemiológico;Autóctone;Cura
+2025-04-16;2025-04-14;SITIO CERCADO;F;Confirmado;31;Clínico Epidemiológico;Importado;Cura
+2025-04-16;2025-04-14;XAXIM;F;Confirmado;48;Clínico Epidemiológico;Autóctone;Cura
+2025-04-16;2025-04-15;CAMPO DE SANTANA;M;Confirmado;38;Clínico Epidemiológico;Autóctone;Cura
+2025-04-16;2025-04-15;CIC (2);F;Confirmado;30;Clínico Epidemiológico;Autóctone;Cura
+2025-04-16;2025-04-15;CIC (2);F;Confirmado;37;Laboratório;Autóctone;Cura
+2025-04-16;2025-04-15;CIC (2);F;Confirmado;37;Laboratório;Importado;Cura
+2025-04-16;2025-04-15;FAZENDINHA;F;Confirmado;31;Clínico Epidemiológico;Importado;Cura
+2025-04-16;2025-04-15;XAXIM;M;Confirmado;45;Clínico Epidemiológico;Autóctone;Cura
+2025-04-16;2025-04-16;CAJURU;M;Confirmado;73;Clínico Epidemiológico;Importado;Cura
+2025-04-16;2025-04-16;SANTA QUITERIA;F;Confirmado;29;Clínico Epidemiológico;Autóctone;Cura
+2025-04-16;2025-04-16;XAXIM;F;Confirmado;74;Clínico Epidemiológico;Autóctone;Cura
+2025-04-17;2025-04-12;PORTAO;F;Confirmado;43;Clínico Epidemiológico;Autóctone;Cura
+2025-04-17;2025-04-14;CIC (2);M;Confirmado;9;Clínico Epidemiológico;Autóctone;Cura
+2025-04-17;2025-04-14;NOVO MUNDO;M;Confirmado;28;Clínico Epidemiológico;Importado;Cura
+2025-04-17;2025-04-15;ALTO BOQUEIRAO;F;Confirmado;47;Clínico Epidemiológico;Autóctone;Cura
+2025-04-17;2025-04-15;GUAIRA;M;Confirmado;18;Clínico Epidemiológico;Autóctone;Cura
+2025-04-17;2025-04-15;SANTA QUITERIA;F;Confirmado;70;Clínico Epidemiológico;Autóctone;Cura
+2025-04-17;2025-04-16;GUAIRA;F;Confirmado;34;Laboratório;Autóctone;Cura
+2025-04-17;2025-04-16;SANTA QUITERIA;M;Confirmado;18;Clínico Epidemiológico;Autóctone;Cura
+2025-04-17;2025-04-17;CAPAO RASO;M;Confirmado;61;Laboratório;Autóctone;Cura
+2025-04-17;2025-04-17;SANTA QUITERIA;F;Confirmado;16;Clínico Epidemiológico;Autóctone;Cura
+2025-04-18;2025-04-12;UBERABA;F;Confirmado;39;Clínico Epidemiológico;Autóctone;Cura
+2025-04-18;2025-04-14;BAIRRO ALTO;M;Confirmado;19;Clínico Epidemiológico;Autóctone;Cura
+2025-04-18;2025-04-15;CAJURU;F;Confirmado;60;Clínico Epidemiológico;Autóctone;Cura
+2025-04-18;2025-04-15;CAPAO DA IMBUIA;M;Confirmado;8;Clínico Epidemiológico;Autóctone;Cura
+2025-04-18;2025-04-16;CAJURU;M;Confirmado;27;Clínico Epidemiológico;Autóctone;Cura
+2025-04-18;2025-04-17;CAJURU;F;Confirmado;43;Clínico Epidemiológico;Autóctone;Cura
+2025-04-18;2025-04-17;UBERABA;M;Confirmado;18;Clínico Epidemiológico;Autóctone;Cura
+2025-04-18;2025-04-18;FAZENDINHA;M;Confirmado;43;Clínico Epidemiológico;Autóctone;Cura
+2025-04-19;2025-04-17;JUVEVE;M;Confirmado;35;Laboratório;Importado;Cura
+2025-04-19;2025-04-18;CAJURU;F;Confirmado;30;Clínico Epidemiológico;Autóctone;Cura
+2025-04-19;2025-04-18;CAMPO COMPRIDO (2);F;Confirmado;39;Clínico Epidemiológico;Autóctone;Cura
+2025-04-19;2025-04-18;CIC (2);F;Confirmado;46;Clínico Epidemiológico;Autóctone;Cura
+2025-04-19;2025-04-18;UBERABA;F;Confirmado;25;Clínico Epidemiológico;Autóctone;Cura
+2025-04-20;2025-04-17;CAJURU;F;Confirmado;31;Clínico Epidemiológico;Autóctone;Cura
+2025-04-20;2025-04-17;CAJURU;F;Confirmado;41;Clínico Epidemiológico;Importado;Cura
+2025-04-20;2025-04-17;CENTRO;F;Confirmado;20;Clínico Epidemiológico;Autóctone;Cura
+2025-04-20;2025-04-18;CAJURU;M;Confirmado;31;Clínico Epidemiológico;Autóctone;Cura
+2025-04-20;2025-04-19;ALTO BOQUEIRAO;M;Confirmado;37;Clínico Epidemiológico;Autóctone;Cura
+2025-04-20;2025-04-19;CAJURU;F;Confirmado;26;Clínico Epidemiológico;Autóctone;Cura
+2025-04-20;2025-04-19;CAJURU;M;Confirmado;39;Clínico Epidemiológico;Autóctone;Cura
+2025-04-20;2025-04-19;UBERABA;M;Confirmado;81;Clínico Epidemiológico;Autóctone;Cura
+2025-04-20;2025-04-20;CAJURU;F;Confirmado;26;Clínico Epidemiológico;Autóctone;Cura
+2025-04-20;2025-04-20;CAJURU;F;Confirmado;30;Clínico Epidemiológico;Autóctone;Cura
+2025-04-21;2025-04-07;XAXIM;F;Confirmado;6;Clínico Epidemiológico;Importado;Cura
+2025-04-21;2025-04-19;CIC (2);F;Confirmado;24;Clínico Epidemiológico;Autóctone;Cura
+2025-04-21;2025-04-20;CIC (2);F;Confirmado;35;Clínico Epidemiológico;Importado;Cura
+2025-04-21;2025-04-20;CIC (2);F;Confirmado;43;Clínico Epidemiológico;Autóctone;Cura
+2025-04-21;2025-04-20;SANTA QUITERIA;M;Confirmado;14;Laboratório;Autóctone;Cura
+2025-04-21;2025-04-20;SITIO CERCADO;F;Confirmado;46;Laboratório;Autóctone;Cura
+2025-04-21;2025-04-20;UBERABA;F;Confirmado;78;Clínico Epidemiológico;Importado;Cura
+2025-04-21;2025-04-20;UMBARA;M;Confirmado;5;Clínico Epidemiológico;Autóctone;Cura
+2025-04-21;2025-04-21;BACACHERI;F;Confirmado;70;Laboratório;Importado;Cura
+2025-04-21;2025-04-21;CAJURU;F;Confirmado;17;Clínico Epidemiológico;Autóctone;Cura
+2025-04-21;2025-04-21;CAJURU;F;Confirmado;43;Clínico Epidemiológico;Autóctone;Cura
+2025-04-21;2025-04-21;TABOAO;F;Confirmado;36;Laboratório;Importado;Cura
+2025-04-21;2025-04-21;XAXIM;M;Confirmado;21;Clínico Epidemiológico;Importado;Cura
+2025-04-22;2025-04-10;XAXIM;F;Confirmado;64;Laboratório;Autóctone;Cura
+2025-04-22;2025-04-12;SANTA QUITERIA;F;Confirmado;77;Laboratório;Autóctone;Cura
+2025-04-22;2025-04-13;SANTA QUITERIA;F;Confirmado;80;Clínico Epidemiológico;Autóctone;Cura
+2025-04-22;2025-04-14;GUAIRA;F;Confirmado;31;Clínico Epidemiológico;Autóctone;Cura
+2025-04-22;2025-04-16;CAMPINA DO SIQUEIRA;M;Confirmado;69;Clínico Epidemiológico;Importado;Cura
+2025-04-22;2025-04-17;CAJURU;F;Confirmado;24;Clínico Epidemiológico;Importado;Cura
+2025-04-22;2025-04-18;ALTO BOQUEIRAO;F;Confirmado;30;Clínico Epidemiológico;Autóctone;Cura
+2025-04-22;2025-04-18;CIC (2);M;Confirmado;36;Clínico Epidemiológico;Importado;Cura
+2025-04-22;2025-04-19;ATUBA;F;Confirmado;63;Clínico Epidemiológico;Importado;Cura
+2025-04-22;2025-04-19;CAJURU;F;Confirmado;55;Clínico Epidemiológico;Autóctone;Cura
+2025-04-22;2025-04-19;JARDIM DAS AMERICAS;M;Confirmado;51;Clínico Epidemiológico;Autóctone;Cura
+2025-04-22;2025-04-19;SANTA QUITERIA;F;Confirmado;49;Clínico Epidemiológico;Autóctone;Cura
+2025-04-22;2025-04-19;TATUQUARA;M;Confirmado;21;Clínico Epidemiológico;Autóctone;Cura
+2025-04-22;2025-04-19;UBERABA;F;Confirmado;43;Clínico Epidemiológico;Autóctone;Cura
+2025-04-22;2025-04-20;ALTO BOQUEIRAO;M;Confirmado;36;Clínico Epidemiológico;Autóctone;Cura
+2025-04-22;2025-04-20;CIC (2);F;Confirmado;31;Laboratório;Autóctone;Cura
+2025-04-22;2025-04-20;CIC (2);F;Confirmado;50;Clínico Epidemiológico;Autóctone;Cura
+2025-04-22;2025-04-20;CIC (2);M;Confirmado;47;Clínico Epidemiológico;Autóctone;Cura
+2025-04-22;2025-04-21;CAJURU;M;Confirmado;30;Clínico Epidemiológico;Autóctone;Cura
+2025-04-22;2025-04-21;CIC (2);M;Confirmado;22;Laboratório;Autóctone;Cura
+2025-04-22;2025-04-21;UBERABA;F;Confirmado;18;Clínico Epidemiológico;Autóctone;Cura
+2025-04-22;2025-04-22;CAJURU;F;Confirmado;31;Clínico Epidemiológico;Autóctone;Cura
+2025-04-22;2025-04-22;CAPAO DA IMBUIA;F;Confirmado;38;Clínico Epidemiológico;Autóctone;Cura
+2025-04-22;2025-04-22;CAXIMBA;F;Confirmado;17;Clínico Epidemiológico;Autóctone;Cura
+2025-04-22;2025-04-22;SITIO CERCADO;M;Confirmado;38;Clínico Epidemiológico;Importado;Cura
+2025-04-23;2025-04-16;SITIO CERCADO;F;Confirmado;28;Clínico Epidemiológico;Autóctone;Cura
+2025-04-23;2025-04-17;CIC (2);F;Confirmado;20;Clínico Epidemiológico;Autóctone;Cura
+2025-04-23;2025-04-20;CAJURU;F;Confirmado;26;Clínico Epidemiológico;Autóctone;Cura
+2025-04-23;2025-04-21;CAJURU;F;Confirmado;27;Clínico Epidemiológico;Autóctone;Cura
+2025-04-23;2025-04-21;CIC (2);M;Confirmado;49;Clínico Epidemiológico;Importado;Cura
+2025-04-23;2025-04-21;UBERABA;F;Confirmado;41;Clínico Epidemiológico;Autóctone;Cura
+2025-04-23;2025-04-22;CIC (2);F;Confirmado;57;Clínico Epidemiológico;Autóctone;Cura
+2025-04-23;2025-04-22;SANTA CANDIDA;M;Confirmado;58;Laboratório;Autóctone;Cura
+2025-04-23;2025-04-22;XAXIM;F;Confirmado;26;Clínico Epidemiológico;Autóctone;Cura
+2025-04-23;2025-04-23;ALTO BOQUEIRAO;M;Confirmado;75;Clínico Epidemiológico;Importado;Cura
+2025-04-23;2025-04-23;CAJURU;M;Confirmado;29;Clínico Epidemiológico;Importado;Cura
+2025-04-23;2025-04-23;CAXIMBA;M;Confirmado;31;Clínico Epidemiológico;Importado;Cura
+2025-04-23;2025-04-23;CIC (2);M;Confirmado;55;Clínico Epidemiológico;Autóctone;Cura
+2025-04-24;2025-03-26;FANNY;M;Confirmado;60;Laboratório;Importado;Cura
+2025-04-24;2025-04-17;CIC (1);M;Confirmado;61;Laboratório;Importado;Cura
+2025-04-24;2025-04-19;CIC (2);M;Confirmado;14;Clínico Epidemiológico;Autóctone;Cura
+2025-04-24;2025-04-20;BOQUEIRAO;F;Confirmado;39;Clínico Epidemiológico;Importado;Cura
+2025-04-24;2025-04-21;ALTO BOQUEIRAO;M;Confirmado;16;Clínico Epidemiológico;Importado;Cura
+2025-04-24;2025-04-21;BOQUEIRAO1;M;Confirmado;31;Clínico Epidemiológico;Importado;Cura
+2025-04-24;2025-04-21;CAJURU;F;Confirmado;45;Clínico Epidemiológico;Importado;Cura
+2025-04-24;2025-04-22;BATEL;M;Confirmado;74;Clínico Epidemiológico;Importado;Cura
+2025-04-24;2025-04-22;JUVEVE;M;Confirmado;54;Clínico Epidemiológico;Importado;Cura
+2025-04-24;2025-04-23;JARDIM DAS AMERICAS;M;Confirmado;68;Clínico Epidemiológico;Autóctone;Cura
+2025-04-24;2025-04-23;SANTA QUITERIA;M;Confirmado;25;Clínico Epidemiológico;Autóctone;Cura
+2025-04-24;2025-04-23;TATUQUARA;F;Confirmado;26;Clínico Epidemiológico;Autóctone;Cura
+2025-04-24;2025-04-24;CIC (2);M;Confirmado;59;Clínico Epidemiológico;Autóctone;Cura
+2025-04-24;2025-04-24;UBERABA;M;Confirmado;24;Clínico Epidemiológico;Autóctone;Cura
+2025-04-25;2025-04-14;CAMPO COMPRIDO (2);M;Confirmado;64;Clínico Epidemiológico;Autóctone;Cura
+2025-04-25;2025-04-20;FAZENDINHA;F;Confirmado;35;Clínico Epidemiológico;Autóctone;Cura
+2025-04-25;2025-04-20;UBERABA;F;Confirmado;62;Clínico Epidemiológico;Autóctone;Cura
+2025-04-25;2025-04-22;ALTO BOQUEIRAO;F;Confirmado;40;Clínico Epidemiológico;Autóctone;Cura
+2025-04-25;2025-04-22;JARDIM DAS AMERICAS;M;Confirmado;35;Clínico Epidemiológico;Autóctone;Cura
+2025-04-25;2025-04-23;ALTO BOQUEIRAO;M;Confirmado;20;Clínico Epidemiológico;Autóctone;Cura
+2025-04-25;2025-04-23;CAPAO RASO;F;Confirmado;26;Clínico Epidemiológico;Importado;Cura
+2025-04-25;2025-04-23;CENTRO;M;Confirmado;53;Clínico Epidemiológico;Importado;Cura
+2025-04-25;2025-04-23;CIC (2);F;Confirmado;61;Laboratório;Autóctone;Cura
+2025-04-25;2025-04-23;SANTA QUITERIA;M;Confirmado;56;Clínico Epidemiológico;Autóctone;Cura
+2025-04-25;2025-04-23;UBERABA;F;Confirmado;35;Clínico Epidemiológico;Autóctone;Cura
+2025-04-25;2025-04-24;CAJURU;F;Confirmado;7;Clínico Epidemiológico;Autóctone;Cura
+2025-04-25;2025-04-24;CAJURU;F;Confirmado;26;Clínico Epidemiológico;Autóctone;Cura
+2025-04-25;2025-04-24;CAPAO RASO;M;Confirmado;69;Clínico Epidemiológico;Autóctone;Cura
+2025-04-25;2025-04-24;LINDOIA;M;Confirmado;15;Clínico Epidemiológico;Importado;Cura
+2025-04-25;2025-04-24;PINHEIRINHO1;M;Confirmado;46;Laboratório;Autóctone;Cura
+2025-04-25;2025-04-24;SANTA QUITERIA;M;Confirmado;18;Clínico Epidemiológico;Autóctone;Cura
+2025-04-25;2025-04-24;XAXIM;F;Confirmado;28;Clínico Epidemiológico;Autóctone;Cura
+2025-04-25;2025-04-24;XAXIM;M;Confirmado;44;Clínico Epidemiológico;Importado;Cura
+2025-04-25;2025-04-25;FANNY;M;Confirmado;62;Clínico Epidemiológico;Autóctone;Cura
+2025-04-25;2025-04-25;SANTA QUITERIA;F;Confirmado;50;Laboratório;Autóctone;Cura
+2025-04-25;2025-04-25;SITIO CERCADO;F;Confirmado;33;Clínico Epidemiológico;Autóctone;Cura
+2025-04-26;2025-04-22;BATEL;F;Confirmado;32;Clínico Epidemiológico;Importado;Cura
+2025-04-26;2025-04-22;MERCES;M;Confirmado;53;Clínico Epidemiológico;Importado;Cura
+2025-04-26;2025-04-22;SANTA QUITERIA;F;Confirmado;70;Laboratório;Autóctone;Cura
+2025-04-26;2025-04-23;FAZENDINHA;F;Confirmado;71;Laboratório;Importado;Cura
+2025-04-26;2025-04-24;SANTA QUITERIA;F;Confirmado;48;Laboratório;Autóctone;Cura
+2025-04-26;2025-04-25;ALTO BOQUEIRAO;F;Confirmado;12;Clínico Epidemiológico;Importado;Cura
+2025-04-26;2025-04-25;GANCHINHO;M;Confirmado;7;Clínico Epidemiológico;Autóctone;Cura
+2025-04-27;2025-04-21;CAPAO RASO;F;Confirmado;50;Laboratório;Autóctone;Cura
+2025-04-27;2025-04-23;SITIO CERCADO;M;Confirmado;66;Clínico Epidemiológico;Autóctone;Cura
+2025-04-27;2025-04-23;TATUQUARA;F;Confirmado;20;Clínico Epidemiológico;Autóctone;Cura
+2025-04-27;2025-04-24;AGUA VERDE;F;Confirmado;32;Clínico Epidemiológico;Importado;Cura
+2025-04-27;2025-04-24;TATUQUARA;M;Confirmado;12;Clínico Epidemiológico;Importado;Cura
+2025-04-27;2025-04-25;CIC (2);F;Confirmado;12;Laboratório;Autóctone;Cura
+2025-04-27;2025-04-25;CIC (2);M;Confirmado;49;Clínico Epidemiológico;Autóctone;Cura
+2025-04-27;2025-04-25;SANTA QUITERIA;F;Confirmado;37;Laboratório;Autóctone;Cura
+2025-04-27;2025-04-27;CAJURU;F;Confirmado;52;Clínico Epidemiológico;Importado;Cura
+2025-04-27;2025-04-27;CAJURU;F;Confirmado;66;Clínico Epidemiológico;Importado;Cura
+2025-04-27;2025-04-27;CAJURU;M;Confirmado;54;Clínico Epidemiológico;Autóctone;Cura
+2025-04-27;2025-04-27;CIC (2);M;Confirmado;28;Clínico Epidemiológico;Autóctone;Cura
+2025-04-27;2025-04-27;SANTA QUITERIA;F;Confirmado;14;Clínico Epidemiológico;Autóctone;Cura
+2025-04-27;2025-04-27;SANTA QUITERIA;M;Confirmado;17;Clínico Epidemiológico;Autóctone;Cura
+2025-04-28;2025-04-14;JARDIM DAS AMERICAS;M;Confirmado;27;Clínico Epidemiológico;Autóctone;Cura
+2025-04-28;2025-04-20;PINHEIRINHO1;M;Confirmado;25;Clínico Epidemiológico;Autóctone;Cura
+2025-04-28;2025-04-21;ATUBA;F;Confirmado;57;Laboratório;Autóctone;Cura
+2025-04-28;2025-04-21;BAIRRO ALTO;M;Confirmado;51;Laboratório;Importado;Cura
+2025-04-28;2025-04-22;ALTO DA RUA XV;M;Confirmado;35;Clínico Epidemiológico;Autóctone;Cura
+2025-04-28;2025-04-22;CIC (2);F;Confirmado;37;Laboratório;Importado;Cura
+2025-04-28;2025-04-22;VILA IZABEL;M;Confirmado;48;Clínico Epidemiológico;Autóctone;Cura
+2025-04-28;2025-04-23;VISTA ALEGRE;F;Confirmado;21;Clínico Epidemiológico;Importado;Cura
+2025-04-28;2025-04-24;CAMPO COMPRIDO (2);M;Confirmado;40;Laboratório;Autóctone;Cura
+2025-04-28;2025-04-24;CIC (2);F;Confirmado;31;Clínico Epidemiológico;Autóctone;Cura
+2025-04-28;2025-04-24;SITIO CERCADO;M;Confirmado;53;Laboratório;Importado;Cura
+2025-04-28;2025-04-24;UMBARA1;M;Confirmado;52;Clínico Epidemiológico;Autóctone;Cura
+2025-04-28;2025-04-25;XAXIM;F;Confirmado;43;Clínico Epidemiológico;Importado;Cura
+2025-04-28;2025-04-26;CIC (2);M;Confirmado;50;Clínico Epidemiológico;Importado;Cura
+2025-04-28;2025-04-26;GANCHINHO;M;Confirmado;6;Clínico Epidemiológico;Autóctone;Cura
+2025-04-28;2025-04-26;TINGUI;F;Confirmado;49;Clínico Epidemiológico;Autóctone;Cura
+2025-04-28;2025-04-26;XAXIM;M;Confirmado;22;Clínico Epidemiológico;Autóctone;Cura
+2025-04-28;2025-04-27;BAIRRO ALTO;F;Confirmado;45;Clínico Epidemiológico;Importado;Cura
+2025-04-28;2025-04-27;CIC (2);F;Confirmado;28;Laboratório;Autóctone;Cura
+2025-04-28;2025-04-27;XAXIM;M;Confirmado;57;Clínico Epidemiológico;Importado;Cura
+2025-04-28;2025-04-28;CAMPO DE SANTANA;F;Confirmado;48;Clínico Epidemiológico;Autóctone;Cura
+2025-04-28;2025-04-28;UBERABA;F;Confirmado;30;Clínico Epidemiológico;Autóctone;Cura
+2025-04-28;2025-04-28;UBERABA;F;Confirmado;39;Clínico Epidemiológico;Autóctone;Cura
+2025-04-29;2025-04-20;CAMPO COMPRIDO (2);M;Confirmado;52;Laboratório;Autóctone;Cura
+2025-04-29;2025-04-21;CAMPO COMPRIDO (2);F;Confirmado;19;Clínico Epidemiológico;Autóctone;Cura
+2025-04-29;2025-04-21;HAUER;F;Confirmado;34;Clínico Epidemiológico;Autóctone;Cura
+2025-04-29;2025-04-23;AGUA VERDE;M;Confirmado;28;Clínico Epidemiológico;Importado;Cura
+2025-04-29;2025-04-25;BARREIRINHA;F;Confirmado;36;Laboratório;Autóctone;Cura
+2025-04-29;2025-04-25;BOQUEIRAO;M;Confirmado;60;Laboratório;Importado;Cura
+2025-04-29;2025-04-25;CABRAL;M;Confirmado;30;Clínico Epidemiológico;Importado;Cura
+2025-04-29;2025-04-25;CAJURU;M;Confirmado;55;Clínico Epidemiológico;Autóctone;Cura
+2025-04-29;2025-04-25;GUAIRA;M;Confirmado;13;Clínico Epidemiológico;Autóctone;Cura
+2025-04-29;2025-04-26;VILA IZABEL;F;Confirmado;46;Clínico Epidemiológico;Autóctone;Cura
+2025-04-29;2025-04-26;XAXIM;M;Confirmado;18;Clínico Epidemiológico;Importado;Cura
+2025-04-29;2025-04-26;XAXIM;M;Confirmado;34;Clínico Epidemiológico;Autóctone;Cura
+2025-04-29;2025-04-27;CAJURU;F;Confirmado;21;Clínico Epidemiológico;Autóctone;Cura
+2025-04-29;2025-04-27;CAJURU;M;Confirmado;65;Clínico Epidemiológico;Autóctone;Cura
+2025-04-29;2025-04-27;CENTRO;F;Confirmado;45;Clínico Epidemiológico;Importado;Cura
+2025-04-29;2025-04-28;BOQUEIRAO;M;Confirmado;28;Clínico Epidemiológico;Autóctone;Cura
+2025-04-29;2025-04-28;CAJURU;F;Confirmado;44;Clínico Epidemiológico;Autóctone;Cura
+2025-04-29;2025-04-28;LINDOIA;F;Confirmado;44;Clínico Epidemiológico;Autóctone;Cura
+2025-04-29;2025-04-28;UBERABA;M;Confirmado;27;Clínico Epidemiológico;Autóctone;Cura
+2025-04-29;2025-04-29;SITIO CERCADO;M;Confirmado;21;Clínico Epidemiológico;Autóctone;Cura
+2025-04-30;2025-04-24;TATUQUARA;F;Confirmado;46;Laboratório;Autóctone;Cura
+2025-04-30;2025-04-25;AHU;F;Confirmado;10;Clínico Epidemiológico;Autóctone;Cura
+2025-04-30;2025-04-25;PORTAO;F;Confirmado;43;Clínico Epidemiológico;Autóctone;Cura
+2025-04-30;2025-04-26;ALTO BOQUEIRAO;M;Confirmado;15;Laboratório;Importado;Cura
+2025-04-30;2025-04-26;CIC (2);M;Confirmado;25;Clínico Epidemiológico;Importado;Cura
+2025-04-30;2025-04-26;TATUQUARA;M;Confirmado;16;Laboratório;Autóctone;Cura
+2025-04-30;2025-04-27;BAIRRO ALTO;F;Confirmado;60;Clínico Epidemiológico;Importado;Cura
+2025-04-30;2025-04-28;CIC (2);F;Confirmado;32;Clínico Epidemiológico;Autóctone;Cura
+2025-04-30;2025-04-28;CIC (2);F;Confirmado;52;Clínico Epidemiológico;Importado;Cura
+2025-04-30;2025-04-28;SITIO CERCADO;F;Confirmado;41;Laboratório;Autóctone;Cura
+2025-04-30;2025-04-29;CAJURU;F;Confirmado;61;Clínico Epidemiológico;Autóctone;Cura
+2025-04-30;2025-04-29;CIC (2);M;Confirmado;61;Laboratório;Autóctone;Cura
+2025-04-30;2025-04-29;XAXIM;F;Confirmado;66;Clínico Epidemiológico;Autóctone;Cura
+2025-04-30;2025-04-30;CAJURU;M;Confirmado;16;Clínico Epidemiológico;Autóctone;Cura
+2025-04-30;2025-04-30;FAZENDINHA;M;Confirmado;40;Clínico Epidemiológico;Autóctone;Cura
+2025-05-01;2025-04-22;SANTA QUITERIA;F;Confirmado;72;Clínico Epidemiológico;Autóctone;Cura
+2025-05-01;2025-04-25;ALTO BOQUEIRAO;F;Confirmado;45;Clínico Epidemiológico;Importado;Cura
+2025-05-01;2025-04-26;CAMPO COMPRIDO (2);F;Confirmado;49;Laboratório;Autóctone;Cura
+2025-05-01;2025-04-28;CIC (2);F;Confirmado;27;Clínico Epidemiológico;Autóctone;Cura
+2025-05-01;2025-04-28;SITIO CERCADO;M;Confirmado;25;Clínico Epidemiológico;Importado;Cura
+2025-05-01;2025-04-30;TATUQUARA;F;Confirmado;47;Clínico Epidemiológico;Autóctone;Cura
+2025-05-02;2025-04-28;BUTIATUVINHA;M;Confirmado;14;Clínico Epidemiológico;Importado;Cura
+2025-05-02;2025-04-28;NOVO MUNDO;F;Confirmado;64;Clínico Epidemiológico;Autóctone;Cura
+2025-05-02;2025-04-30;BARREIRINHA;F;Confirmado;73;Clínico Epidemiológico;Importado;Cura
+2025-05-02;2025-04-30;CAPAO DA IMBUIA;F;Confirmado;31;Clínico Epidemiológico;Autóctone;Cura
+2025-05-02;2025-05-01;PAROLIM;M;Confirmado;36;Clínico Epidemiológico;Importado;Cura
+2025-05-02;2025-05-02;AGUA VERDE;F;Confirmado;29;Clínico Epidemiológico;Autóctone;Cura
+2025-05-02;2025-05-02;CIC (2);M;Confirmado;39;Clínico Epidemiológico;Autóctone;Cura
+2025-05-02;2025-05-02;TINGUI;M;Confirmado;7;Laboratório;Importado;Cura
+2025-05-03;2025-04-21;PINHEIRINHO1;F;Confirmado;29;Clínico Epidemiológico;Autóctone;Cura
+2025-05-03;2025-04-30;SANTA QUITERIA;F;Confirmado;37;Laboratório;Autóctone;Cura
+2025-05-03;2025-05-03;SITIO CERCADO;F;Confirmado;11;Clínico Epidemiológico;Autóctone;Cura
+2025-05-04;2025-04-27;UBERABA;F;Confirmado;31;Clínico Epidemiológico;Autóctone;Cura
+2025-05-04;2025-04-30;CIC (2);M;Confirmado;20;Laboratório;Importado;Cura
+2025-05-04;2025-05-02;CIC (2);M;Confirmado;22;Clínico Epidemiológico;Autóctone;Cura
+2025-05-04;2025-05-03;CIC (2);F;Confirmado;40;Laboratório;Autóctone;Cura
+2025-05-04;2025-05-03;FAZENDINHA;F;Confirmado;38;Laboratório;Autóctone;Cura
+2025-05-04;2025-05-04;ALTO BOQUEIRAO;M;Confirmado;31;Clínico Epidemiológico;Autóctone;Cura
+2025-05-04;2025-05-04;CIC (2);F;Confirmado;9;Clínico Epidemiológico;Autóctone;Cura
+2025-05-05;2025-04-27;MOSSUNGUE;F;Confirmado;49;Clínico Epidemiológico;Importado;Cura
+2025-05-05;2025-04-30;CIC (2);M;Confirmado;45;Clínico Epidemiológico;Autóctone;Cura
+2025-05-05;2025-05-02;BOQUEIRAO1;F;Confirmado;33;Clínico Epidemiológico;Autóctone;Cura
+2025-05-05;2025-05-02;CAJURU;F;Confirmado;58;Clínico Epidemiológico;Autóctone;Cura
+2025-05-05;2025-05-02;CIC (2);F;Confirmado;15;Clínico Epidemiológico;Autóctone;Cura
+2025-05-05;2025-05-03;SANTA QUITERIA;F;Confirmado;47;Clínico Epidemiológico;Autóctone;Cura
+2025-05-05;2025-05-03;UBERABA;M;Confirmado;33;Clínico Epidemiológico;Autóctone;Cura
+2025-05-05;2025-05-04;ABRANCHES;F;Confirmado;33;Laboratório;Importado;Cura
+2025-05-05;2025-05-04;BAIRRO ALTO;M;Confirmado;33;Clínico Epidemiológico;Importado;Cura
+2025-05-05;2025-05-04;CAMPO COMPRIDO (2);M;Confirmado;72;Laboratório;Autóctone;Cura
+2025-05-05;2025-05-04;VILA IZABEL;F;Confirmado;58;Laboratório;Autóctone;Cura
+2025-05-05;2025-05-05;CAMPO DE SANTANA;F;Confirmado;23;Clínico Epidemiológico;Autóctone;Cura
+2025-05-05;2025-05-05;FAZENDINHA;M;Confirmado;9;Clínico Epidemiológico;Autóctone;Cura
+2025-05-05;2025-05-05;SITIO CERCADO;F;Confirmado;22;Clínico Epidemiológico;Importado;Cura
+2025-05-05;2025-05-05;UMBARA;M;Confirmado;15;Clínico Epidemiológico;Autóctone;Cura
+2025-05-06;2025-04-24;AGUA VERDE;M;Confirmado;46;Clínico Epidemiológico;Autóctone;Cura
+2025-05-06;2025-04-29;SANTO INACIO;M;Confirmado;29;Clínico Epidemiológico;Importado;Cura
+2025-05-06;2025-04-30;REBOUCAS;M;Confirmado;25;Laboratório;Importado;Cura
+2025-05-06;2025-05-01;CAJURU;F;Confirmado;25;Clínico Epidemiológico;Importado;Cura
+2025-05-06;2025-05-02;ALTO BOQUEIRAO;M;Confirmado;55;Clínico Epidemiológico;Importado;Cura
+2025-05-06;2025-05-03;CIC (2);F;Confirmado;30;Clínico Epidemiológico;Autóctone;Cura
+2025-05-06;2025-05-04;CAPAO DA IMBUIA;M;Confirmado;24;Clínico Epidemiológico;Autóctone;Cura
+2025-05-06;2025-05-04;CIC (2);F;Confirmado;18;Clínico Epidemiológico;Autóctone;Cura
+2025-05-06;2025-05-04;LINDOIA;F;Confirmado;84;Clínico Epidemiológico;Autóctone;Cura
+2025-05-06;2025-05-04;TATUQUARA;M;Confirmado;33;Clínico Epidemiológico;Autóctone;Cura
+2025-05-06;2025-05-05;BIGORRILHO1;F;Confirmado;16;Clínico Epidemiológico;Importado;Cura
+2025-05-06;2025-05-05;CAJURU;F;Confirmado;61;Clínico Epidemiológico;Autóctone;Cura
+2025-05-06;2025-05-05;CAMPO DE SANTANA;M;Confirmado;10;Clínico Epidemiológico;Autóctone;Cura
+2025-05-06;2025-05-05;CAPAO DA IMBUIA;F;Confirmado;21;Clínico Epidemiológico;Autóctone;Cura
+2025-05-06;2025-05-05;CIC (2);F;Confirmado;31;Clínico Epidemiológico;Autóctone;Cura
+2025-05-06;2025-05-05;CIC (2);M;Confirmado;20;Clínico Epidemiológico;Autóctone;Cura
+2025-05-06;2025-05-05;LINDOIA;F;Confirmado;19;Clínico Epidemiológico;Importado;Cura
+2025-05-06;2025-05-05;SANTA CANDIDA;M;Confirmado;38;Laboratório;Importado;Cura
+2025-05-06;2025-05-05;SANTA QUITERIA;F;Confirmado;43;Clínico Epidemiológico;Autóctone;Cura
+2025-05-06;2025-05-06;CAJURU;F;Confirmado;40;Clínico Epidemiológico;Autóctone;Cura
+2025-05-07;2025-04-25;CIC (2);M;Confirmado;31;Clínico Epidemiológico;Autóctone;Cura
+2025-05-07;2025-05-02;CAJURU;M;Confirmado;38;Clínico Epidemiológico;Autóctone;Cura
+2025-05-07;2025-05-02;UBERABA;F;Confirmado;54;Laboratório;Autóctone;Cura
+2025-05-07;2025-05-02;UBERABA;F;Confirmado;55;Clínico Epidemiológico;Autóctone;Cura
+2025-05-07;2025-05-03;BIGORRILHO1;F;Confirmado;14;Clínico Epidemiológico;Importado;Cura
+2025-05-07;2025-05-03;UBERABA;M;Confirmado;6;Clínico Epidemiológico;Autóctone;Cura
+2025-05-07;2025-05-05;CAJURU;F;Confirmado;26;Clínico Epidemiológico;Autóctone;Cura
+2025-05-07;2025-05-05;CAMPO DE SANTANA;F;Confirmado;27;Clínico Epidemiológico;Autóctone;Cura
+2025-05-07;2025-05-06;FAZENDINHA;F;Confirmado;72;Clínico Epidemiológico;Autóctone;Cura
+2025-05-07;2025-05-06;TATUQUARA;M;Confirmado;13;Clínico Epidemiológico;Autóctone;Cura
+2025-05-07;2025-05-07;ALTO BOQUEIRAO;M;Confirmado;8;Clínico Epidemiológico;Autóctone;Cura
+2025-05-07;2025-05-07;NOVO MUNDO;M;Confirmado;33;Clínico Epidemiológico;Importado;Cura
+2025-05-08;2025-04-29;CIC (2);M;Confirmado;59;Laboratório;Autóctone;Cura
+2025-05-08;2025-04-29;SITIO CERCADO;F;Confirmado;33;Laboratório;Importado;Cura
+2025-05-08;2025-05-02;CAMPO COMPRIDO (2);F;Confirmado;46;Laboratório;Autóctone;Cura
+2025-05-08;2025-05-02;UBERABA;F;Confirmado;23;Clínico Epidemiológico;Autóctone;Cura
+2025-05-08;2025-05-02;XAXIM;M;Confirmado;9;Laboratório;Autóctone;Cura
+2025-05-08;2025-05-04;BOQUEIRAO;M;Confirmado;19;Clínico Epidemiológico;Importado;Cura
+2025-05-08;2025-05-04;CAJURU;F;Confirmado;67;Clínico Epidemiológico;Autóctone;Cura
+2025-05-08;2025-05-04;CIC (2);F;Confirmado;67;Clínico Epidemiológico;Autóctone;Cura
+2025-05-08;2025-05-04;XAXIM;F;Confirmado;14;Clínico Epidemiológico;Importado;Cura
+2025-05-08;2025-05-05;CAJURU;F;Confirmado;24;Clínico Epidemiológico;Autóctone;Cura
+2025-05-08;2025-05-05;SAO BRAZ;M;Confirmado;28;Clínico Epidemiológico;Importado;Cura
+2025-05-08;2025-05-06;CAMPO DE SANTANA;M;Confirmado;21;Clínico Epidemiológico;Autóctone;Cura
+2025-05-08;2025-05-07;CIC (2);F;Confirmado;25;Laboratório;Autóctone;Cura
+2025-05-08;2025-05-08;UBERABA;F;Confirmado;26;Clínico Epidemiológico;Autóctone;Cura
+2025-05-08;2025-05-08;XAXIM;M;Confirmado;31;Clínico Epidemiológico;Autóctone;Cura
+2025-05-09;2025-05-01;XAXIM;F;Confirmado;59;Clínico Epidemiológico;Autóctone;Cura
+2025-05-09;2025-05-02;AUGUSTA;M;Confirmado;59;Laboratório;Importado;Cura
+2025-05-09;2025-05-02;XAXIM;M;Confirmado;17;Clínico Epidemiológico;Autóctone;Cura
+2025-05-09;2025-05-04;LINDOIA;M;Confirmado;56;Clínico Epidemiológico;Autóctone;Cura
+2025-05-09;2025-05-05;TATUQUARA;F;Confirmado;61;Clínico Epidemiológico;Autóctone;Cura
+2025-05-09;2025-05-06;XAXIM;M;Confirmado;74;Laboratório;Importado;Cura
+2025-05-09;2025-05-07;CAJURU;M;Confirmado;23;Clínico Epidemiológico;Importado;Cura
+2025-05-09;2025-05-07;PORTAO;F;Confirmado;46;Clínico Epidemiológico;Autóctone;Cura
+2025-05-09;2025-05-07;SANTA CANDIDA;M;Confirmado;56;Clínico Epidemiológico;Importado;Cura
+2025-05-09;2025-05-07;SANTA FELICIDADE;F;Confirmado;42;Clínico Epidemiológico;Importado;Cura
+2025-05-09;2025-05-07;SAO BRAZ;F;Confirmado;48;Clínico Epidemiológico;Importado;Cura
+2025-05-09;2025-05-08;BIGORRILHO1;F;Confirmado;31;Clínico Epidemiológico;Autóctone;Cura
+2025-05-09;2025-05-08;LINDOIA;F;Confirmado;59;Clínico Epidemiológico;Autóctone;Cura
+2025-05-09;2025-05-08;SITIO CERCADO;M;Confirmado;59;Clínico Epidemiológico;Autóctone;Cura
+2025-05-09;2025-05-09;HAUER;M;Confirmado;30;Clínico Epidemiológico;Autóctone;Cura
+2025-05-10;2025-05-04;XAXIM;F;Confirmado;55;Clínico Epidemiológico;Autóctone;Cura
+2025-05-10;2025-05-08;CAJURU;F;Confirmado;11;Clínico Epidemiológico;Autóctone;Cura
+2025-05-10;2025-05-09;CAJURU;M;Confirmado;11;Clínico Epidemiológico;Autóctone;Cura
+2025-05-10;2025-05-09;LINDOIA;M;Confirmado;16;Clínico Epidemiológico;Autóctone;Cura
+2025-05-10;2025-05-09;SITIO CERCADO;M;Confirmado;17;Clínico Epidemiológico;Autóctone;Cura
+2025-05-10;2025-05-10;UBERABA;M;Confirmado;36;Clínico Epidemiológico;Autóctone;Cura
+2025-05-11;2025-05-09;ALTO BOQUEIRAO;M;Confirmado;39;Clínico Epidemiológico;Autóctone;Cura
+2025-05-11;2025-05-09;CIC (2);M;Confirmado;20;Laboratório;Autóctone;Cura
+2025-05-11;2025-05-10;CAPAO DA IMBUIA;F;Confirmado;55;Clínico Epidemiológico;Autóctone;Cura
+2025-05-11;2025-05-10;UBERABA;M;Confirmado;33;Clínico Epidemiológico;Autóctone;Cura
+2025-05-12;2025-05-03;TATUQUARA;F;Confirmado;60;Clínico Epidemiológico;Importado;Cura
+2025-05-12;2025-05-04;ALTO DA GLORIA;F;Confirmado;24;Clínico Epidemiológico;Importado;Cura
+2025-05-12;2025-05-05;BOQUEIRAO;F;Confirmado;45;Clínico Epidemiológico;Importado;Cura
+2025-05-12;2025-05-05;SANTA FELICIDADE;F;Confirmado;90;Laboratório;Autóctone;Cura
+2025-05-12;2025-05-05;UBERABA;F;Confirmado;18;Clínico Epidemiológico;Autóctone;Cura
+2025-05-12;2025-05-07;SAO BRAZ;F;Confirmado;38;Clínico Epidemiológico;Importado;Cura
+2025-05-12;2025-05-08;BOA VISTA;F;Confirmado;59;Clínico Epidemiológico;Autóctone;Cura
+2025-05-12;2025-05-09;FANNY;F;Confirmado;45;Clínico Epidemiológico;Autóctone;Cura
+2025-05-12;2025-05-10;CAMPO DE SANTANA;M;Confirmado;27;Clínico Epidemiológico;Autóctone;Cura
+2025-05-12;2025-05-10;XAXIM;F;Confirmado;41;Clínico Epidemiológico;Autóctone;Cura
+2025-05-12;2025-05-11;CAMPO DE SANTANA;M;Confirmado;23;Clínico Epidemiológico;Autóctone;Cura
+2025-05-12;2025-05-11;CAMPO DE SANTANA;M;Confirmado;34;Clínico Epidemiológico;Importado;Cura
+2025-05-12;2025-05-12;CAJURU;M;Confirmado;22;Clínico Epidemiológico;Autóctone;Cura
+2025-05-12;2025-05-12;CAJURU;M;Confirmado;35;Clínico Epidemiológico;Autóctone;Cura
+2025-05-12;2025-05-12;XAXIM;M;Confirmado;27;Clínico Epidemiológico;Autóctone;Cura
+2025-05-13;2025-05-04;ALTO BOQUEIRAO;M;Confirmado;63;Clínico Epidemiológico;Importado;Cura
+2025-05-13;2025-05-06;SITIO CERCADO;F;Confirmado;55;Laboratório;Importado;Cura
+2025-05-13;2025-05-09;AHU;M;Confirmado;41;Clínico Epidemiológico;Autóctone;Cura
+2025-05-13;2025-05-09;CIC (2);M;Confirmado;42;Laboratório;Autóctone;Cura
+2025-05-13;2025-05-09;TATUQUARA;M;Confirmado;38;Laboratório;Importado;Cura
+2025-05-13;2025-05-09;UBERABA;F;Confirmado;46;Clínico Epidemiológico;Autóctone;Cura
+2025-05-13;2025-05-10;TATUQUARA;M;Confirmado;55;Clínico Epidemiológico;Autóctone;Cura
+2025-05-13;2025-05-10;XAXIM;M;Confirmado;62;Clínico Epidemiológico;Importado;Cura
+2025-05-13;2025-05-11;ALTO BOQUEIRAO;M;Confirmado;28;Clínico Epidemiológico;Importado;Cura
+2025-05-13;2025-05-12;UBERABA;F;Confirmado;30;Clínico Epidemiológico;Autóctone;Cura
+2025-05-13;2025-05-13;CAJURU;M;Confirmado;74;Clínico Epidemiológico;Autóctone;Cura
+2025-05-13;2025-05-13;CAPAO DA IMBUIA;M;Confirmado;7;Clínico Epidemiológico;Autóctone;Cura
+2025-05-14;2025-05-05;PINHEIRINHO;M;Confirmado;42;Clínico Epidemiológico;Autóctone;Cura
+2025-05-14;2025-05-08;CIC (2);F;Confirmado;29;Clínico Epidemiológico;Autóctone;Cura
+2025-05-14;2025-05-10;JARDIM DAS AMERICAS;M;Confirmado;33;Clínico Epidemiológico;Autóctone;Cura
+2025-05-14;2025-05-11;PINHEIRINHO;M;Confirmado;46;Clínico Epidemiológico;Autóctone;Cura
+2025-05-14;2025-05-13;TARUMA1;F;Confirmado;16;Clínico Epidemiológico;Autóctone;Cura
+2025-05-14;2025-05-14;TATUQUARA;M;Confirmado;35;Clínico Epidemiológico;Autóctone;Cura
+2025-05-15;2025-05-08;XAXIM;F;Confirmado;54;Clínico Epidemiológico;Autóctone;Cura
+2025-05-15;2025-05-10;BAIRRO ALTO;F;Confirmado;30;Laboratório;Importado;Cura
+2025-05-15;2025-05-11;PORTAO;F;Confirmado;7;Clínico Epidemiológico;Autóctone;Cura
+2025-05-15;2025-05-11;SANTA QUITERIA;M;Confirmado;22;Clínico Epidemiológico;Autóctone;Cura
+2025-05-15;2025-05-12;CAJURU;F;Confirmado;31;Clínico Epidemiológico;Autóctone;Cura
+2025-05-15;2025-05-12;SITIO CERCADO;F;Confirmado;5;Clínico Epidemiológico;Autóctone;Cura
+2025-05-15;2025-05-12;UBERABA;F;Confirmado;26;Clínico Epidemiológico;Importado;Cura
+2025-05-15;2025-05-14;CAJURU;M;Confirmado;17;Clínico Epidemiológico;Autóctone;Cura
+2025-05-15;2025-05-14;CAMPO DE SANTANA;F;Confirmado;10;Clínico Epidemiológico;Importado;Cura
+2025-05-15;2025-05-14;XAXIM;F;Confirmado;57;Laboratório;Importado;Cura
+2025-05-16;2025-05-11;CAJURU;F;Confirmado;33;Clínico Epidemiológico;Autóctone;Cura
+2025-05-16;2025-05-11;XAXIM;M;Confirmado;28;Clínico Epidemiológico;Autóctone;Cura
+2025-05-16;2025-05-13;CAJURU;M;Confirmado;29;Clínico Epidemiológico;Autóctone;Cura
+2025-05-16;2025-05-13;CIC (2);M;Confirmado;64;Laboratório;Autóctone;Cura
+2025-05-16;2025-05-13;UBERABA;M;Confirmado;36;Clínico Epidemiológico;Autóctone;Cura
+2025-05-16;2025-05-15;CAJURU;M;Confirmado;20;Clínico Epidemiológico;Autóctone;Cura
+2025-05-16;2025-05-15;CIC (2);F;Confirmado;23;Clínico Epidemiológico;Autóctone;Cura
+2025-05-17;2025-05-14;CIC (2);F;Confirmado;34;Laboratório;Autóctone;Cura
+2025-05-17;2025-05-14;TATUQUARA;M;Confirmado;47;Laboratório;Importado;Cura
+2025-05-17;2025-05-14;UMBARA;M;Confirmado;55;Clínico Epidemiológico;Importado;Cura
+2025-05-17;2025-05-15;UBERABA;F;Confirmado;39;Laboratório;Autóctone;Cura
+2025-05-17;2025-05-16;CAPAO DA IMBUIA;F;Confirmado;26;Clínico Epidemiológico;Autóctone;Cura
+2025-05-18;2025-05-16;XAXIM;F;Confirmado;28;Clínico Epidemiológico;Autóctone;Cura
+2025-05-18;2025-05-18;ATUBA;M;Confirmado;21;Clínico Epidemiológico;Autóctone;Cura
+2025-05-19;2025-05-05;SANTA CANDIDA;F;Confirmado;31;Laboratório;Importado;Cura
+2025-05-19;2025-05-13;BOQUEIRAO;F;Confirmado;44;Laboratório;Importado;Cura
+2025-05-19;2025-05-13;GUAIRA;F;Confirmado;23;Laboratório;Autóctone;Cura
+2025-05-19;2025-05-14;PINHEIRINHO1;M;Confirmado;10;Clínico Epidemiológico;Autóctone;Cura
+2025-05-19;2025-05-15;UBERABA;F;Confirmado;48;Clínico Epidemiológico;Autóctone;Cura
+2025-05-19;2025-05-17;UBERABA;M;Confirmado;26;Clínico Epidemiológico;Autóctone;Cura
+2025-05-20;2025-05-14;PINHEIRINHO;F;Confirmado;18;Clínico Epidemiológico;Autóctone;Cura
+2025-05-20;2025-05-15;TINGUI;F;Confirmado;51;Clínico Epidemiológico;Importado;Cura
+2025-05-20;2025-05-16;CAPAO RASO;F;Confirmado;42;Laboratório;Autóctone;Cura
+2025-05-20;2025-05-18;CAPAO DA IMBUIA;M;Confirmado;55;Clínico Epidemiológico;Autóctone;Cura
+2025-05-20;2025-05-18;SITIO CERCADO;F;Confirmado;20;Clínico Epidemiológico;Autóctone;Cura
+2025-05-20;2025-05-18;UBERABA;F;Confirmado;26;Clínico Epidemiológico;Autóctone;Cura
+2025-05-21;2025-05-15;SITIO CERCADO;F;Confirmado;25;Clínico Epidemiológico;Autóctone;Cura
+2025-05-21;2025-05-19;FANNY;M;Confirmado;68;Clínico Epidemiológico;Importado;Cura
+2025-05-21;2025-05-20;GUAIRA;F;Confirmado;29;Clínico Epidemiológico;Autóctone;Cura
+2025-05-22;2025-05-14;GUAIRA;F;Confirmado;56;Laboratório;Autóctone;Cura
+2025-05-22;2025-05-15;CAJURU;F;Confirmado;44;Clínico Epidemiológico;Autóctone;Cura
+2025-05-22;2025-05-19;UBERABA;M;Confirmado;41;Clínico Epidemiológico;Autóctone;Cura
+2025-05-22;2025-05-21;SITIO CERCADO;F;Confirmado;25;Clínico Epidemiológico;Autóctone;Cura
+2025-05-23;2025-05-19;SITIO CERCADO;M;Confirmado;29;Clínico Epidemiológico;Autóctone;Cura
+2025-05-23;2025-05-21;CIC (2);F;Confirmado;49;Laboratório;Importado;Cura
+2025-05-23;2025-05-21;TATUQUARA;M;Confirmado;27;Clínico Epidemiológico;Autóctone;Cura
+2025-05-23;2025-05-21;UBERABA;F;Confirmado;20;Clínico Epidemiológico;Autóctone;Cura
+2025-05-23;2025-05-22;SITIO CERCADO;M;Confirmado;2;Clínico Epidemiológico;Autóctone;Cura
+2025-05-24;2025-05-22;ALTO BOQUEIRAO;F;Confirmado;63;Clínico Epidemiológico;Importado;Cura
+2025-05-25;2025-05-21;CIC (2);F;Confirmado;39;Clínico Epidemiológico;Autóctone;Cura
+2025-05-25;2025-05-22;GANCHINHO;M;Confirmado;9;Clínico Epidemiológico;Autóctone;Cura
+2025-05-25;2025-05-22;SITIO CERCADO;F;Confirmado;18;Clínico Epidemiológico;Importado;Cura
+2025-05-25;2025-05-23;ALTO BOQUEIRAO;F;Confirmado;23;Clínico Epidemiológico;Autóctone;Cura
+2025-05-26;2025-05-19;BOQUEIRAO;M;Confirmado;50;Clínico Epidemiológico;Importado;Cura
+2025-05-26;2025-05-20;XAXIM;F;Confirmado;44;Clínico Epidemiológico;Autóctone;Cura
+2025-05-26;2025-05-22;SITIO CERCADO;F;Confirmado;24;Clínico Epidemiológico;Importado;Cura
+2025-05-26;2025-05-23;SANTA FELICIDADE;M;Confirmado;64;Clínico Epidemiológico;Importado;Cura
+2025-05-26;2025-05-24;ALTO BOQUEIRAO;M;Confirmado;42;Clínico Epidemiológico;Autóctone;Cura
+2025-05-26;2025-05-24;TATUQUARA;F;Confirmado;48;Clínico Epidemiológico;Importado;Cura
+2025-05-26;2025-05-25;HAUER;M;Confirmado;39;Clínico Epidemiológico;Autóctone;Cura
+2025-05-26;2025-05-25;XAXIM;F;Confirmado;63;Laboratório;Autóctone;Cura
+2025-05-26;2025-05-26;CAJURU;M;Confirmado;26;Clínico Epidemiológico;Autóctone;Cura
+2025-05-27;2025-05-24;SITIO CERCADO;M;Confirmado;66;Clínico Epidemiológico;Autóctone;Cura
+2025-05-27;2025-05-25;AGUA VERDE;M;Confirmado;71;Clínico Epidemiológico;Autóctone;Cura
+2025-05-27;2025-05-25;BACACHERI;M;Confirmado;16;Laboratório;Importado;Cura
+2025-05-27;2025-05-25;CAPAO DA IMBUIA;M;Confirmado;49;Clínico Epidemiológico;Autóctone;Cura
+2025-05-27;2025-05-26;SITIO CERCADO;F;Confirmado;4;Clínico Epidemiológico;Autóctone;Cura
+2025-05-27;2025-05-26;UBERABA;M;Confirmado;35;Clínico Epidemiológico;Autóctone;Cura
+2025-05-27;2025-05-27;CAJURU;F;Confirmado;30;Clínico Epidemiológico;Autóctone;Cura
+2025-05-28;2025-05-19;BOQUEIRAO;F;Confirmado;26;Clínico Epidemiológico;Autóctone;Cura
+2025-05-28;2025-05-25;BOQUEIRAO;M;Confirmado;24;Clínico Epidemiológico;Importado;Cura
+2025-05-28;2025-05-25;CAJURU;F;Confirmado;28;Clínico Epidemiológico;Autóctone;Cura
+2025-05-28;2025-05-27;ALTO BOQUEIRAO;M;Confirmado;33;Clínico Epidemiológico;Autóctone;Cura
+2025-05-28;2025-05-27;CAJURU;M;Confirmado;49;Clínico Epidemiológico;Autóctone;Cura
+2025-05-29;2025-05-24;BATEL;F;Confirmado;51;Clínico Epidemiológico;Importado;Cura
+2025-05-29;2025-05-24;BATEL;M;Confirmado;59;Clínico Epidemiológico;Importado;Cura
+2025-05-29;2025-05-24;CAJURU;M;Confirmado;21;Clínico Epidemiológico;Autóctone;Cura
+2025-05-29;2025-05-24;SITIO CERCADO;F;Confirmado;41;Clínico Epidemiológico;Autóctone;Cura
+2025-05-29;2025-05-26;SITIO CERCADO;M;Confirmado;65;Clínico Epidemiológico;Autóctone;Cura
+2025-05-29;2025-05-27;SANTA FELICIDADE;F;Confirmado;26;Laboratório;Autóctone;Cura
+2025-05-29;2025-05-28;ALTO BOQUEIRAO;M;Confirmado;16;Clínico Epidemiológico;Importado;Cura
+2025-05-29;2025-05-29;UBERABA;F;Confirmado;28;Clínico Epidemiológico;Importado;Cura
+2025-05-30;2025-05-28;HAUER;M;Confirmado;61;Clínico Epidemiológico;Autóctone;Cura
+2025-05-30;2025-05-29;BAIRRO ALTO;M;Confirmado;30;Laboratório;Autóctone;Cura
+2025-05-30;2025-05-29;CAJURU;M;Confirmado;47;Clínico Epidemiológico;Autóctone;Cura
+2025-05-30;2025-05-29;CRISTO REI;M;Confirmado;66;Clínico Epidemiológico;Importado;Cura
+2025-05-31;2025-05-30;AUGUSTA;M;Confirmado;50;Clínico Epidemiológico;Autóctone;Cura
+2025-05-31;2025-05-30;CIC (2);F;Confirmado;23;Laboratório;Importado;Cura
+2025-06-01;2025-05-29;CAPAO RASO;M;Confirmado;23;Clínico Epidemiológico;Autóctone;Cura
+2025-06-02;2025-05-25;BAIRRO ALTO;F;Confirmado;54;Laboratório;Importado;Cura
+2025-06-02;2025-05-30;PINHEIRINHO1;F;Confirmado;45;Clínico Epidemiológico;Autóctone;Cura
+2025-06-02;2025-06-01;SITIO CERCADO;F;Confirmado;40;Clínico Epidemiológico;Autóctone;Cura
+2025-06-02;2025-06-02;FANNY;F;Confirmado;85;Laboratório;Importado;Cura
+2025-06-03;2025-05-03;CIC (2);M;Confirmado;7;Clínico Epidemiológico;Autóctone;Cura
+2025-06-03;2025-05-31;CIC (2);M;Confirmado;35;Clínico Epidemiológico;Importado;Cura
+2025-06-03;2025-06-01;CIC (2);M;Confirmado;14;Clínico Epidemiológico;Autóctone;Cura
+2025-06-05;2025-05-19;ALTO BOQUEIRAO;M;Confirmado;68;Clínico Epidemiológico;Importado;Cura
+2025-06-05;2025-06-03;CAJURU;M;Confirmado;17;Clínico Epidemiológico;Autóctone;Cura
+2025-06-05;2025-06-05;SITIO CERCADO;M;Confirmado;3;Laboratório;Importado;Cura
+2025-06-06;2025-06-05;XAXIM;F;Confirmado;26;Clínico Epidemiológico;Autóctone;Cura
+2025-06-06;2025-06-06;CAJURU;M;Confirmado;22;Clínico Epidemiológico;Autóctone;Cura
+2025-06-06;2025-06-06;CAJURU;M;Confirmado;34;Clínico Epidemiológico;Autóctone;Cura
+2025-06-06;2025-06-06;JARDIM DAS AMERICAS;M;Confirmado;81;Clínico Epidemiológico;Autóctone;Cura
+2025-06-07;2025-06-03;CAXIMBA;F;Confirmado;15;Clínico Epidemiológico;Autóctone;Cura
+2025-06-07;2025-06-04;ALTO BOQUEIRAO;M;Confirmado;43;Clínico Epidemiológico;Autóctone;Cura
+2025-06-07;2025-06-07;SITIO CERCADO;M;Confirmado;5;Clínico Epidemiológico;Autóctone;Cura
+2025-06-08;2025-06-04;NOVO MUNDO;F;Confirmado;42;Clínico Epidemiológico;Autóctone;Cura
+2025-06-08;2025-06-07;BOQUEIRAO;M;Confirmado;41;Laboratório;Indeterminado;Cura
+2025-06-08;2025-06-08;CAJURU;F;Confirmado;22;Clínico Epidemiológico;Autóctone;Cura
+2025-06-09;2025-06-02;XAXIM;F;Confirmado;47;Clínico Epidemiológico;Autóctone;Cura
+2025-06-09;2025-06-03;CAJURU;F;Confirmado;19;Clínico Epidemiológico;Autóctone;Cura
+2025-06-09;2025-06-03;PINHEIRINHO1;F;Confirmado;35;Laboratório;Autóctone;Cura
+2025-06-10;2025-06-04;JARDIM DAS AMERICAS;M;Confirmado;21;Clínico Epidemiológico;Autóctone;Cura
+2025-06-11;2025-06-08;CAJURU;F;Confirmado;61;Clínico Epidemiológico;Autóctone;Cura
+2025-06-11;2025-06-08;SITIO CERCADO;M;Confirmado;46;Clínico Epidemiológico;Autóctone;Cura
+2025-06-11;2025-06-11;UBERABA;F;Confirmado;56;Clínico Epidemiológico;Autóctone;Cura
+2025-06-12;2025-06-11;CAPAO RASO;F;Confirmado;5;Clínico Epidemiológico;Autóctone;Cura
+2025-06-12;2025-06-12;ALTO BOQUEIRAO;M;Confirmado;24;Clínico Epidemiológico;Importado;Cura
+2025-06-13;2025-06-12;UBERABA;F;Confirmado;34;Clínico Epidemiológico;Autóctone;Cura
+2025-06-13;2025-06-13;UMBARA;M;Confirmado;22;Clínico Epidemiológico;Importado;Cura
+2025-06-17;2025-06-12;ALTO BOQUEIRAO;F;Confirmado;20;Clínico Epidemiológico;Autóctone;Cura
+2025-06-17;2025-06-12;BAIRRO ALTO;M;Confirmado;21;Laboratório;Importado;Cura
+2025-06-18;2025-06-15;CAJURU;F;Confirmado;7;Clínico Epidemiológico;Autóctone;Cura
+2025-06-21;2025-06-20;HAUER;M;Confirmado;32;Clínico Epidemiológico;Autóctone;Cura
+2025-06-22;2025-06-21;CIC (2);M;Confirmado;32;Clínico Epidemiológico;Autóctone;Cura
+2025-06-23;2025-06-17;BARREIRINHA;M;Confirmado;8;Laboratório;Importado;Cura
+2025-06-23;2025-06-21;CAJURU;F;Confirmado;36;Clínico Epidemiológico;Autóctone;Cura
+2025-06-24;2025-06-24;TATUQUARA;M;Confirmado;26;Clínico Epidemiológico;Autóctone;Cura
+2025-06-26;2025-06-23;ALTO BOQUEIRAO;M;Confirmado;45;Clínico Epidemiológico;Autóctone;Cura
+2025-06-28;2025-06-27;ALTO BOQUEIRAO;F;Confirmado;20;Clínico Epidemiológico;Autóctone;Cura
+2025-06-29;2025-06-27;SITIO CERCADO;F;Confirmado;30;Clínico Epidemiológico;Importado;Cura
+2025-06-29;2025-06-28;SITIO CERCADO;F;Confirmado;22;Clínico Epidemiológico;Autóctone;Cura
+2025-07-01;2025-06-30;ATUBA;F;Confirmado;37;Clínico Epidemiológico;Autóctone;Cura
+2025-07-04;2025-06-27;CIC (2);M;Confirmado;45;Laboratório;Autóctone;Cura
+2025-07-07;2025-07-05;SITIO CERCADO;M;Confirmado;19;Clínico Epidemiológico;Autóctone;Cura
+2025-07-11;2025-07-09;UBERABA;M;Confirmado;25;Clínico Epidemiológico;Importado;Cura
+2025-07-13;2025-07-10;CIC (2);M;Confirmado;37;Laboratório;Importado;Cura
+2025-07-13;2025-07-10;SITIO CERCADO;F;Confirmado;55;Clínico Epidemiológico;Autóctone;Cura
+2025-07-15;2025-07-15;CAJURU;M;Confirmado;25;Clínico Epidemiológico;Autóctone;Cura
+2025-07-16;2025-07-11;TINGUI;F;Confirmado;38;Clínico Epidemiológico;Autóctone;Cura
+2025-07-16;2025-07-15;CAMPO DE SANTANA;F;Confirmado;26;Clínico Epidemiológico;Autóctone;Cura
+2025-07-17;2025-07-16;CAJURU;F;Confirmado;32;Clínico Epidemiológico;Autóctone;Cura
+2025-07-18;2025-07-18;UBERABA;F;Confirmado;21;Clínico Epidemiológico;Autóctone;Cura
+2025-07-19;2025-07-18;SITIO CERCADO;M;Confirmado;43;Clínico Epidemiológico;Autóctone;Cura
+2025-07-21;2025-07-16;TATUQUARA;F;Confirmado;52;Laboratório;Importado;Cura
+2025-07-22;2025-07-17;XAXIM;F;Confirmado;60;Clínico Epidemiológico;Importado;Cura
+2025-07-25;2025-07-25;CAJURU;F;Confirmado;30;Clínico Epidemiológico;Autóctone;Cura
+2025-07-27;2025-07-25;GANCHINHO;M;Confirmado;15;Clínico Epidemiológico;Autóctone;Cura
+2025-07-27;2025-07-26;CAPAO DA IMBUIA;M;Confirmado;33;Laboratório;Autóctone;Cura
+2025-07-28;2025-07-21;UBERABA;F;Confirmado;42;Clínico Epidemiológico;Autóctone;Cura
+2025-07-28;2025-07-26;HAUER;F;Confirmado;61;Clínico Epidemiológico;Autóctone;Cura
+2025-07-31;2025-07-22;NOVO MUNDO;M;Confirmado;13;Laboratório;Importado;Cura
+2025-08-04;2025-07-26;SITIO CERCADO;F;Confirmado;23;Clínico Epidemiológico;Autóctone;Cura
+2025-08-04;2025-08-04;ALTO BOQUEIRAO;M;Confirmado;29;Clínico Epidemiológico;Autóctone;Cura
+2025-08-05;2025-07-29;GUABIROTUBA;M;Confirmado;20;Clínico Epidemiológico;Importado;Cura
+2025-08-05;2025-08-04;CAJURU;M;Confirmado;23;Laboratório;Autóctone;Cura
+2025-08-06;2025-07-28;BATEL;F;Confirmado;43;Clínico Epidemiológico;Autóctone;Cura
+2025-08-06;2025-08-03;CIC (2);F;Confirmado;24;Clínico Epidemiológico;Autóctone;Cura
+2025-08-06;2025-08-05;SITIO CERCADO;M;Confirmado;28;Clínico Epidemiológico;Autóctone;Cura
+2025-08-07;2025-08-05;CAPAO DA IMBUIA;F;Confirmado;50;Clínico Epidemiológico;Importado;Cura
+2025-08-11;2025-08-11;SITIO CERCADO;F;Confirmado;30;Clínico Epidemiológico;Autóctone;Cura
+2025-08-12;2025-08-10;CAJURU;M;Confirmado;16;Clínico Epidemiológico;Autóctone;Cura
+2025-08-12;2025-08-12;UBERABA;M;Confirmado;31;Clínico Epidemiológico;Autóctone;Cura
+2025-08-15;2025-08-12;UBERABA;F;Confirmado;39;Clínico Epidemiológico;Autóctone;Cura
+2025-08-17;2025-08-15;CIC (2);M;Confirmado;19;Clínico Epidemiológico;Autóctone;Cura
+2025-08-25;2025-08-18;XAXIM;M;Confirmado;30;Clínico Epidemiológico;Autóctone;Cura
+2025-08-25;2025-08-21;PORTAO;F;Confirmado;25;Clínico Epidemiológico;Importado;Cura
+2025-08-26;2025-08-24;SITIO CERCADO;F;Confirmado;31;Clínico Epidemiológico;Autóctone;Cura
+2025-08-31;2025-08-29;UBERABA1;M;Confirmado;22;Clínico Epidemiológico;Autóctone;Cura
+2025-09-01;2025-09-01;CIC (2);F;Confirmado;18;Clínico Epidemiológico;Importado;Cura
+2025-09-04;2025-09-02;CIC (2);F;Confirmado;65;Clínico Epidemiológico;Indeterminado;Cura
+2025-09-04;2025-09-03;CIC (2);M;Confirmado;14;Laboratório;Autóctone;Cura
+2025-09-09;2025-08-15;BOA VISTA;M;Confirmado;39;Laboratório;Importado;Cura
+2025-09-09;2025-09-03;MOSSUNGUE;F;Confirmado;53;Clínico Epidemiológico;Importado;Cura
+2025-09-12;2025-09-10;ATUBA;F;Confirmado;31;Clínico Epidemiológico;Importado;Cura
+2025-09-15;2025-09-04;MOSSUNGUE;F;Confirmado;53;Em investigação;Indeterminado;Não informado
+2025-09-16;2025-08-31;ALTO BOQUEIRAO;F;Confirmado;34;Laboratório;Autóctone;Cura
+2025-09-18;2025-09-14;BACACHERI;M;Confirmado;54;Laboratório;Importado;Cura
+2025-09-18;2025-09-15;GANCHINHO;M;Confirmado;35;Clínico Epidemiológico;Autóctone;Cura
+2025-09-18;2025-09-17;SITIO CERCADO;M;Confirmado;18;Clínico Epidemiológico;Autóctone;Cura
+2025-09-19;2025-09-10;BIGORRILHO1;F;Confirmado;35;Laboratório;Autóctone;Cura
+2025-09-22;2025-09-17;CRISTO REI;M;Confirmado;44;Clínico Epidemiológico;Importado;Cura
+2025-09-30;2025-09-09;BIGORRILHO;F;Confirmado;41;Laboratório;Autóctone;Cura
+2025-09-30;2025-09-28;TATUQUARA;M;Confirmado;25;Laboratório;Autóctone;Cura
+2025-10-01;2025-09-29;SITIO CERCADO;F;Confirmado;41;Clínico Epidemiológico;Autóctone;Cura
+2025-10-05;2025-10-05;GANCHINHO;M;Confirmado;9;Laboratório;Autóctone;Cura
+2025-10-08;2025-10-07;SITIO CERCADO;F;Confirmado;9;Clínico Epidemiológico;Autóctone;Cura
+2025-10-08;2025-10-08;GANCHINHO;F;Confirmado;14;Clínico Epidemiológico;Autóctone;Cura
+2025-10-12;2025-10-10;SITIO CERCADO;F;Confirmado;38;Clínico Epidemiológico;Autóctone;Cura
+2025-10-13;2025-10-10;CIC (2);M;Confirmado;43;Clínico Epidemiológico;Importado;Cura
+2025-10-14;2025-10-13;ALTO BOQUEIRAO;M;Confirmado;48;Clínico Epidemiológico;Autóctone;Cura
+2025-10-16;2025-10-14;;F;Confirmado;49;Clínico Epidemiológico;Indeterminado;Cura
+2025-10-16;2025-10-15;GANCHINHO;F;Confirmado;12;Clínico Epidemiológico;Autóctone;Cura
+2025-10-17;2025-10-13;CIC (2);F;Confirmado;43;Clínico Epidemiológico;Autóctone;Cura
+2025-10-19;2025-10-17;XAXIM;F;Confirmado;22;Clínico Epidemiológico;Autóctone;Cura
+2025-10-20;2025-10-15;CAJURU;F;Confirmado;24;Clínico Epidemiológico;Indeterminado;Cura
+2025-10-20;2025-10-18;UMBARA;M;Confirmado;11;Clínico Epidemiológico;Importado;Cura
+2025-10-21;2025-10-21;BIGORRILHO1;F;Confirmado;49;Clínico Epidemiológico;Autóctone;Cura
+2025-10-25;2025-10-23;UBERABA;M;Confirmado;48;Clínico Epidemiológico;Autóctone;Cura
+2025-10-26;2025-10-25;UMBARA;M;Confirmado;45;Clínico Epidemiológico;Autóctone;Cura
+2025-10-27;2025-10-20;XAXIM;F;Confirmado;52;Clínico Epidemiológico;Autóctone;Cura
+2025-11-02;2025-11-02;SITIO CERCADO;F;Confirmado;27;Clínico Epidemiológico;Autóctone;Cura
+2025-11-12;2025-11-11;SITIO CERCADO;F;Confirmado;43;Clínico Epidemiológico;Importado;Cura
+2025-11-14;2025-11-02;NOVO MUNDO;M;Confirmado;43;Laboratório;Indeterminado;Cura
+2025-11-17;2025-11-10;SANTA FELICIDADE;F;Confirmado;16;Laboratório;Autóctone;Cura
+2025-11-19;2025-11-12;SITIO CERCADO;F;Confirmado;22;Clínico Epidemiológico;Autóctone;Cura
+2025-12-02;2025-11-24;CAPAO RASO;M;Confirmado;65;Clínico Epidemiológico;Importado;Cura
+2025-12-02;2025-12-01;CIC (2);F;Confirmado;11;Clínico Epidemiológico;Autóctone;Cura
+2025-12-08;2025-11-24;CIC (2);F;Confirmado;45;Laboratório;Autóctone;Cura
+2025-12-09;2025-11-26;BATEL;M;Confirmado;48;Clínico Epidemiológico;Importado;Cura
+2025-12-11;2025-12-09;CIC (2);F;Confirmado;29;Clínico Epidemiológico;Importado;Cura
+2025-12-15;2025-12-01;PAROLIM;F;Confirmado;31;Laboratório;Autóctone;Cura
+2025-12-16;2025-12-15;GANCHINHO;F;Confirmado;29;Clínico Epidemiológico;Autóctone;Cura
+2025-12-17;2025-12-11;CIC (1);M;Confirmado;22;Laboratório;Importado;Cura
+2025-12-23;2025-12-23;SITIO CERCADO;M;Confirmado;67;Clínico Epidemiológico;Autóctone;Cura
+2025-12-26;2025-12-25;SAO BRAZ;M;Confirmado;55;Laboratório;Indeterminado;Cura
+2026-01-01;2025-12-21;CAJURU;M;Confirmado;19;Clínico Epidemiológico;Importado;Cura
+2026-01-02;2026-01-01;ATUBA;F;Confirmado;42;Clínico Epidemiológico;Importado;Cura
+2026-01-03;2026-01-01;BAIRRO ALTO;F;Confirmado;17;Laboratório;Importado;Cura
+2026-01-03;2026-01-02;CIC (2);F;Confirmado;48;Clínico Epidemiológico;Importado;Cura
+2026-01-04;2026-01-02;ALTO BOQUEIRAO;M;Confirmado;31;Clínico Epidemiológico;Autóctone;Cura
+2026-01-04;2026-01-03;CAJURU;M;Confirmado;43;Clínico Epidemiológico;Importado;Cura
+2026-01-05;2025-12-24;PINHEIRINHO;F;Confirmado;95;Clínico Epidemiológico;Importado;Cura
+2026-01-05;2026-01-02;BAIRRO ALTO;M;Confirmado;27;Laboratório;Importado;Cura
+2026-01-05;2026-01-03;UBERABA;M;Confirmado;53;Clínico Epidemiológico;Importado;Cura
+2026-01-06;2025-12-30;CABRAL;F;Confirmado;77;Laboratório;Importado;Cura
+2026-01-06;2026-01-02;UBERABA;F;Confirmado;47;Clínico Epidemiológico;Autóctone;Cura
+2026-01-06;2026-01-05;CIC (2);F;Confirmado;43;Clínico Epidemiológico;Autóctone;Cura
+2026-01-06;2026-01-05;CIC (2);F;Confirmado;68;Laboratório;Importado;Cura
+2026-01-06;2026-01-05;SITIO CERCADO;F;Confirmado;35;Clínico Epidemiológico;Importado;Cura
+2026-01-06;2026-01-06;CIC (2);M;Confirmado;21;Clínico Epidemiológico;Autóctone;Cura
+2026-01-07;2026-01-05;ALTO BOQUEIRAO;F;Confirmado;55;Laboratório;Autóctone;Cura
+2026-01-07;2026-01-06;CIC (2);F;Confirmado;39;Clínico Epidemiológico;Autóctone;Cura
+2026-01-07;2026-01-06;UBERABA;M;Confirmado;30;Clínico Epidemiológico;Autóctone;Cura
+2026-01-08;2026-01-05;TARUMA1;M;Confirmado;24;Clínico Epidemiológico;Autóctone;Cura
+2026-01-08;2026-01-06;CIC (2);M;Confirmado;47;Clínico Epidemiológico;Importado;Cura
+2026-01-08;2026-01-06;SITIO CERCADO;F;Confirmado;35;Clínico Epidemiológico;Importado;Cura
+2026-01-08;2026-01-07;CAJURU;F;Confirmado;47;Clínico Epidemiológico;Autóctone;Cura
+2026-01-08;2026-01-07;PINHEIRINHO;F;Confirmado;57;Clínico Epidemiológico;Importado;Cura
+2026-01-09;2026-01-04;PINHEIRINHO;F;Confirmado;51;Clínico Epidemiológico;Importado;Cura
+2026-01-09;2026-01-06;CIC (2);F;Confirmado;22;Clínico Epidemiológico;Importado;Cura
+2026-01-09;2026-01-07;CIC (2);F;Confirmado;28;Clínico Epidemiológico;Autóctone;Cura
+2026-01-09;2026-01-09;ALTO BOQUEIRAO;F;Confirmado;45;Laboratório;Autóctone;Cura
+2026-01-10;2026-01-09;ALTO BOQUEIRAO;F;Confirmado;21;Clínico Epidemiológico;Autóctone;Cura
+2026-01-11;2026-01-07;CIC (2);F;Confirmado;38;Clínico Epidemiológico;Autóctone;Cura
+2026-01-12;2025-12-21;CAPAO DA IMBUIA;M;Confirmado;24;Clínico Epidemiológico;Autóctone;Cura
+2026-01-12;2026-01-10;CIC (2);F;Confirmado;3;Clínico Epidemiológico;Importado;Cura
+2026-01-14;2026-01-12;CIC (2);M;Confirmado;54;Clínico Epidemiológico;Autóctone;Cura
+2026-01-14;2026-01-13;BIGORRILHO1;M;Confirmado;23;Clínico Epidemiológico;Importado;Cura
+2026-01-15;2026-01-12;BOQUEIRAO;M;Confirmado;57;Clínico Epidemiológico;Autóctone;Cura
+2026-01-15;2026-01-13;SANTA FELICIDADE;M;Confirmado;31;Clínico Epidemiológico;Autóctone;Cura
+2026-01-16;2026-01-08;SITIO CERCADO;F;Confirmado;38;Laboratório;Importado;Cura
+2026-01-16;2026-01-13;CIC (2);M;Confirmado;39;Clínico Epidemiológico;Autóctone;Cura
+2026-01-17;2026-01-15;BACACHERI;F;Confirmado;24;Clínico Epidemiológico;Importado;Cura
+2026-01-18;2026-01-12;XAXIM;M;Confirmado;40;Clínico Epidemiológico;Autóctone;Cura
+2026-01-18;2026-01-18;SITIO CERCADO;F;Confirmado;41;Clínico Epidemiológico;Importado;Cura
+2026-01-19;2026-01-16;CIC (2);M;Confirmado;19;Clínico Epidemiológico;Autóctone;Cura
+2026-01-19;2026-01-19;SITIO CERCADO;M;Confirmado;21;Clínico Epidemiológico;Importado;Cura
+2026-01-20;2026-01-14;CIC (2);F;Confirmado;65;Clínico Epidemiológico;Autóctone;Cura
+2026-01-20;2026-01-18;CIC (2);M;Confirmado;53;Clínico Epidemiológico;Autóctone;Cura
+2026-01-22;2026-01-17;CAJURU;F;Confirmado;36;Clínico Epidemiológico;Autóctone;Cura
+2026-01-22;2026-01-21;SITIO CERCADO;M;Confirmado;15;Laboratório;Autóctone;Cura
+2026-01-22;2026-01-21;UMBARA;M;Confirmado;33;Clínico Epidemiológico;Importado;Cura
+2026-01-26;2026-01-24;GUABIROTUBA;M;Confirmado;33;Clínico Epidemiológico;Autóctone;Cura
+2026-01-27;2026-01-26;CAJURU;M;Confirmado;13;Clínico Epidemiológico;Autóctone;Cura
+2026-01-28;2026-01-27;UBERABA;M;Confirmado;12;Clínico Epidemiológico;Importado;Cura
+2026-01-29;2026-01-27;UMBARA;F;Confirmado;22;Clínico Epidemiológico;Importado;Cura
+2026-01-31;2026-01-29;SITIO CERCADO;F;Confirmado;14;Laboratório;Autóctone;Cura
+2026-01-31;2026-01-31;MOSSUNGUE;M;Confirmado;48;Clínico Epidemiológico;Importado;Cura
+2026-02-02;2026-02-02;SITIO CERCADO;F;Confirmado;13;Clínico Epidemiológico;Autóctone;Cura
+2026-02-03;2026-01-31;SITIO CERCADO;M;Confirmado;70;Clínico Epidemiológico;Autóctone;Cura
+2026-02-03;2026-02-01;CIC (2);F;Confirmado;20;Clínico Epidemiológico;Importado;Cura
+2026-02-04;2026-01-31;SITIO CERCADO;M;Confirmado;31;Clínico Epidemiológico;Autóctone;Cura
+2026-02-04;2026-02-02;BAIRRO ALTO;M;Confirmado;61;Laboratório;Importado;Cura
+2026-02-04;2026-02-03;CIC (2);M;Confirmado;10;Clínico Epidemiológico;Autóctone;Cura
+2026-02-05;2026-02-02;ABRANCHES;M;Confirmado;66;Laboratório;Importado;Cura
+2026-02-10;2026-02-06;ALTO BOQUEIRAO;M;Confirmado;79;Laboratório;Autóctone;Cura
+2026-02-12;2026-02-12;CAJURU;M;Confirmado;10;Clínico Epidemiológico;Autóctone;Cura
+2026-02-13;2026-02-07;UBERABA;M;Confirmado;23;Clínico Epidemiológico;Autóctone;Cura
+2026-02-15;2026-02-13;SAO FRANCISCO;M;Confirmado;45;Clínico Epidemiológico;Importado;Cura
+2026-02-16;2026-02-15;GUABIROTUBA;F;Confirmado;39;Laboratório;Autóctone;Cura
+2026-02-16;2026-02-16;PORTAO;M;Confirmado;44;Clínico Epidemiológico;Autóctone;Cura
+2026-02-17;2026-02-17;PINHEIRINHO;F;Confirmado;19;Laboratório;Autóctone;Cura
+2026-02-18;2026-02-17;XAXIM;M;Confirmado;61;Laboratório;Autóctone;Cura
+2026-02-19;2026-02-13;BOA VISTA;F;Confirmado;56;Laboratório;Importado;Cura
+2026-02-19;2026-02-18;SITIO CERCADO;F;Confirmado;3;Laboratório;Autóctone;Cura
+2026-02-21;2026-02-20;ABRANCHES;M;Confirmado;23;Clínico Epidemiológico;Autóctone;Cura
+2026-02-21;2026-02-21;GUAIRA;F;Confirmado;25;Clínico Epidemiológico;Importado;Cura
+2026-02-22;2026-02-19;CAJURU;M;Confirmado;57;Clínico Epidemiológico;Autóctone;Cura
+2026-02-22;2026-02-20;CAJURU;M;Confirmado;32;Clínico Epidemiológico;Autóctone;Cura
+2026-02-22;2026-02-22;CIC (2);M;Confirmado;18;Clínico Epidemiológico;Autóctone;Cura
+2026-02-22;2026-02-22;CIC (2);M;Confirmado;31;Clínico Epidemiológico;Autóctone;Cura
+2026-02-23;2026-02-12;CAJURU;M;Confirmado;27;Clínico Epidemiológico;Autóctone;Cura
+2026-02-24;2026-02-20;CAJURU;F;Confirmado;49;Clínico Epidemiológico;Autóctone;Cura
+2026-02-24;2026-02-23;CIC (2);M;Confirmado;29;Clínico Epidemiológico;Autóctone;Cura
+2026-02-25;2026-02-24;CAJURU;M;Confirmado;26;Clínico Epidemiológico;Autóctone;Cura
+2026-02-25;2026-02-24;GANCHINHO;F;Confirmado;42;Clínico Epidemiológico;Autóctone;Cura
+2026-02-25;2026-02-25;CAJURU;M;Confirmado;35;Clínico Epidemiológico;Importado;Cura
+2026-02-26;2026-02-21;CAJURU;M;Confirmado;32;Clínico Epidemiológico;Autóctone;Cura
+2026-03-01;2026-02-27;SITIO CERCADO;F;Confirmado;55;Clínico Epidemiológico;Autóctone;Cura
+2026-03-02;2026-02-26;CAPAO RASO;M;Confirmado;37;Laboratório;Importado;Cura
+2026-03-02;2026-02-27;BOQUEIRAO;M;Confirmado;52;Clínico Epidemiológico;Autóctone;Cura
+2026-03-02;2026-03-01;CACHOEIRA;F;Confirmado;24;Clínico Epidemiológico;Autóctone;Cura
+2026-03-02;2026-03-01;SITIO CERCADO;M;Confirmado;26;Clínico Epidemiológico;Autóctone;Cura
+2026-03-03;2026-03-03;ALTO BOQUEIRAO;M;Confirmado;56;Clínico Epidemiológico;Autóctone;Cura
+2026-03-07;2026-03-07;CIC (2);M;Confirmado;9;Clínico Epidemiológico;Autóctone;Cura
+2026-03-08;2026-03-06;ATUBA;F;Confirmado;28;Laboratório;Autóctone;Cura
+2026-03-11;2026-03-07;SAO FRANCISCO;F;Confirmado;40;Clínico Epidemiológico;Importado;Cura
+2026-03-11;2026-03-08;ATUBA;F;Confirmado;36;Laboratório;Autóctone;Cura
+2026-03-11;2026-03-08;SITIO CERCADO;F;Confirmado;58;Clínico Epidemiológico;Autóctone;Cura
+2026-03-12;2026-03-05;SAO FRANCISCO;F;Confirmado;44;Laboratório;Autóctone;Cura
+2026-03-14;2026-03-12;CAJURU;F;Confirmado;5;Clínico Epidemiológico;Autóctone;Cura
+2026-03-16;2026-03-16;CIC (2);F;Confirmado;16;Clínico Epidemiológico;Autóctone;Cura
+2026-03-17;2026-03-13;LINDOIA;M;Confirmado;53;Clínico Epidemiológico;Importado;Cura
+2026-03-17;2026-03-16;SITIO CERCADO;F;Confirmado;27;Clínico Epidemiológico;Autóctone;Cura
+2026-03-18;2026-03-15;SITIO CERCADO;F;Confirmado;45;Clínico Epidemiológico;Importado;Cura
+2026-03-18;2026-03-17;CIC (2);M;Confirmado;9;Clínico Epidemiológico;Autóctone;Cura
+2026-03-19;2026-03-18;UBERABA;F;Confirmado;39;Laboratório;Autóctone;Cura
+2026-03-19;2026-03-19;ABRANCHES;M;Confirmado;45;Laboratório;Autóctone;Cura
+2026-03-20;2026-03-18;FANNY;F;Confirmado;20;Clínico Epidemiológico;Autóctone;Cura
+2026-03-23;2026-03-13;BOQUEIRAO;F;Confirmado;48;Laboratório;Autóctone;Cura
+2026-03-23;2026-03-20;SITIO CERCADO;M;Confirmado;24;Clínico Epidemiológico;Autóctone;Cura
+2026-03-24;2026-03-19;CIC (2);F;Confirmado;25;Laboratório;Autóctone;Cura
+2026-03-24;2026-03-23;CIC (2);F;Confirmado;50;Clínico Epidemiológico;Autóctone;Cura
+2026-03-24;2026-03-23;CIC (2);M;Confirmado;6;Clínico Epidemiológico;Autóctone;Cura
+2026-03-24;2026-03-24;SITIO CERCADO;F;Confirmado;8;Clínico Epidemiológico;Autóctone;Cura
+2026-03-25;2026-03-25;CAMPO COMPRIDO (2);F;Confirmado;21;Clínico Epidemiológico;Autóctone;Cura
+2026-03-27;2026-03-26;CAJURU;M;Confirmado;25;Clínico Epidemiológico;Autóctone;Cura
+2026-03-27;2026-03-26;UBERABA;F;Confirmado;42;Clínico Epidemiológico;Autóctone;Cura
+2026-03-28;2026-03-27;SITIO CERCADO;F;Confirmado;45;Clínico Epidemiológico;Autóctone;Cura
+2026-03-28;2026-03-28;CIC (2);M;Confirmado;34;Clínico Epidemiológico;Autóctone;Cura
+2026-03-29;2026-03-25;CAJURU;F;Confirmado;15;Clínico Epidemiológico;Autóctone;Cura
+2026-03-30;2026-03-27;UMBARA;M;Confirmado;13;Laboratório;Autóctone;Cura
+2026-03-30;2026-03-28;SITIO CERCADO;M;Confirmado;4;Clínico Epidemiológico;Importado;Cura
+2026-03-30;2026-03-30;SITIO CERCADO;M;Confirmado;12;Laboratório;Autóctone;Cura
+2026-04-01;2026-03-27;XAXIM;M;Confirmado;28;Clínico Epidemiológico;Autóctone;Cura
+2026-04-01;2026-03-28;ORLEANS;F;Confirmado;51;Clínico Epidemiológico;Importado;Cura
+2026-04-01;2026-03-29;SITIO CERCADO;M;Confirmado;45;Clínico Epidemiológico;Autóctone;Cura
+2026-04-01;2026-03-31;SEMINARIO;M;Confirmado;41;Laboratório;Importado;Cura
+2026-04-02;2026-04-01;CIC (2);F;Confirmado;36;Clínico Epidemiológico;Autóctone;Cura
+2026-04-02;2026-04-01;SITIO CERCADO;M;Confirmado;27;Clínico Epidemiológico;Autóctone;Cura
+2026-04-07;2026-04-06;NOVO MUNDO;M;Confirmado;45;Clínico Epidemiológico;Importado;Cura
+2026-04-07;2026-04-06;SITIO CERCADO;M;Confirmado;8;Clínico Epidemiológico;Autóctone;Cura
+2026-04-08;2026-04-02;GANCHINHO;F;Confirmado;7;Laboratório;Autóctone;Cura
+2026-04-08;2026-04-05;UBERABA;F;Confirmado;19;Clínico Epidemiológico;Autóctone;Cura
+2026-04-09;2026-03-20;CIC (2);F;Confirmado;28;Laboratório;Autóctone;Cura
+2026-04-10;2026-04-10;CAJURU;F;Confirmado;5;Clínico Epidemiológico;Autóctone;Cura
+2026-04-12;2026-04-10;CAJURU;M;Confirmado;28;Clínico Epidemiológico;Autóctone;Cura
+2026-04-13;2026-03-28;PINHEIRINHO;M;Confirmado;34;Laboratório;Importado;Cura
+2026-04-14;2026-04-11;BOA VISTA;F;Confirmado;37;Laboratório;Importado;Cura
+2026-04-15;2026-04-04;HUGO LANGE;F;Confirmado;15;Clínico Epidemiológico;Autóctone;Cura
+2026-04-16;2026-04-15;CIC (2);M;Confirmado;63;Laboratório;Importado;Cura
+2026-04-16;2026-04-15;SITIO CERCADO;F;Confirmado;34;Clínico Epidemiológico;Importado;Cura
+2026-04-17;2026-04-13;BATEL;F;Confirmado;60;Clínico Epidemiológico;Importado;Cura
+2026-04-17;2026-04-16;CIC (2);F;Confirmado;56;Clínico Epidemiológico;Importado;Cura
+2026-04-18;2026-03-19;MERCES;F;Confirmado;57;Laboratório;Importado;Cura
+2026-04-18;2026-04-15;NOVO MUNDO;F;Confirmado;41;Laboratório;Autóctone;Cura
+2026-04-18;2026-04-17;CAJURU;M;Confirmado;5;Clínico Epidemiológico;Autóctone;Cura
+2026-04-19;2026-04-19;XAXIM;M;Confirmado;16;Laboratório;Autóctone;Cura
+2026-04-20;2026-04-19;CAJURU;F;Confirmado;3;Clínico Epidemiológico;Autóctone;Cura
+2026-04-23;2026-04-21;SITIO CERCADO;M;Confirmado;69;Laboratório;Importado;Cura
+2026-04-23;2026-04-22;GANCHINHO;M;Confirmado;35;Clínico Epidemiológico;Autóctone;Cura
+2026-04-23;2026-04-22;SITIO CERCADO;M;Confirmado;9;Clínico Epidemiológico;Autóctone;Cura
+2026-04-24;2026-04-24;SITIO CERCADO;M;Confirmado;25;Clínico Epidemiológico;Autóctone;Cura
+2026-04-25;2026-04-23;SITIO CERCADO;F;Confirmado;58;Clínico Epidemiológico;Autóctone;Cura
+2026-04-27;2026-04-27;GANCHINHO;M;Confirmado;7;Clínico Epidemiológico;Autóctone;Cura
+2026-04-28;2026-04-26;BAIRRO ALTO;F;Confirmado;35;Clínico Epidemiológico;Importado;Cura
+2026-04-30;2026-04-20;BOQUEIRAO;M;Confirmado;34;Laboratório;Autóctone;Cura
+2026-05-04;2026-05-01;NOVO MUNDO;M;Confirmado;30;Clínico Epidemiológico;Autóctone;Cura
+2026-05-04;2026-05-01;XAXIM;F;Confirmado;40;Laboratório;Autóctone;Cura
+2026-05-08;2026-04-08;BACACHERI;M;Confirmado;29;Clínico Epidemiológico;Importado;Cura
+2026-05-14;2026-05-11;SITIO CERCADO;M;Confirmado;53;Clínico Epidemiológico;Autóctone;Cura
+2026-05-14;2026-05-14;SITIO CERCADO;F;Confirmado;55;Clínico Epidemiológico;Autóctone;Cura
+2026-05-17;2026-05-12;GANCHINHO;M;Confirmado;32;Clínico Epidemiológico;Importado;Cura
+2026-05-23;2026-05-15;SITIO CERCADO;F;Confirmado;55;Clínico Epidemiológico;Autóctone;Cura
+2026-06-07;2026-06-04;CAJURU;F;Confirmado;32;Clínico Epidemiológico;Autóctone;Cura
+2026-06-07;2026-06-07;HAUER;F;Confirmado;23;Clínico Epidemiológico;Autóctone;Cura
+2026-06-09;2026-06-01;SITIO CERCADO;F;Confirmado;35;Clínico Epidemiológico;Autóctone;Cura
+2026-06-10;2026-06-05;BOQUEIRAO;M;Confirmado;71;Clínico Epidemiológico;Indeterminado;1
+2026-06-10;2026-06-05;SANTA FELICIDADE;I;Confirmado;22;Em investigação;Indeterminado;Não informado
+2026-06-10;2026-06-10;TATUQUARA;F;Confirmado;58;Laboratório;Indeterminado;Cura
+2026-06-11;2026-06-06;SITIO CERCADO;F;Confirmado;52;Clínico Epidemiológico;Indeterminado;1
+2026-06-15;2026-06-09;SANTO INACIO;F;Confirmado;16;Clínico Epidemiológico;Indeterminado;1
+2026-06-18;2026-06-18;CIC (2);M;Confirmado;17;Clínico Epidemiológico;Indeterminado;1
+2026-06-30;2026-06-25;XAXIM;F;Confirmado;32;Clínico Epidemiológico;Indeterminado;1
+2026-06-30;2026-06-26;XAXIM;F;Confirmado;32;Clínico Epidemiológico;Indeterminado;1
+2026-07-07;2026-07-05;SITIO CERCADO;M;Confirmado;50;Clínico Epidemiológico;Indeterminado;1
+2026-07-08;2026-03-30;SITIO CERCADO;F;Confirmado;40;Laboratório;Indeterminado;1
+2026-07-08;2026-04-30;GANCHINHO;F;Confirmado;44;Laboratório;Indeterminado;1
+2026-07-30;2026-07-26;BACACHERI;M;Confirmado;69;Em investigação;Indeterminado;Sem informação
+2026-07-30;2026-07-27;XAXIM;M;Confirmado;23;Clínico Epidemiológico;Indeterminado;1
+2026-07-31;2026-07-26;CIC (2);M;Confirmado;38;Clínico Epidemiológico;Indeterminado;1
+2026-08-12;2026-08-10;PILARZINHO;F;Confirmado;27;Clínico Epidemiológico;Indeterminado;9
+2026-08-26;2026-08-15;PILARZINHO;F;Confirmado;33;Laboratório;Indeterminado;1
