@@ -6,7 +6,7 @@ Cinco gráficos sobre notificações de dengue em Curitiba.
 |---|---|
 | `mapa.R` | Coroplético: casos por 10 mil hab. por bairro |
 | `pirulito.R` | Top 7 bairros por total absoluto |
-| `histograma.R` | Casos por semana epidemiológica |
+| `histograma.R` | Casos por semana |
 | `piramide.R` | Pirâmide etária por sexo |
 | `waffle.R` | Origem de infecção (autóctone × importado) |
 
